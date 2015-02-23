@@ -1,21 +1,21 @@
 ---
 layout: blogindex
 rel: '/home'
-title: 'Wohnideen'
-description: 'Блогът на Ачерно за интериор и обазавеждане. Хиляди идеи за интериорен дизайн, мебели и интересни интериорни решения.'
-paging: 'интериор'
+title: 'Wohn- und Einrichtungsideen'
+description: 'Das Acherno Interior Design Blog. Unzählige Ideen für Inneneinrichtung, Wohndesign und intereresante Raumlösungen.'
+paging: 'Interior Design'
 web:
-  title: '(Официален сайт) [на acherno.de]'
-  description: 'Ние обхващаме всичко свързано с един интериорен дизайн от проекта до неговата реализация.'
+  title: '(offizielle Seite) [acherno.de]'
+  description: 'Von der Idee bis zur Realisierung - wir sind dein Ansprechpartner für alle Fragen rund um Interior Design.'
   url: 'http://acherno.de'
   domain: 'acherno.de'
 facebook:
-  title: '(Станете ни приятели) [в Facebook.com]'
-  description: 'Pазгледайте снимки от международни изложения, коментирайте нашитe проекти или следeте за нови.'
+  title: '(Besuche uns auf Facebook) [Facebook.com]'
+  description: 'Kommentiere unsere Projekte und folge dem Blog um über das Neueste informiert zu sein.'
   url: 'http://www.facebook.com/acherno.interior.design'
 copyright:
-  acherno: '(Ачерно) ЕООД © 2007-2014|(Всички права запазени)'
+  acherno: '(Acherno) GmbH © 2007-2014|(Alle Rechte vorbehalten)'
   almero: 
-    title: '(Дигитален Маркетинг) и|(Бизнес) развитие'
+    title: '(Online Marketing) und|(Business) Entwicklung'
     url: http://almero.bg
 ---
