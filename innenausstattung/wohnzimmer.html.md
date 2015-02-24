@@ -5,6 +5,6 @@ title: 'Хол и всекидневна'
 parent: '/home'
 subtitle: 'Интериор и обазавеждане на хол и всекидневна'
 isPaged: true
-pagedCollection: 'livingroomPosts.interiorendizain.com'
+pagedCollection: 'livingroomPosts.interiorideen.com'
 pageSize: 9
 ---

@@ -5,6 +5,6 @@ title: 'Спалня'
 parent: '/home'
 subtitle: 'Интериор и обазавеждане на спалня'
 isPaged: true
-pagedCollection: 'bedroomPosts.interiorendizain.com'
+pagedCollection: 'bedroomPosts.interiorideen.com'
 pageSize: 9
 ---

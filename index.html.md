@@ -3,9 +3,9 @@ layout: blogindex
 rel: '/home'
 title: 'Wohn- und Einrichtungsideen'
 description: 'Das Acherno Interior Design Blog. Unzählige Ideen für Inneneinrichtung, Wohndesign und intereresante Raumlösungen.'
-paging: 'Interior Design'
+paging: 'interior'
 web:
-  title: '(offizielle Seite) [acherno.de]'
+  title: '(Offizielle Seite) [acherno.de]'
   description: 'Von der Idee bis zur Realisierung - wir sind dein Ansprechpartner für alle Fragen rund um Interior Design.'
   url: 'http://acherno.de'
   domain: 'acherno.de'
@@ -17,5 +17,5 @@ copyright:
   acherno: '(Acherno) GmbH © 2007-2014|(Alle Rechte vorbehalten)'
   almero: 
     title: '(Online Marketing) und|(Business) Entwicklung'
-    url: http://almero.bg
+    url: http://almero.com
 ---

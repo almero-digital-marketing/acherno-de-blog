@@ -5,6 +5,6 @@ title: 'Баня и тоалетна'
 parent: '/home'
 subtitle: 'Интериор и обазавеждане на баня и тоалетна'
 isPaged: true
-pagedCollection: 'bathroomPosts.interiorendizain.com'
+pagedCollection: 'bathroomPosts.interiorideen.com'
 pageSize: 9
 ---

@@ -5,6 +5,6 @@ title: 'Жилищен интериор'
 parent: '/home'
 subtitle: 'Интериор и обзавеждане на апратамент или къща'
 isPaged: true
-pagedCollection: 'privatePosts.interiorendizain.com'
+pagedCollection: 'privatePosts.interiorideen.com'
 pageSize: 9
 ---
