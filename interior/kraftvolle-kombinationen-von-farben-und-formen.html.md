@@ -101,7 +101,7 @@ Ein Innendesign im Asia –Style mit den typischen Farben und Formen.  Schlicht 
 
 Auch die gegenüberliegende Wand haben wir in Wasabi getaucht und mit einem Fernseher garniert.
 
-![Inneneinrichtung  Kinderzimmer](игра-на-светлина-цветове-и-форми-в-апартамент-със-съвременен-интериор/inneneinrichtung-kinderzimmer.jpg)
+![Inneneinrichtung  Kinderzimmer](kraftvolle-kombinationen-von-farben-und-formen/inneneinrichtung-kinderzimmer.jpg)
 ### Inneneinrichtung  **Kinderzimmer**
 
 Multicolor – ein Kinderzimmer das in heiteren Farben eingerichtet ist.  Türkis, Gelb, Braun, Schwarz und Weiß sind die Farben die das Design dieses Zimmers bestimmen. Funktionale Möbel bieten den nötigen Stauraum und ein Schreibtisch genug Arbeitsfläche für die Hausaufgaben. 

@@ -5,10 +5,15 @@ title: 'Wohn- und Einrichtungsideen'
 description: 'Das Acherno Interior Design Blog. Unzählige Ideen für Inneneinrichtung, Wohndesign und intereresante Raumlösungen.'
 paging: 'interior'
 web:
-  title: '(Offizielle Seite) [acherno.de]'
+  title: '(Offizielle Seite) [Acherno]'
   description: 'Von der Idee bis zur Realisierung - wir sind dein Ansprechpartner für alle Fragen rund um Interior Design.'
-  url: 'http://acherno.de'
-  domain: 'acherno.de'
+  domains: 
+    - 
+      name: 'acherno.de'
+      geoip: 'de'
+    - 
+      name: 'acherno.at'
+      geoip: 'at'
 facebook:
   title: '(Besuche uns auf Facebook) [Facebook.com]'
   description: 'Kommentiere unsere Projekte und folge dem Blog um über das Neueste informiert zu sein.'

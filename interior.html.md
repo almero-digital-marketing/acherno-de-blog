@@ -2,6 +2,6 @@
 title: 'Статии за интериорен дизайн'
 layout: 'blogposts'
 isPaged: true
-pagedCollection: 'posts.interiorendizain.com'
+pagedCollection: 'posts.interiorideen.com'
 pageSize: 9
 ---

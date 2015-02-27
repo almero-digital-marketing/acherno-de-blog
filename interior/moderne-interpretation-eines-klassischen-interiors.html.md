@@ -264,7 +264,7 @@ Eine fantasievolle bunte Welt, die Kinderherzen höher schlagen lässt. Zitronen
 
 Das Kind gerechte Mobiliar ist farblich passend gestrichen und bietet genug Stauraum und Flexibilität für jede Gelegenheit! 
 
-![Interior Gästezimmer](moderne-interpretation-eines-klassischen-interiors/innendesign-gästezimmer.jpg)
+![Interior Gästezimmer](moderne-interpretation-eines-klassischen-interiors/einrichtung-gästezimmer.jpg)
 ### Interior **Gästezimmer**
 
 Ihre Gäste werden sich hier wie in einem fünf Sterne Hotel fühlen.  Hier hat der Hausherr wirklich an alles gedacht. Gehobener Schlafkomfort und ein Tageslichtbüro.
