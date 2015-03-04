@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/private'
-title: 'Жилищен интериор'
+title: 'Inneneinrichtung Wohnung'
 parent: '/home'
-subtitle: 'Интериор и обзавеждане на апратамент или къща'
+subtitle: 'Inneneinrichtung Haus und Wohnung'
 isPaged: true
 pagedCollection: 'privatePosts.interiorideen.com'
 pageSize: 9

@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/livingroom'
-title: 'Хол и всекидневна'
+title: 'Wohnzimmer'
 parent: '/home'
-subtitle: 'Интериор и обазавеждане на хол и всекидневна'
+subtitle: 'Inneneinrichtung und Einrichtung Wohnzimmer'
 isPaged: true
 pagedCollection: 'livingroomPosts.interiorideen.com'
 pageSize: 9

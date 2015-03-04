@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/public'
-title: 'Обществен интериор'
+title: 'Öffentlicher Raum'
 parent: '/home'
-subtitle: 'Интериор на офис, магазин, ресторант, бар или хотел'
+subtitle: 'Inneneinrichtung Büro, Laden, Clubs und Hotels'
 isPaged: true
 pagedCollection: 'publicPosts.interiorideen.com'
 pageSize: 9

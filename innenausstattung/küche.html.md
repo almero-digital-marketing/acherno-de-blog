@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/kitchen'
-title: 'Куня и трапезария'
+title: 'Küche und Esszimmer'
 parent: '/home'
-subtitle: 'Интериор и обазавеждане на куня и трапезария'
+subtitle: 'Innestatung und Einrichtung Küche und Esszimmer'
 isPaged: true
 pagedCollection: 'kitchenPosts.interiorideen.com'
 pageSize: 9

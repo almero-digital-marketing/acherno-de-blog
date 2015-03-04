@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/bathroom'
-title: 'Баня и тоалетна'
+title: 'Badezimmer'
 parent: '/home'
-subtitle: 'Интериор и обазавеждане на баня и тоалетна'
+subtitle: 'Innenausstattung von Badezimmer'
 isPaged: true
 pagedCollection: 'bathroomPosts.interiorideen.com'
 pageSize: 9

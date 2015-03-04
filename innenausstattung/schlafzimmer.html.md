@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/bedroom'
-title: 'Спалня'
+title: 'Schlafzimmer'
 parent: '/home'
-subtitle: 'Интериор и обазавеждане на спалня'
+subtitle: 'Inneneinrichtung und Einrichtung Schlafzimmer'
 isPaged: true
 pagedCollection: 'bedroomPosts.interiorideen.com'
 pageSize: 9

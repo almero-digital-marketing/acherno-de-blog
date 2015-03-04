@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/nursery'
-title: 'Детска стая'
+title: 'Kinderzimmer'
 parent: '/home'
-subtitle: 'Интериор и обазавеждане на детска стая'
+subtitle: 'Inneneinrichtung Kinderzimmer'
 isPaged: true
 pagedCollection: 'nurseryPosts.interiorideen.com'
 pageSize: 9
