@@ -19,7 +19,7 @@ facebook:
   description: 'Kommentiere unsere Projekte und folge dem Blog um über das Neueste informiert zu sein.'
   url: 'http://www.facebook.com/acherno.interior.design'
 copyright:
-  acherno: '(Acherno) GmbH © 2007-2014|(Alle Rechte vorbehalten)'
+  acherno: '(Acherno) GmbH © 2007-2015|(Alle Rechte vorbehalten)'
   almero: 
     title: '(Online Marketing) und|(Business) Entwicklung'
     url: http://almero.com
