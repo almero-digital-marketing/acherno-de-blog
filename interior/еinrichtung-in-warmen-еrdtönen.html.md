@@ -92,7 +92,7 @@ Eine königliche Sitzlandschaft in hellem Graphit markiert den Wohnbereich und b
 -   ### Einrichtung **Wohnzimmer**
     ![Einrichtung Wohnzimmer](einrichtung-in-warmen-erdtönen/einrichtung-wohnzimmer.jpg)
 
-Deckenelemente, Vorhänge und Dekokissen in Terrakotta bilden einen perfekten Rahmen und lassen das Maisgelb der Wandgemälde noch heller erstrahlen. Der dunklen Bodenbelag beruhig und rundet das Design stilvoll ab.
+Deckenelemente, Vorhänge und Dekokissen in Terrakotta bilden einen perfekten Rahmen und lassen das Maisgelb der Wandgemälde noch heller erstrahlen. Der dunklen Bodenbelag beruhigt und rundet das Design stilvoll ab.
 
 ![Einrichtung Küche und Esszimmer](einrichtung-in-warmen-erdtönen/einrichtung-küche-und-esszimmer.jpg)
 ### Einrichtung **Küche und Esszimmer**
@@ -119,7 +119,7 @@ Ein großer Schuhschrank bietet nicht nur den nötigen Stauraum, sondern er ist 
 ![Begehbaren Kleiderschrank](einrichtung-in-warmen-erdtönen/begehbaren-kleiderschrank.jpg)
 ### Begehbaren **Kleiderschrank**
 
-Girls best friend! Ein begehbarer Kleiderschrank, das ist längst nicht mehr nur ein must have für  exzentrischen Ladies. Heute gehört er in jeder moderner Wohnung. Dieser ist zwar nicht der größte, aber sehr funktional, mit mehreren Regalen und viele Platz für ihre neuesten Kollektionen.
+Girls best friend! Ein begehbarer Kleiderschrank, das ist längst nicht mehr nur ein Must Have für exzentrischen Ladies. Heute gehört er in jeder moderner Wohnung. Dieser ist zwar nicht der größte, aber sehr funktional, mit mehreren Regalen und viele Platz für ihre neuesten Kollektionen.
 
 ![Inneneinrichtung Schlafzimmer](einrichtung-in-warmen-erdtönen/inneneinrichtung-schlafzimmer.jpg)
 ### Inneneinrichtung **Schlafzimmer**
@@ -134,7 +134,7 @@ Die Möbel sind in schlichtem Weiß gehalten.
 ![Innendesign Gästeschlafzimmer](einrichtung-in-warmen-erdtönen/innendesign-gästeschlafzimmer.jpg)
 ### Innendesign **Gästeschlafzimmer**
 
-Altrosa und Lila setzten die Akzente in zweitem Schlafzimmer. Vor einem Hintergrund vom hellgrau und beige wirkt diese Kombination von Rosatönen besonders brillant. Durch künstliches Volumen haben wir das Zimmer vergrößert und ein einzigartiges Design geschaffen.
+Altrosa und Lila setzten die Akzente in zweitem Schlafzimmer. Vor einem Hintergrund vom Hellgrau und Beige wirkt diese Kombination von Rosatönen besonders brillant. Durch künstliches Volumen haben wir das Zimmer vergrößert und ein einzigartiges Design geschaffen.
 
 -   ### Interior Design **Gästeschlafzimmer**
     ![Interior Design Gästeschlafzimmer](einrichtung-in-warmen-erdtönen/interior-design-gästeschlafzimmer.jpg)
@@ -150,7 +150,7 @@ Modern gelöst! Badezimmer und WC wurden voneinander getrennt. Edle Fliesen in b
 -   ### Inneneinrichtung **Toilette**
     ![Inneneinrichtung Toilette](einrichtung-in-warmen-erdtönen/inneneinrichtung-toilette.jpg)
 
-Die Dusche ist in dem gleichem Design gehalten, sodass beide sich perfekt ergänzen und eine Perfektion von Ästhetik und Funktionalität bilden.
+Die Dusche ist in dem gleichem Design gehalten, sodass beide sich gut ergänzen und eine Perfektion von Ästhetik und Funktionalität bilden.
 
 -   ### Einrichtung **Badezimmer**
     ![Einrichtung Badezimmer](einrichtung-in-warmen-erdtönen/einrichtung-badezimmer.jpg)
