@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: '(Stillvolles Apartment) in hellen und freundlichen Tönen'
-description: 'Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Interior Design eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen,  graphischen Muster, praktische Möbel, Pastellfarben, die mit Farbakzente in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden. '
+description: 'Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Interior Design eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen, graphischen Muster, praktische Möbel, Pastellfarben, die mit Farbakzente in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden. '
 date: 2015-01-27
 cover: 'http://hub.acherno.com/svn/haus-of-vanity/Site/3D/4.01-h_f.jpg'
 images:
