@@ -3,7 +3,7 @@ layout: blogpost
 title: 'Moderne Interpretation eines (klassischen Interiors)'
 description: 'Was ist ein Leben schon wert ohne ein schönes Heim?  Hier ist das gelungene Endergebnis einer vollständigen Renovierung eines zwei stöckigen Wohnhauses. Eine klassische Interpretation von gediegenem Wohnambiente in hellen und warmen Tönen.'
 date: 2015-02-26
-cover: 'http://hub.acherno.com/svn/klasika-v-janra/Facebook/04-h_f.jpg'
+cover: 'http://hub.acherno.com/svn/klasika-v-janra/Facebook/04-h_f_hd.jpg'
 firstPage: true
 images:
   -
