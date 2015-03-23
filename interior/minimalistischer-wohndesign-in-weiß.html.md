@@ -4,6 +4,7 @@ title: '(Minimalistischer Wohndesign) in Weiß'
 description: 'Minimalistisch, aber nicht clean! Dieses Wohndesign eignet sich mit seinen klaren Linien und reduzierten Einrichtung besonders gut für Menschen, die gerne auf nichts verzichten und sich trotzdem nur auf die wesentlichen Dinge konzentrieren und sich nicht ablenken lassen wollen. '
 date: 2015-03-30
 cover: 'http://hub.acherno.com/svn/bqlata-kyshta/Facebook/02-h_f.jpg'
+firstPage: true
 images:
   -
     url: 'http://hub.acherno.com/svn/bqlata-kyshta/Facebook/02-h_f.jpg'

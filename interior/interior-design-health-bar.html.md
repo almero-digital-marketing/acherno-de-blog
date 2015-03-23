@@ -4,6 +4,7 @@ title: '(Interior Design) Health Bar'
 description: 'Shake, Mixen, Snacken – warum sollte man beim Shopping auf eine gesunde Ernährungsweise wie zum Beispiel einen Health Drink und leckere Salate verzichten? Eine hippe Health Bar in mitten einer Shoppingmall. Eine wahre Energietankstelle für Smoothies und Co. Gesundes Essen und Trinken war noch nie so IN wie jetzt! '
 date: 2015-03-23
 cover: 'http://hub.acherno.com/svn/freshhealth/Site/3D/01-Fresh_Health_F.jpg'
+firstPage: true
 images:
   -
     url: 'http://hub.acherno.com/svn/freshhealth/Site/3D/01-Fresh_Health_F.jpg'

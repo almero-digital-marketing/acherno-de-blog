@@ -3,6 +3,7 @@ layout: blogpost
 title: 'Cleverer Mix aus (Farben und Stilen)'
 description: 'Eine erstklassige Wohnkombination von verschiedenen Stilen, Formen und Farben, die östliche und westliche Kulturelemente in sich gelungen vereint. Feiner Sand als Grundton mit Akzenten in frischem Grün und kalten Türkis - eine einheitliche Farbepalette, die sich durch das ganze Wohnkonzept zieht, lässt dieses Interior besonders ausgeglichen und behaglich wirken.'
 date: 2015-03-30
+firstPage: true
 cover: 'http://hub.acherno.com/svn/alhimika/Facebook/06-h_f.jpg'
 images:
   -
