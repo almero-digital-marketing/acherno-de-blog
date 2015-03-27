@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: '(Minimalistischer Wohndesign) in Weiß'
+title: '(Minimalistischer Wohndestil) in Weiß'
 description: 'Minimalistisch, aber nicht clean! Dieses Wohndesign eignet sich mit seinen klaren Linien und reduzierten Einrichtung besonders gut für Menschen, die gerne auf nichts verzichten und sich trotzdem nur auf die wesentlichen Dinge konzentrieren und sich nicht ablenken lassen wollen. '
 date: 2015-03-30
 cover: 'http://hub.acherno.com/svn/bqlata-kyshta/Facebook/02-h_f_hd.jpg'
@@ -83,17 +83,17 @@ lässt den Raum optisch viel größer wirken und reflektiert zusätzlich das Lic
 ![Innendesign Wohnzimmer](minimalistischer-wohndesign-in-weiß/innendesign-wohnzimmer.jpg)
 ### Innendesign **Wohnzimmer**
 
-Eine weiße Decke von der Leuchten in modernen Design herabhängen komplettiert den Minimalistischen Look diesem Zimmer. Ecksofa, Beistelltische und Barhocker in Weiß wirken besonders ästhetisch in der hier präsentierten Kombination in edlem Grafit, welches sich in dem Teppich und den kleinen Dekokissen und   der Wand gegenüber dem Sofa wieder findet. 
+Eine weiße Decke und Leuchten in modernen Design komplettieren den Minimalistischen Look diesem Zimmer. Ecksofa, Beistelltische und Barhocker in Weiß wirken besonders ästhetisch in der hier präsentierten Kombination in edlem Grafit, welches sich in dem Teppich und den kleinen Dekokissen und   der Wand gegenüber dem Sofa wieder findet. 
 
 ![Einrichtung Küche](minimalistischer-wohndesign-in-weiß/einrichtung-küche.jpg)
 ### Einrichtung **Küche**
 
-Hier kocht der Ästhet! Diese offene Küche im strahlenden Weiß ist nicht nur sehr schön sondern auch funktional eingerichtet.  Der Übergang vom Wohn in den Küchenbereich wird durch weiße Fliesen markiert. Die weiße Arbeitsplatte fungiert hier als ein Raumteiler, kann aber auch als Stehtisch für die besonderen Momente wie zum Beispiel beim Sushi mit Freunden eingesetzt werden. Vier elegante weiße Barocker lassen dich mitten im Geschehen sein. 
+Hier kocht der Ästhet! Diese offene Küche im strahlenden Weiß ist nicht nur sehr schön sondern auch funktional eingerichtet.  Der Übergang vom Wohn- in den Küchenbereich wird durch weiße Fliesen markiert. Die weiße Arbeitsplatte fungiert hier als ein Raumteiler, kann aber auch als Stehtisch für die besonderen Momente wie zum Beispiel beim Sushi mit Freunden eingesetzt werden. Vier elegante weiße Barocker lassen dich mitten im Geschehen sein. 
 
 ![Interior Design Küche](minimalistischer-wohndesign-in-weiß/interior-design-küche.jpg)
 ### Interior Design **Küche**
 
-Einbauküchengeräte und viele Aufbewahrungmöglichkeiten lassen die Küche sehr aufgeräumt und sauber wirken. 
+Einbauküchengeräte und viele Aufbewahrungmöglichkeiten lassen die Küche sehr aufgeräumt und ordentlich wirken. 
 
 ![Innendesign Schlafzimmer](minimalistischer-wohndesign-in-weiß/innendesign-schlafzimmer.jpg)
 ### Innendesign **Schlafzimmer**
@@ -107,7 +107,7 @@ Stilvoll in taupe, grau und weiß eingerichtet ist dieses Schlafzimmer das beste
 -   ### Innenarchitektur **Schlafzimmer**
     ![Innenarchitektur Schlafzimmer](minimalistischer-wohndesign-in-weiß/innenarchitektur-schlafzimmer.jpg)    
  
-Die Wände sind großflächig in trendigem dunklem Taupe angestrichen.  Kleine künstliche Nischen in der Wand bieten sich hervorragen als Ausstellungsplatz für kleine Accessoires und Familienschätze an.  Die weißen Sideboards an der Wand brechen die monotone Gestaltung und wirken  wie kleine Rahmen um den Fernseher herum. Ein origineller Wandspiegel über dem Schminktisch im Industriedesign zieht alle Blicke auf sich. Große Fenster lassen genügend Licht in den Raum so dass er nicht zu dunkel wirkt.
+Die Wände sind großflächig in trendigem dunklem Taupe angestrichen.  Kleine künstliche Nischen in der Wand bieten sich hervorragen als Ausstellungsplatz für kleine Accessoires und Familienschätze an.  Die weißen Sideboards an der Wand brechen die monotone Gestaltung und wirken  wie kleine Rahmen um den Fernseher herum. Ein origineller Wandspiegel über dem Schminktisch im Industriedesign zieht alle Blicke auf sich. Große Fenster lassen genügend Licht in den Raum, sodass er nicht zu dunkel wirkt.
 
 ![Einrichtung Eingangsbereich](minimalistischer-wohndesign-in-weiß/einrichtung-eingangsbereich.jpg)
 ### Einrichtung **Eingangsbereich**
@@ -119,7 +119,7 @@ Vorhang auf! Wenn du die Eingangstür aufmachst betrittst du direkt das Zentrum 
 -   ### Innenausstattung **Eingangsbereich**
     ![Innenausstattung Eingangsbereich](minimalistischer-wohndesign-in-weiß/innenausstattung-eingangsbereich.jpg)
 
-Akzente haben wir an der Wand gegenüber der Eingangstür mit Hilfe einer kleinen Fläche in Grafit  und angesagten Typographischen Collagen gesetzt.  Der Einbauschrank ist geräumig geschnitten, und bietet genügend Aufbewahrungplatz.
+Akzente haben wir an der Wand gegenüber der Eingangstür mit Hilfe einer kleinen Fläche in Grafit und angesagten Typographischen Collagen gesetzt.  Der Einbauschrank ist geräumig geschnitten, und bietet genügend Aufbewahrungplatz.
 
 ![Innendesign Badezimmer](minimalistischer-wohndesign-in-weiß/innendesign-badezimmer.jpg)
 ### Innendesign **Badezimmer**
