@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: '(Apartment Design) in Frühlingsfarben.'
+title: '(Apartment Design) in Frühlingsfarben'
 description: 'Wie eine Oase in Mitten des stressigen und schnellen Stadtlebens. Hier kannst du aufatmen und Energie für neue Taten tanken.'
 date: 2015-03-30
 images:
@@ -111,7 +111,7 @@ images:
 tags: [private, modern, livingroom, kitchen, bathroom, bedroom, other, nursery]
 ---
 ## **Erfrischendes Design** in Flieder und Gelbgrün
-Sehr Erfrischend – Wohnzimmer Interior in trendy Gelbgrün und zarten Fliedertönen. Ganz nach dem Motto: der Frühling kann kommen, ist dieses Wohnzimmer eingerichtet. Eine kraftvolle Kombination von zwei Farben, die in der Natur nur in exotischen Urlaubsdestinationen  zu finden sind. So haben wir dieses Apartment eingerichtet und einen kleinen Garten Eden geschaffen.
+Sehr Erfrischend – Wohnzimmer Interior in trendy Gelbgrün und zarten Fliedertönen. Ganz nach dem Motto: der Frühling kann kommen, ist dieses Wohnzimmer eingerichtet. Eine kraftvolle Kombination von zwei Farben, die in der Natur nur in exotischen Urlaubsdestinationen zu finden sind. So haben wir dieses Apartment eingerichtet und einen kleinen Garten Eden geschaffen.
 
 Wie eine Oase in Mitten des stressigen und schnellen Stadtlebens. Hier kannst du aufatmen und Energie für neue Taten tanken.
 
@@ -123,24 +123,24 @@ Die moderne Aufteilung der Wohnung macht hier einen offenen Wohnraum möglich. D
 ![Einrichtung Wohnzimmer](apartment-design-in-frühlingsfarben/einrichtung-wohnzimmer.jpg)
 ### Einrichtung **Wohnzimmer**
 
-Die Einrichtung ist in elegantem Beige gehalten. Klare Linien und fließende Stoffe wirken in  Kombination mit dem heiteren Flieder und dem freundlichen Gelbgrün nicht so aufdringlich. Die Sitzlandschaft ist großzügig und bietet den nötigen Sitzkomfort. Wohn Accessoires in Silber bringen die Farben zusätzlich zum Strahlen.
+Die Einrichtung ist in elegantem Beige gehalten. Klare Linien und fließende Stoffe wirken in Kombination mit dem heiteren Flieder und dem freundlichen Gelbgrün nicht so konstrastreich. Die Sitzlandschaft ist großzügig und bietet den nötigen Sitzkomfort. Wohnaccessoires in Silber bringen die Farben zusätzlich zum Strahlen.
 
 ![Innenausstattung Wohnzimmer](apartment-design-in-frühlingsfarben/innenausstattung-wohnzimmer.jpg)
 ### Innenausstattung **Wohnzimmer**
 
-Die Sideboards, die Regalwand und  der Beistelltisch sind weiß und beige und in klassischem Design gehalten.
+Die Sideboards, die Regalwand und der Beistelltisch sind in klassischem Weiß und Beige gehalten.
 
 ![Einrichtung Essbereich](apartment-design-in-frühlingsfarben/einrichtung-essbereich.jpg)
 ### Einrichtung **Essbereich**
 
-Charmant – der weiße Esstisch ist in unmittelbarere Nähe des Sofas platziert. Drei Hängelampen  in Weiß sorgen für eine stimmungsvolle Atmosphäre.
+Charmant – der weiße Esstisch ist in unmittelbarer Nähe des Sofas platziert. Drei Hängelampen in Weiß sorgen für eine stimmungsvolle Atmosphäre.
 
 -   ### Interior Design **Essbereich**
     ![Interior Design Essbereich](apartment-design-in-frühlingsfarben/interior-design-essbereich.jpg)
 -   ### Innenausstattung **Essbereich**
     ![Innenausstattung Essbereich](apartment-design-in-frühlingsfarben/innenausstattung-essbereich.jpg)
 
-Ein Hingucker- Stühle in modernes Bio Shape Design die nicht nur toll aussehen, sondern sehr Komfortebel sind.
+Ein Hingucker- Stühle in modernes Bio Shape Design die nicht nur toll aussehen, sondern sehr komfortebel sind.
 
 ![Interior Design Küche](apartment-design-in-frühlingsfarben/interior-design-küche.jpg)
 ### Interior Design **Küche**
@@ -152,12 +152,12 @@ Außergewöhnliche Formen verlangen nach außergewöhnlichen Lösungen! Diese K�
 -   ### Innenausstattung **Küche**
     ![Innenausstattung Küche](apartment-design-in-frühlingsfarben/innenausstattung-küche.jpg)
 
-Die Möbel sind funktional in cleanen Design und warmen Kaschmire gehalten. Die Küche wirk so besonders ordentlich und aufgeräumt. Auch hier sind die Akzente in exotischen grüngelb und feurigem dunkelrosa gesetzt. Bist du bereit zum Kochen? 
+Die Möbel sind funktional in cleanen Design und warmen Kaschmire gehalten. Die Küche wirkt so besonders ordentlich und aufgeräumt. Auch hier sind die Akzente in exotischen grüngelb und feurigem dunkelrosa gesetzt. Bist du bereit zum Kochen? 
 
 ![Einrichtung Eingangsbereich](apartment-design-in-frühlingsfarben/einrichtung-eingangsbereich.jpg)
 ### Einrichtung **Eingangsbereich**
 
-Bezaubernd! Ein Eingangsbereich der Extraklasse. Der Trend bleibt. Zarte cremige Texturen mit Akzenten in Flieder und Lila. Eine Kombination die uns besonders gut gefällt. Die Integrierte Beleuchtung an der Decke setzt die Kleidungshaken und Bilder an der Wand gelungen in Szene und lässt diese als edle Designer Objekte  wirken. 
+Bezaubernd! Ein Eingangsbereich der Extraklasse. Der Trend bleibt. Zarte cremige Texturen mit Akzenten in Flieder und Lila. Eine Kombination die uns besonders gut gefällt. Die integrierte Beleuchtung an der Decke setzt die Kleidungshaken und Bilder an der Wand gelungen in Szene und lässt diese als edle Designer Objekte wirken. 
 
 -   ### Interior Design **Eingangsbereich**
     ![Interior Design Eingangsbereich](apartment-design-in-frühlingsfarben/interior-design-eingangsbereich.jpg)
@@ -169,7 +169,7 @@ Zwei körpergroße Wandspiegel lassen nicht nur den Raum größer Wirken, sonder
 ![Interior Design Schlafzimmer](apartment-design-in-frühlingsfarben/interior-design-schlafzimmer.jpg)
 ### Interior Design **Schlafzimmer**
 
-Frisch und modern – hier ist nichts zu viel. Das Apfelgrüne Schlafzimmer sticht nicht nur mit seiner Farbe und den schönen Deckendesign heraus. Die weißen Möbel in puristischen Still machen aus diesem Raum einen wahren  Ruhepol.
+Frisch und modern – hier ist nichts zu viel. Das apfelgrüne Schlafzimmer sticht nicht nur mit seiner Farbe und den schönen Deckendesign heraus. Die weißen Möbel in puristischen Still machen aus diesem Raum einen wahren  Ruhepol.
 
 -   ### Einrichtung **Schlafzimmer**
     ![Einrichtung Schlafzimmer](apartment-design-in-frühlingsfarben/einrichtung-schlafzimmer.jpg)
@@ -216,4 +216,4 @@ Back to the Basics – Ein Spruch, der ganz auf dieses Badezimmer zutrifft. Flie
 -   ### Einrichtung **Zweite Badezimmer**
     ![Einrichtung Zweite Badezimmer](apartment-design-in-frühlingsfarbe/einrichtung-zweite-badezimmer.jpg)
 
-Hochwertige Materialien und Möbel in trenddesign komplettieren das Bad und machen es zum Wohlfühlbereich.
+Hochwertige Materialien und Möbel in Trend Design komplettieren das Bad und machen es zum Wohlfühlbereich.
