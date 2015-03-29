@@ -164,7 +164,7 @@ Bezaubernd! Ein Eingangsbereich der Extraklasse. Der Trend bleibt. Zarte cremige
 -   ### Innenausstattung **Eingangsbereich**
     ![Innenausstattung Eingangsbereich](apartment-design-in-frühlingsfarben/innenausstattung-eingangsbereich.jpg)
 
-Zwei körpergroße Wandspiegel lassen nicht nur den Raum größer Wirken, sondern machen das morgendlichen Anziehen zu einem Vergnügen. 
+Zwei körpergroße Wandspiegel lassen nicht nur den Raum größer wirken, sondern machen das morgendlichen Anziehen zu einem Vergnügen. 
 
 ![Interior Design Schlafzimmer](apartment-design-in-frühlingsfarben/interior-design-schlafzimmer.jpg)
 ### Interior Design **Schlafzimmer**
