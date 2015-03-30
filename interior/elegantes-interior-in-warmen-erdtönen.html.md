@@ -3,6 +3,8 @@ layout: blogpost
 title: '(Elegantes Interior) in warmen Erdtönen'
 description: 'Zeitlos und elegant – ein Interior Design, das gut ankommt. Die Farben Braun, Ocker und Weiß bringen mit ihrer Natürlichkeit sehr viel Wärme und Behaglichkeit  in die Wohnung. Eine solide Einrichtung mit viel Holz und hochwertigen Materialien gibt dem Raum eine angenehme Ausstrahlung.'
 date: 2015-03-30
+firstPage: true
+cover: 'http://hub.acherno.com/svn/roza-bez-bodli/Facebook/1.17-h_f-HD.jpg'
 images:
   -
     url: 'http://hub.acherno.com/svn/roza-bez-bodli/Facebook/1.17-h_f.jpg'
