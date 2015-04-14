@@ -1,7 +1,7 @@
 ---
 layout: blogindex
 rel: '/home'
-title: 'Wohn- und Einrichtungsideen'
+title: 'Wohn - und Einrichtungsideen'
 description: 'Das Acherno Interior Design Blog. Unzählige Ideen für Inneneinrichtung, Wohndesign und intereresante Raumlösungen.'
 paging: 'interior'
 web:
