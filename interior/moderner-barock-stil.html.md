@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: 'Moderner (Barock Stil)'
-description: 'Grenzenloser Luxus, dramatischer Moment, dynamische Architektur und eine Vorliebe zum Detail  - das ist der Barock Still von heute.'
+description: 'Grenzenloser Luxus, dramatischer Moment, dynamische Architektur und eine Vorliebe zum Detail  - das ist der Barock Stil von heute.'
 date: 2014-04-01
 images:
   -
