@@ -133,43 +133,43 @@ Die Sideboards, die Regalwand und der Beistelltisch sind in klassischem Weiß un
 ![Einrichtung Essbereich](apartment-design-in-frühlingsfarben/einrichtung-essbereich.jpg)
 ### Einrichtung **Essbereich**
 
-Charmant – der weiße Esstisch ist in unmittelbarer Nähe des Sofas platziert. Drei Hängelampen in Weiß sorgen für eine stimmungsvolle Atmosphäre.
+Charmant! Der weiße Esstisch ist in unmittelbarer Nähe des Sofas platziert. Drei Hängelampen in Weiß sorgen für eine stimmungsvolle Atmosphäre.
 
 -   ### Interior Design **Essbereich**
     ![Interior Design Essbereich](apartment-design-in-frühlingsfarben/interior-design-essbereich.jpg)
 -   ### Innenausstattung **Essbereich**
     ![Innenausstattung Essbereich](apartment-design-in-frühlingsfarben/innenausstattung-essbereich.jpg)
 
-Ein Hingucker- Stühle in modernes Bio Shape Design die nicht nur toll aussehen, sondern sehr komfortebel sind.
+Ein Hingucker sind die Stühle in modernem Ergo Design, die nicht nur toll aussehen sondern sehr komfortabel sind.
 
 ![Interior Design Küche](apartment-design-in-frühlingsfarben/interior-design-küche.jpg)
 ### Interior Design **Küche**
 
-Außergewöhnliche Formen verlangen nach außergewöhnlichen Lösungen! Diese Küche hat nur einen rechten Winkel im Raum.  Wir haben sie trotzdem zu einer funktionalen Traumküche in modernem Design verwandelt.
+Außergewöhnliche Formen verlangen nach außergewöhnlichen Lösungen! Diese Küche hat nur einen rechten Winkel.  Wir haben sie trotzdem zu einer funktionalen Traumküche in modernem Design verwandelt.
 
 -   ### Einrichtung **Küche**
     ![Einrichtung Küche](apartment-design-in-frühlingsfarben/einrichtung-küche.jpg)
 -   ### Innenausstattung **Küche**
     ![Innenausstattung Küche](apartment-design-in-frühlingsfarben/innenausstattung-küche.jpg)
 
-Die Möbel sind funktional in cleanen Design und warmen Kaschmire gehalten. Die Küche wirkt so besonders ordentlich und aufgeräumt. Auch hier sind die Akzente in exotischen grüngelb und feurigem dunkelrosa gesetzt. Bist du bereit zum Kochen? 
+Die Möbel sind funktional in cleanem Design und warmem Kaschmire gehalten. Die Küche wirkt auf diese Weise besonders ordentlich und aufgeräumt. Auch hier sind die Akzente in exotischem Grüngelb und leidenschaftlichem Magenta gesetzt. Bist du bereit zum Kochen? 
 
 ![Einrichtung Eingangsbereich](apartment-design-in-frühlingsfarben/einrichtung-eingangsbereich.jpg)
 ### Einrichtung **Eingangsbereich**
 
-Bezaubernd! Ein Eingangsbereich der Extraklasse. Der Trend bleibt. Zarte cremige Texturen mit Akzenten in Flieder und Lila. Eine Kombination die uns besonders gut gefällt. Die integrierte Beleuchtung an der Decke setzt die Kleidungshaken und Bilder an der Wand gelungen in Szene und lässt diese als edle Designer Objekte wirken. 
+Bezaubernd! Ein Eingangsbereich der Extraklasse. Der Trend bleibt - zarte cremige Texturen mit Akzenten in Flieder und Lila. Eine Kombination die uns besonders gut gefällt. Die integrierte Beleuchtung an der Decke setzt die Kleidungshaken und Bilder an der Wand gelungen in Szene und lässt diese als edle Designerobjekte wirken. 
 
 -   ### Interior Design **Eingangsbereich**
     ![Interior Design Eingangsbereich](apartment-design-in-frühlingsfarben/interior-design-eingangsbereich.jpg)
 -   ### Innenausstattung **Eingangsbereich**
     ![Innenausstattung Eingangsbereich](apartment-design-in-frühlingsfarben/innenausstattung-eingangsbereich.jpg)
 
-Zwei körpergroße Wandspiegel lassen nicht nur den Raum größer wirken, sondern machen das morgendlichen Anziehen zu einem Vergnügen. 
+Zwei körpergroße Wandspiegel lassen den Raum nicht nur größer wirken, sondern machen das morgendlichen Anziehen zu einem Vergnügen. 
 
 ![Interior Design Schlafzimmer](apartment-design-in-frühlingsfarben/interior-design-schlafzimmer.jpg)
 ### Interior Design **Schlafzimmer**
 
-Frisch und modern – hier ist nichts zu viel. Das apfelgrüne Schlafzimmer sticht nicht nur mit seiner Farbe und den schönen Deckendesign heraus. Die weißen Möbel in puristischen Still machen aus diesem Raum einen wahren  Ruhepol.
+Frisch und modern – hier ist nichts zu viel. Das apfelgrüne Schlafzimmer sticht nicht nur mit seiner Farbe und dem schönen Deckendesign heraus. Die weißen Möbel in puristischem Stil machen aus diesem Raum einen wahren Ruhepol.
 
 -   ### Einrichtung **Schlafzimmer**
     ![Einrichtung Schlafzimmer](apartment-design-in-frühlingsfarben/einrichtung-schlafzimmer.jpg)
@@ -178,24 +178,24 @@ Frisch und modern – hier ist nichts zu viel. Das apfelgrüne Schlafzimmer stic
 -   ### Innenarchitektur **Schlafzimmer**
     ![Innenarchitektur Schlafzimmer](apartment-design-in-frühlingsfarben/innenarchitektur-schlafzimmer.jpg)
 
-Die weiße Schminkkommode mit dem großen Spiegel ist der Traum jede Frau. Hier fühlt sich sie sich wie auf einem Filmset in Hollywood. Lass die Luftballons steigen und das Design der Lampen erstrahlen.
+Die weiße Schminkkommode mit dem großen Spiegel ist der Traum jeder Frau. Hier fühlt sie sich wie auf einem Filmset in Hollywood. Lass die Luftballons steigen und das Design der Lampen erstrahlen!
 
 ![Inneneinrichtung Badezimmer](apartment-design-in-frühlingsfarben/inneneinrichtung-badezimmer.jpg)
 ### Inneneinrichtung **Badezimmer**
 
-Bühne frei! Dieses kleine Badezimmer in Limonengelb ist eindeutig die Frühlingserfrischung des Jahres. Dekorative Relieffliesen in modernem Design. Weiße Möbeln und Sanitär machen den Traum komplett.
+Bühne frei! Dieses kleine Badezimmer in Lemongelb ist eindeutig die Frühlingserfrischung des Jahres. Dekorative Relieffliesen in modernem Design und weiße Badmöbel machen das Frühlingserwachen komplett.
 
 -   ### Einrichtung **Badezimmer**
     ![Einrichtung Badezimmer](apartment-design-in-frühlingsfarben/einrichtung-badezimmer.jpg)
 -   ### Interior Design **Badezimmer**
     ![Interior Design Badezimmer](apartment-design-in-frühlingsfarbe/interior-design-badezimmer.jpg)
 
-Eine Duschabtrennung mit floralem Ornament. 
+Eine Duschabtrennung mit floralem Ornament verzaubert dich. 
 
 ![Inneneinrichtung Gästeschlafzimmer](apartment-design-in-frühlingsfarbe/inneneinrichtung-gästeschlafzimmer.jpg)
 ### Inneneinrichtung **Gästeschlafzimmer**
 
-Ein Schlafzimmer in der sich besonders die Herren der Schöpfung sehr wohl fühlen werden. Trotz violetter Wände wird der Raum nicht feminin  dank der satten Wohntextilien in dunkelgrau und Silber. 
+Ein Schlafzimmer in dem sich besonders die Herren der Schöpfung sehr wohl fühlen werden. Trotz violetter Wände wirkt der Raum nicht feminin dank der satten Wohntextilien in dunkelgrau und Silber. 
 
 -   ### Innenausstattung **Gästeschlafzimmer**
     ![Innenausstattung Gästeschlafzimmer](apartment-design-in-frühlingsfarbe/innenausstattung-gästeschlafzimmer.jpg)
@@ -209,7 +209,7 @@ Trendy Wandregale in quadratischen Formen wirken nicht nur dekorativ, sondern ha
 ![Интериорен дизайн на баня](apartment-design-in-frühlingsfarbe/interior-design-zweite-badezimmer.jpg)
 ### Interior Design **Zweite Badezimmer**
 
-Back to the Basics – Ein Spruch, der ganz auf dieses Badezimmer zutrifft. Fliesen in beige und braun lassen das Zimmer stylisch wirken.
+Back to the Basics – Ein Spruch, der ganz auf dieses Badezimmer zutrifft. Fliesen in Beige und Braun lassen das Zimmer stylisch wirken.
 
 -   ### Inneneinrichtung **Zweite Badezimmer**
     ![Inneneinrichtung Zweite Badezimmer](apartment-design-in-frühlingsfarbe/inneneinrichtung-zweite-badezimmer.jpg)
