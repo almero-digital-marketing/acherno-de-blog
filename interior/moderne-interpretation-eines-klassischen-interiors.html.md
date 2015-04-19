@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: 'Moderne Interpretation eines (klassischen Interiors)'
-description: 'Was ist ein Leben schon wert ohne ein schönes Heim?  Hier ist das gelungene Endergebnis einer vollständigen Renovierung eines zwei stöckigen Wohnhauses. Eine klassische Interpretation von gediegenem Wohnambiente in hellen und warmen Tönen.'
+description: 'Was ist ein Leben schon Wert ohne ein schönes Heim?  Hier ist das gelungene Endergebnis einer vollständigen Renovierung eines zwei stöckigen Wohnhauses. Eine klassische Interpretation von gediegenem Wohnambiente in hellen und warmen Tönen.'
 date: 2015-02-26
 cover: 'http://hub.acherno.com/svn/klasika-v-janra/Facebook/04-h_f_hd.jpg'
 firstPage: true
@@ -157,17 +157,17 @@ images:
 tags: [private, modernclassic, livingroom, kitchen, bathroom, bedroom, other, nursery]
 ---
 ## **Warme Nuancen** mit hellen Reflexen
-Was ist ein Leben schon wert ohne ein schönes Heim?  Hier ist das gelungene Endergebnis einer vollständigen Renovierung eines zwei stöckigen Wohnhauses. Eine klassische Interpretation von gediegenem Wohnambiente in hellen und warmen Tönen. 
+Was ist ein Leben schon Wert ohne ein schönes Heim?  Hier ist das gelungene Endergebnis einer vollständigen Renovierung eines zwei stöckigen Wohnhauses. Eine klassische Interpretation von gediegenem Wohnambiente in hellen und warmen Tönen. 
 
-![Inneneinrichtung Wohn und Esszimmer](moderne-interpretation-eines-klassischen-interiors/inneneinrichtung-wohn-und-esszimmer.jpg)
-### Inneneinrichtung **Wohn und Esszimmer**
+![Inneneinrichtung Wohn- und Esszimmer](moderne-interpretation-eines-klassischen-interiors/inneneinrichtung-wohn-und-esszimmer.jpg)
+### Inneneinrichtung **Wohn- und Esszimmer**
 
-Die Wände dieses  einladenden Raums sind in zartem Kaschmir getönt, welches die Schönheit der weißen Leuchter noch zusätzlich unterstreicht.  Ein eichenfarbiges Laminat beruhigt den Raum mit seiner Natürlichkeit. 
+Die Wände dieses einladenden Raums sind in zartem Kaschmir getönt, welches die Schönheit der weißen Leuchter noch zusätzlich unterstreicht. Ein eichenfarbiges Laminat beruhigt den Raum mit seiner Natürlichkeit. 
 
 ![Möbel und Einrichtung Wohnzimmer](moderne-interpretation-eines-klassischen-interiors/möbel-und-einrichtung-wohnzimmer.jpg)
 ### Möbel und Einrichtung **Wohnzimmer**
 
-Das Wohnzimmer ist modern eingerichtet mit einer bequemen Sitzlandschaft mit hochwertiger Polsterung in hellgrau  garantiert entspannenden Stunden mit höchstem Sitzkomfort. Kleine Dekokissen in Schokobraun, Weiß und Curry, ein weißer flauschiger Teppich und ein romantisches Bild setzten die Akzente und für sorgen für eine behagliche Stimmung. Sehr empfehlenswert für jeden Freund von geselligen Familienabenden.
+Das Wohnzimmer ist modern eingerichtet mit einer bequemen Sitzlandschaft mit hochwertiger Polsterung in hellgrau und  garantiert entspannende tunden mit höchstem Sitzkomfort. Kleine Dekokissen in Schokobraun, Weiß und Curry, ein weißer flauschiger Teppich und ein romantisches Bild setzten die Akzente und für sorgen für eine behagliche Stimmung. Sehr empfehlenswert für jeden Freund von geselligen Familienabenden.
 
 ![Innendesign Wohnzimmer](moderne-interpretation-eines-klassischen-interiors/innendesign-wohnzimmer.jpg)
 ### Innendesign **Wohnzimmer**
