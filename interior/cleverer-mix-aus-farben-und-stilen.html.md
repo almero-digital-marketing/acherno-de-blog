@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: 'Cleverer Mix aus (Farben und Stilen)'
-description: 'Eine erstklassige Wohnkombination von verschiedenen Stilen, Formen und Farben, die östliche und westliche Kulturelemente in sich gelungen vereint. Feiner Sand als Grundton mit Akzenten in frischem Grün und kalten Türkis - eine einheitliche Farbepalette, die sich durch das ganze Wohnkonzept zieht, lässt dieses Interior besonders ausgeglichen und behaglich wirken.'
+description: 'Eine erstklassige Wohnkombination von verschiedenen Stilen, Formen und Farben, die östliche und westliche Kulturelemente gekonnt in sich vereint. Feiner Sand als Grundton mit Akzenten in frischem Grün und kaltem Türkis - eine einheitliche Farbepalette, die sich durch das ganze Wohnkonzept zieht, lässt dieses Interior besonders ausgeglichen und behaglich wirken.'
 date: 2015-03-30
 firstPage: true
 cover: 'http://hub.acherno.com/svn/alhimika/Facebook/06-h_f_hd.jpg'
@@ -101,20 +101,20 @@ images:
 tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
 featured: true
 ---
-## Pastell mit einem **Tupfer in Hellgrün und Türkis**
-Eine erstklassige Wohnkombination von verschiedenen Stilen, Formen und Farben, die östliche und westliche Kulturelemente in sich gelungen vereint. Feiner Sand als Grundton mit Akzenten in frischem Grün und kalten Türkis - eine einheitliche Farbepalette, die sich durch das ganze Wohnkonzept zieht, lässt dieses Interior besonders ausgeglichen und behaglich wirken.
+## Pastell mit **Tupfern in Hellgrün und Türkis**
+Eine erstklassige Wohnkombination von verschiedenen Stilen, Formen und Farben, die östliche und westliche Kulturelemente gekonnt in sich vereint. Feiner Sand als Grundton mit Akzenten in frischem Grün und kaltem Türkis - eine einheitliche Farbepalette, die sich durch das ganze Wohnkonzept zieht, lässt dieses Interior besonders ausgeglichen und behaglich wirken.
 
 ![Interior Design Wohnzimmer](cleverer-mix-aus-farben-und-stilen/interior-design-wohnzimmer.jpg)
 ### Interior Design **Wohnzimmer**
 
-Bitte recht Freundlich! Ein offenes Wohnzimmer, das durch ihr modernen Design sehr luftig und hellwirkt.  Schöne gestreifte bodenlange Vorhänge in Türkis und Sand perfekt in Szenen gesetzt durch Stuckelemente mit integrierter Beleuchtung.  Ein wertiger Bodenbelag im dezentem hellgrau harmoniert mit dem weißen Möbel und den sandfarbenen Wänden.  Die Farben der Wohntextilien sind an der Farbpalette orientiert.
+Bitte recht freundlich! Ein offenes Wohnzimmer, das durch ihr modernes Design sehr luftig und hell wirkt.  Schöne gestreifte, bodenlange Vorhänge in Türkis und Sand perfekt in Szene gesetzt durch Stuckelemente mit integrierter Beleuchtung. Ein wertiger Bodenbelag im dezentem hellgrau harmoniert mit den weißen Möbel und den sandfarbenen Wänden perfekt. Die Farben der Wohntextilien orientieren sich nach der obigen Farbpalette.
 
 -   ### Einrichtung **Wohnzimmer**
     ![Möbel und Einrichtung Wohnzimmer](cleverer-mix-aus-farben-und-stilen/einrichtung-wohnzimmer.jpg)
 -   ### Innedesign **Wohnzimmer**
     ![Innedesign Wohnzimmer](cleverer-mix-aus-farben-und-stilen/innedesign-wohnzimmer.jpg)
 
-Salonfähig! Diese Landhaustilleinrichtung in Weiß verzaubert. Ein edler Kamin, weiß lackierte Wohnmöbel, eine auffällige antike Wanduhr und klassische Deckenleuchten machen dieses Zimmer  durch seinen Komfort zu einem kleinen englischen Salon. 
+Salonfähig! Diese Landhaustileinrichtung in Weiß verzaubert. Ein edler Kamin, weiß lackierte Wohnmöbel, eine auffällige antike Wanduhr und klassische Deckenleuchten machen dieses Zimmer durch sein Design zu einem kleinen englischen Salon. 
 
 ![Einrichtung Küche](cleverer-mix-aus-farben-und-stilen/einrichtung-küche.jpg)
 ### Einrichtung **Küche**
@@ -131,7 +131,7 @@ Tauche ein in einen Traum aus Türkis und Weiß! Die U-förmige Küche in strahl
 ![Inneneinrichtung Schlafzimmer](cleverer-mix-aus-farben-und-stilen/inneneinrichtung-schlafzimmer.jpg)
 ###Inneneinrichtung **Schlafzimmer**
 
-Hier punktet man mit Design! Ein ovales Bett zentral aufgestellt und eine Wand mit offenem Mauerwerk.  Eine Farbgebung in schlichtem weiß wird nur durch kleine Dekorationen in Sand und Türkis unterbrochen.
+Hier punktet man mit Design! Ein ovales Bett, zentral aufgestellt und eine Wand mit offenem Mauerwerk. Eine Farbgebung in schlichtem Weiß wird nur durch kleine Dekorationen in Sand und Türkis unterbrochen.
 
 -   ### Einrichtung **Schlafzimmer**
     ![Einrichtung Schlafzimmer](cleverer-mix-aus-farben-und-stilen/einrichtung-schlafzimmer.jpg)
@@ -159,12 +159,12 @@ Ein kleiner Design Sekretär mit Chefsessel, eine  bequeme Couch und ein großer
 ![Einrichtung Eingangsbereich](cleverer-mix-aus-farben-und-stilen/einrichtung-eingangsbereich.jpg)
 ### Einrichtung **Eingangsbereich**
 
-Klassisch – viel Stauraum hinter weißen Schranktüren, große Spiegelwände und ein weicher Teppich in Sand lässt diesen Eingangsbereich sehr einladend wirken.
+Klassisch – viel Stauraum hinter weißen Schranktüren, große Spiegelwände und ein weicher Teppich in Sand, lässt diesen Eingangsbereich sehr einladend wirken.
 
 ![Interior Design Terrasse](cleverer-mix-aus-farben-und-stilen/interior-design-terrasse.jpg)
 ### Interior Design **Terrasse**
 
-Irrashaimase... so klingt Willkommen auf Japanisch. Hier wurde ein kleines Stück Asien auf der Terrasse verwirklicht.  Weiße Fensterfronten, viel Transparenz und dezenter Bambuston. Mit diesen Stilelementen fühlst du dich wie in einem typisch japanischen Teehaus. 
+Irrashaimase... so klingt Willkommen auf Japanisch. Hier wurde ein kleines Stück Asien auf dieser Terrasse verwirklicht.  Weiße Fensterfronten, viel Transparenz und dezenter Bambuston. Mit diesen Stilelementen fühlst du dich wie in einem typischen japanischen Teehaus. 
 
 -   ### Einrichtung **Terrasse**
     ![Einrichtung Terrasse](cleverer-mix-aus-farben-und-stilen/einrichtung-terrasse.jpg)
@@ -182,4 +182,4 @@ Ein flacher Teetisch mit Sitzkissen in Bambusgrün, ein asiatischer Fächerschra
 -   ### Einrichtung **Badezimmer**
     ![Einrichtung Badezimmer](cleverer-mix-aus-farben-und-stilen/einrichtung-badezimmer.jpg)
 
-Märchenhaft! Dieses schicke Bad in glänzendem Weiß mit Fliesen die an Kieselsteine erinnern ist einzigartig! Florale Dekoprints beleben das Design und eine hochwertige Sanitäreinrichtung sorgt für den nötigen Komfort. 
+Märchenhaft! Dieses schicke Bad in glänzendem Weiß mit Fliesen, die an Kieselsteine erinnern, ist einzigartig! Florale Dekoprints beleben das Design und eine hochwertige Sanitäreinrichtung sorgt für den nötigen Komfort. 
