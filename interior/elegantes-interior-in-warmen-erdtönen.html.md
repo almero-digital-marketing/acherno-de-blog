@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: '(Elegantes Interior) in warmen Erdtönen'
-description: 'Zeitlos und elegant – ein Interior Design, das gut ankommt. Die Farben Braun, Ocker und Weiß bringen mit ihrer Natürlichkeit sehr viel Wärme und Behaglichkeit  in die Wohnung. Eine solide Einrichtung mit viel Holz und hochwertigen Materialien gibt dem Raum eine angenehme Ausstrahlung.'
+description: 'Zeitlos und elegant – ein Interior Design, das gut ankommt. Die Farben Braun, Ocker und Weiß bringen mit ihrer Natürlichkeit sehr viel Wärme und Behaglichkeit  in die Wohnung. Eine solide Einrichtung mit viel Holz und hochwertigen Materialien gibt dem Raum eine gemütlich Ausstrahlung.'
 date: 2015-03-30
 firstPage: true
 cover: 'http://hub.acherno.com/svn/roza-bez-bodli/Facebook/1.17-h_f-HD.jpg'
@@ -45,32 +45,32 @@ images:
 tags: [private, modern, livingroom, kitchen, other]
 ---
 ## **Inspiration Natur**
-Zeitlos und elegant – ein Interior Design, das gut ankommt.  Die Farben Braun, Ocker und Weiß bringen mit ihrer Natürlichkeit sehr viel Wärme und Behaglichkeit  in die Wohnung. Eine solide Einrichtung mit viel Holz und hochwertigen Materialien gibt dem Raum eine angenehme Ausstrahlung
+Zeitlos und elegant – ein Interior Design, das gut ankommt.  Die Farben Braun, Ocker und Weiß bringen mit ihrer Natürlichkeit sehr viel Wärme und Behaglichkeit  in die Wohnung. Eine solide Einrichtung mit viel Holz und hochwertigen Materialien gibt dem Raum eine gemütliche Ausstrahlung
 
 ![Innendesign Wohnzimmer](elegantes-interior-in-warmen-erdtönen/innendesign-wohnzimmer.jpg)
 ### Innendesign **Wohnzimmer**
 
-Chic, Behaglich und gut aufgehoben – Mit dem für das skandinavische Design typischen großgemaserten Hölzern, klare Linien und den natürlichen Farben von Erdtönen über zartes Beige bis hin zur kräftigem Ocker, entsteht hier eine ruhige Wohnatmosphäre für dich!
+Chic, behaglich und gut aufgehoben – Mit dem für das skandinavische Design typischen großgemaserten Hölzern, klare Linien und den natürlichen Farben von Erdtönen über zartes Beige bis hin zur kräftigem Ocker, entsteht hier eine ruhige Wohnatmosphäre für dich!
 
 ![Inneneinrichtung Wohnzimmer](elegantes-interior-in-warmen-erdtönen/inneneinrichtung-wohnzimmer.jpg)
 ### Inneneinrichtung **Wohnzimmer**
 
-Die Decken sind abgesetzt, mit Spotlights ausgestattet und erzeugen in Kombination mit dem natürlichen Lichteinfall, durch die großen Fenster, ein harmonisches Wehgefühl.  Auffällige Farbakzente setzten kleine Dekokissen in Dunkelbraun, Ocker und zartem Gelb, arrangiert auf einer Sitzlandschaft in Kaschmire. Ein Teppich in Granitgrau mit graphischen Mustern harmoniert perfekt mit der tapezierten Wand in Stripes Look.  
+Die Decken sind abgesetzt, mit Spotlights ausgestattet und erzeugen in Kombination mit dem natürlichen Lichteinfall, durch die großen Fenster, ein harmonisches Wohlgefühl.  Auffällige Farbakzente setzten kleine Dekokissen in Dunkelbraun, Ocker und zartem Gelb, arrangiert auf einer Sitzlandschaft in Kaschmire. Ein Teppich in Granitgrau mit graphischen Mustern harmoniert perfekt mit der tapezierten Wand im Stripes Look.  
 
 ![Inneneinrichtung Wohnzimmer](elegantes-interior-in-warmen-erdtönen/inneneinrichtung-wohnzimmer.jpg)
 ### Inneneinrichtung **Wohnzimmer**
 
-Ein riesengroßer Einbauschrank in Parket-Optik fungiert gleichzeitig als Raumteiler zwischen Wohnzimmer und Eingangsbereich.  So können beide Räume von ihm profitieren. Auf der Wohnzimmerseite bietet er Platz für eine offene Bibliothek und dezent, genügend Stauraum für die Dinge des Alltags. Der individuelle Coutisch in Pyramiden Style wirkt sehr dekorativ und bildet eine gelungene Kombination mit der zylindrischen Deckenleuchte.
+Ein riesengroßer Einbauschrank in Parket-Optik fungiert gleichzeitig als Raumteiler zwischen Wohnzimmer und Eingangsbereich.  So können beide Räume von ihm profitieren. Auf der Wohnzimmerseite bietet er Platz für eine offene Bibliothek und genügend Stauraum für die Dinge des Alltags. Der individuelle Couchtisch im Pyramiden Style wirkt sehr dekorativ und bildet eine gelungene Kombination mit der zylindrischen Deckenleuchte.
 
 ![Interior Esszimmer](elegantes-interior-in-warmen-erdtönen/interior-esszimmer.jpg)
 ### Interior **Esszimmer**
 
-Gute Bücher und gutes Essen gehören immer zusammen! Eine Bibliothek teilt dezent  den  Wohn- und Essbereich auf. Ein großer maßgefertigter Esstisch und sechs bequeme Stühle laden  Gäste und Freunde zu gemütlichen Abenden bei leckerem Essen und gutem Wein ein.  
+Gute Bücher und gutes Essen gehören immer zusammen! Eine Bibliothek teilt dezent den  Wohn- und Essbereich auf. Ein großer, maßgefertigter Esstisch und sechs bequeme Stühle laden Gäste und Freunde zu gemütlichen Abenden bei leckerem Essen und gutem Wein ein.  
 
 ![Innendesign Esszimmer](elegantes-interior-in-warmen-erdtönen/innendesign-esszimmer.jpg)
 ### Innendesign **Esszimmer**
 
-Zentrum des Familienlebens -Das Essbereich ist zweckmäßig  in der Küche platziert.  Die Schränke sind in schlichtem Weiß gehalten, mit viele Nischen und Regalen zum Aufbewahren des guten Geschirrs und der schönen Gläser. So kann der Gastgeber sofort auf die Wünsche der Gäste eingehen. Ein Glas Weißwein oder doch den guten alten Roten? Oder einen Espresso zuerst. Alles Nötige befindet sich griffbereit in der Nähe!
+Das Zentrum des Familienlebens - Der Essbereich ist zweckmäßig  in der Küche platziert.  Die Schränke sind in schlichtem Weiß gehalten, mit vielen Nischen und Regalen zum Aufbewahren des guten Geschirrs und der schönen Gläser. So kann der Gastgeber sofort auf die Wünsche der Gäste eingehen. Ein Glas Weißwein oder doch den guten alten Roten, oder doch einen Espresso zuerst? Alles Nötige befindet sich griffbereit in der Nähe!
 
 ![Innendesign Küche](elegantes-interior-in-warmen-erdtönen/innendesign-küche.jpg)
 ### Innendesign **Küche**
