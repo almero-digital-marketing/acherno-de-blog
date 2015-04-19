@@ -167,12 +167,12 @@ Die Wände dieses einladenden Raums sind in zartem Kaschmir getönt, welches die
 ![Möbel und Einrichtung Wohnzimmer](moderne-interpretation-eines-klassischen-interiors/möbel-und-einrichtung-wohnzimmer.jpg)
 ### Möbel und Einrichtung **Wohnzimmer**
 
-Das Wohnzimmer ist modern eingerichtet mit einer bequemen Sitzlandschaft mit hochwertiger Polsterung in hellgrau und  garantiert entspannende tunden mit höchstem Sitzkomfort. Kleine Dekokissen in Schokobraun, Weiß und Curry, ein weißer flauschiger Teppich und ein romantisches Bild setzten die Akzente und für sorgen für eine behagliche Stimmung. Sehr empfehlenswert für jeden Freund von geselligen Familienabenden.
+Das Wohnzimmer ist modern eingerichtet mit einer bequemen Sitzlandschaft mit hochwertiger Polsterung in hellgrau und  garantiert entspannende Stunden mit höchstem Sitzkomfort. Kleine Dekokissen in Schokobraun, Weiß und Curry, ein weißer flauschiger Teppich und ein romantisches Bild setzten die Akzente und für sorgen für eine behagliche Stimmung. Sehr empfehlenswert für jeden Freund von geselligen Familienabenden.
 
 ![Innendesign Wohnzimmer](moderne-interpretation-eines-klassischen-interiors/innendesign-wohnzimmer.jpg)
 ### Innendesign **Wohnzimmer**
  
-Große Fronfenster und helle Vorhänge lassen das nötige Licht in den Raum um Tagespresse zu studieren oder am weißen Tisch mit brauner Platte mit der Familie zu spielen.
+Große Fronfenster und helle Vorhänge lassen das nötige Licht in den Raum um die Tagespresse zu studieren oder am weißen Tisch mit brauner Platte, mit der Familie zu spielen.
 
 ![Inneneinrichtung Essbereich](moderne-interpretation-eines-klassischen-interiors/inneneinrichtung-essbereich.jpg)
 ### Inneneinrichtung **Essbereich**
@@ -187,7 +187,7 @@ Gut gelöst – eine Nische im Wohnzimmer wird zum Arbeitszimmer. Klein, funktio
 ![Innedesign Küche](moderne-interpretation-eines-klassischen-interiors/innendesign-küche.jpg)
 ### Innedesign **Küche**
 
-Viel Platz für alles was das Gourmet Herz begehrt! Helle Marmorböden und weiße Arbeitsflächen werden von warmen hölzernen Schranktüren getrennt. Das schafft den nötigen Kontrast und gibt den Raum Profil. 
+Viel Platz für alles was das Gourmetherz begehrt! Helle Marmorböden und weiße Arbeitsflächen werden von warmen hölzernen Schranktüren getrennt. Das schafft den nötigen Kontrast und gibt dem Raum Profil. 
 
 -   ### Interior design **Küche**
     ![Interior design Küche](moderne-interpretation-eines-klassischen-interiors/interior-design-küche.jpg)
@@ -196,7 +196,7 @@ Viel Platz für alles was das Gourmet Herz begehrt! Helle Marmorböden und weiß
 -   ### Inneneinrichtung **Küche**
     ![Inneneinrichtung Küche](moderne-interpretation-eines-klassischen-interiors/inneneinrichtung-küche.jpg)
 
-Lamellen bändigen das Licht, das durch die riesigen Fenster direkt auf die Arbeitsplatte fällt. Die Küche wirkt aufgeräumt und ordentlich dank vollintegrierter Geräte und einem individuell eingepassten Schranksystem.
+Lamellen bändigen das Licht, das durch die riesigen Fenster direkt auf die Arbeitsplatte fällt. Die Küche wirkt aufgeräumt und ordentlich, dank vollintegrierter Geräte und einem individuell eingepassten Schranksystem.
 
 -   ### Inneneinrichtung **Eingangsbereich**
     ![Inneneinrichtung Eingangsbereich](moderne-interpretation-eines-klassischen-interiors/inneneinrichtung-eingangsbereich.jpg)
@@ -205,7 +205,7 @@ Lamellen bändigen das Licht, das durch die riesigen Fenster direkt auf die Arbe
 -   ### Innendesign **Eingangsbereich**
     ![Innendesign Eingangsbereich](moderne-interpretation-eines-klassischen-interiors/innendesign-eingangsbereich.jpg)
 
-Ein Entree mit Einbauschrank, das Funktionalität und  Ästhetik vereint. Klassisch eben!
+Ein Entrée mit Einbauschrank, das Funktionalität und Ästhetik vereint. Klassisch eben!
 
 ![Innendesign Badezimmer](moderne-interpretation-eines-klassischen-interiors/innendesign-badezimmer.jpg)
 ### Innendesign **Badezimmer**
@@ -219,7 +219,7 @@ Die Lösung für kleinere und lang geschnittene Räume. Mosaik in Braun und wei�
 -   ### Interior design **Badezimmer**
     ![Interior design Badezimmer](moderne-interpretation-eines-klassischen-interiors/interior-design-badezimmer.jpg)
 
-Eine große ebenerdige Duschnische mit feinsten Armaturen und einem riesigem Duschkopf, der ein Wasserfallfeeling bereitet, sorgen für Entspannung nach einem harten Arbeitstag. 
+Eine große ebenerdige Duschnische mit feinsten Armaturen und einem riesigen Duschkopf, der ein Wasserfallfeeling bereitet, sorgen für Entspannung nach einem harten Arbeitstag. 
 
 -   ### Innendesign **Gästetoilette**
     ![Innendesign Gästetoilette](moderne-interpretation-eines-klassischen-interiors/innendesign-gästetoilette.jpg)
@@ -228,14 +228,14 @@ Eine große ebenerdige Duschnische mit feinsten Armaturen und einem riesigem Dus
 -   ### Inneneinrichtung **Gästetoilette**
     ![Inneneinrichtung Gästetoilette](moderne-interpretation-eines-klassischen-interiors/inneneinrichtung-gästetoilette.jpg)
 
-Unvergesslich! Fliesen mit floralem Print, welche besonders dekorativ in einer  Kombination von creme und weiß daher kommen. Wertige Armaturen und ein praktischer Waschbeckenschrank im Landhausstill lassen diese Gästetoilette im besten Licht erstrahlen.
+Einfach schön! Fliesen mit floralem Print, welche besonders dekorativ in einer Kombination von Creme und Weiß daher kommen. Wertige Armaturen und ein praktischer Waschbeckenschrank im Landhausstill lassen diese Gästetoilette im besten Licht erstrahlen.
 
 -   ### Inneneinrichtung **Entree 2 Stock**
     ![Inneneinrichtung Entree 2 Stock](moderne-interpretation-eines-klassischen-interiors/entree-2-stock.jpg)
 -   ### Interior Design Entree **2 Stock**
     ![Interior Design Entree 2 Stock](moderne-interpretation-eines-klassischen-interiors/interior-design-entree-2-stock.jpg)
 
-Das Entree im zweiten Stock – hell und offen, perfekt beleuchtet und dazu ein klassischer Sekretär als Blickfang!
+Das Entrée im zweiten Stock – hell und offen, perfekt beleuchtet und dazu ein klassischer Sekretär als Blickfang!
 
 ![Interior Design Schlafzimmer](moderne-interpretation-eines-klassischen-interiors/interior-design-schlafzimmer.jpg)
 ### Interior Design **Schlafzimmer**
@@ -254,7 +254,7 @@ Der große weiße Einbauschrank verrät sich nur durch seine Applikationen, dess
 ![Inneneinrichtung Kinderzimmer](moderne-interpretation-eines-klassischen-interiors/inneneinrichtung-kinderzimmer.jpg)
 ### Inneneinrichtung **Kinderzimmer**
 
-Eine fantasievolle bunte Welt, die Kinderherzen höher schlagen lässt. Zitronengelb dazu frisches hellgrün und süßes Lila.
+Eine fantasievolle bunte Welt, die Kinderherzen höher schlagen lässt. Zitronengelb dazu frisches Hellgrün und süßes Lila.
 
 -   ### Einrichtung **Kinderzimmer**
     ![Einrichtung Kinderzimmer](moderne-interpretation-eines-klassischen-interiors/einrichtung-kinderzimmer.jpg)
@@ -263,7 +263,7 @@ Eine fantasievolle bunte Welt, die Kinderherzen höher schlagen lässt. Zitronen
 -   ### Interior design **Kinderzimmer**
     ![Interior design Kinderzimmer](moderne-interpretation-eines-klassischen-interiors/interior-design-kinderzimmer.jpg)
 
-Das Kind gerechte Mobiliar ist farblich passend gestrichen und bietet genug Stauraum und Flexibilität für jede Gelegenheit! 
+Das kindgerechte Mobiliar ist farblich passend gestrichen und bietet genug Stauraum und Flexibilität für jede Gelegenheit! 
 
 ![Interior Gästezimmer](moderne-interpretation-eines-klassischen-interiors/einrichtung-gästezimmer.jpg)
 ### Interior **Gästezimmer**
