@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: '(Klassisches Wohndesign) mit romantischem Flair'
-description: 'Das klassische Design zeichnet sich mit seiner universellen Ästhetik aus. Ein Inneneinrichtungsstil, der in gewisser Hinsicht zeitlos geblieben ist. Mit kleinen verspielten Elementen wirkt er unverwechselbar und einladend.'
+description: 'Das klassische Design zeichnet sich durch seine universelle Ästhetik aus. Ein Inneneinrichtungsstil, der in gewisser Hinsicht zeitlos geblieben ist. Mit kleinen verspielten Elementen wirkt er unverwechselbar und einladend.'
 date: 2015-04-14
 featured: true
 images:
@@ -96,7 +96,7 @@ images:
 tags: [private, modernclassic, livingroom, kitchen, bathroom, bedroom, other]
 ---
 ## **Landhausstill** auch **ohne Land**
-Das klassische Design zeichnet sich mit seiner universellen Ästhetik aus. Ein Inneneinrichtungsstil, der in gewisser Hinsicht zeitlos geblieben ist. Mit kleinen verspielten Elementen wirkt er unverwechselbar und einladend.
+Das klassische Design zeichnet sich durch seine universelle Ästhetik aus. Ein Inneneinrichtungsstil, der in gewisser Hinsicht zeitlos geblieben ist. Mit kleinen verspielten Elementen wirkt er unverwechselbar und einladend.
 
 ![Inneneinrichtung Wohnzimmer](klassisches-wohndesign-mit-romantischem-flair/inneneinrichtung-wohnzimmer.jpg)
 ### Inneneinrichtung **Wohnzimmer**
@@ -116,7 +116,7 @@ Dieser bezaubernde Essbereich besticht durch edle klassische Einrichtungsdetails
 ![Innendesign Küche](klassisches-wohndesign-mit-romantischem-flair/innendesign-küche.jpg)
 ### Innendesign **Küche**
 
-Ein Hauch von Nostalgie und Behaglichkeit zieht durch diese wunderschöne Küche - Offen, freundlich und komplett ausgestattet.
+Ein Hauch von Nostalgie und Behaglichkeit zieht durch diese wunderschöne Küche - offen, freundlich und komplett ausgestattet.
 
 -   ### Innenausstattung **Küche**
     ![Innenausstattung Küche](klassisches-wohndesign-mit-romantischem-flair/innenausstattung-küche.jpg)
@@ -137,12 +137,12 @@ Auch hier ist Weiß die beherrschende Farbe.
 -   ### Einrichtung **Eingangsbereich**
     ![Einrichtung Eingangsbereich](klassisches-wohndesign-mit-romantischem-flair/einrichtung-eingangsbereich.jpg)
 
-Weiße Wände und stilvolle, weiße individuell gefertigte Möbel in Kombination mit Fließen in Erdtönen laden ein zum Eintritt.
+Weiße Wände und stilvolle, individuell gefertigte Möbel in Kombination mit Fliesen in Erdtönen laden ein zum Eintritt.
 
 ![Interior Design Schlafzimmer](klassisches-wohndesign-mit-romantischem-flair/interior-design-schlafzimmer.jpg)
 ### Interior Design **Schlafzimmer**
 
-Romantisches Blau setzt in diesem Schlafzimmer die Akzente ohne zu aufdringlich zu wirken. In Kombination mit den sympathischen Möbeln im Landhausstil ist dieses Arrangement erfrischend und beruhigend zugleich.
+Romantisches Blau setzt in diesem Schlafzimmer die Akzente ohne aufdringlich zu wirken. In Kombination mit den charmanten Möbeln im Landhausstil ist dieses Arrangement erfrischend und beruhigend zugleich.
 
 -   ### Innenausstattung **Schlafzimmer**
     ![Innenausstattung Schlafzimmer](klassisches-wohndesign-mit-romantischem-flair/innenausstattung-schlafzimmer.jpg)
@@ -173,4 +173,4 @@ Und zu guter Letzt eine kleine Ruheinsel in Form eines schmucken Balkons für di
 -   ### Einrichtung **Der Balkon**
     ![Einrichtung Der Balkon](klassisches-wohndesign-mit-romantischem-flair/einrichtung-der-balkon.jpg)
 
-Bei einem Sonnenuntergang ein Glas Rose- was kann schöner sein?
+Bei einem Sonnenuntergang ein Glas Rosé - was kann schöner sein?
