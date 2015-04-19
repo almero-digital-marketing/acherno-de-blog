@@ -1,7 +1,7 @@
 ---
 layout: blogpost
-title: '(Stillvolles Apartment) in hellen und freundlichen Tönen'
-description: 'Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Interior Design eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen, graphischen Muster, praktische Möbel, Pastellfarben, die mit Farbakzente in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden. '
+title: '(Stilvolles Apartment) in hellen und freundlichen Tönen'
+description: 'Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Interior Design eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen, graphischem Muster, praktischen Möbeln, Pastellfarben, die mit Farbakzenten in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden. '
 date: 2015-01-27
 cover: 'http://hub.acherno.com/svn/haus-of-vanity/Site/3D/4.01-h_f.jpg'
 images:
@@ -76,29 +76,29 @@ images:
 tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other, nursery]
 ---
 ## **Wohnen** wie in **Skandinavien**
-Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Interior Design eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen,  graphischen Muster, praktische Möbel, Pastellfarben, die mit Farbakzente in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden. 
+Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Interior Design eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen, graphischem Muster, praktischen Möbeln, Pastellfarben, die mit Farbakzenten in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden.
 
 ![Inneneinrichtung Wohnzimmer](stillvolles-apartment-in-hellen-und-freundlichen-tönen/inneneinrichtung-wohnzimmer.jpg)
 ### Inneneinrichtung **Wohnzimmer**
 
-Ein geräumiges Zimmer, das Wohnen, Essen und Kochen in sich vereint. Die himmelblaue Wände und ausgewählte Wohnaccessoires in süßen Rosa,  frischem Apfelgrün, warmem Curry und kalten Aqua sorgen schon beim betreten des Zimmer für eine helle Stimmung. Ein erstklassiges Echtholzparkett  und Vorhänge in Creme sorgen für zusätzliche Wärme im Raum und lassen das Blaue der Wände noch freundlicher erschienen. 
+Ein geräumiges Zimmer, das Wohnen, Essen und Kochen in sich vereint. Die himmelblauen Wände und ausgewählte Wohnaccessoires in süßem Rosa, frischem Apfelgrün, warmem Curry und kaltem Aqua sorgen schon beim Betreten des Zimmers für eine helle Stimmung. Ein erstklassiges Echtholzparkett  und Vorhänge in Creme sorgen für zusätzliche Wärme im Raum und lassen das Blaue der Wände noch freundlicher erschienen. 
 
 Praktisch – eine großzügige weiße Regalwand mit viele Fächern und ausreichend Aufbewahrungsmöglichkeiten.  Der flexible Couchtisch ist auf einem auffälligen Patchwork -Teppich platziert und zieht alle Blicke auf sich.
 
 ![Einrichtung Küche](stillvolles-apartment-in-hellen-und-freundlichen-tönen/einrichtung-küche.jpg)
 ### Einrichtung **Küche**
 
-Diese Küche ist eindeutig der Familienfavorit. Hier tobt das Familienleben. Maßangefertigte Küchenschränke im XXL Format, eine perfekte Deckenbeleuchtung und Fliesen in graphischen Mustern, machen diese Küche zum Favorit der Familien. Hier macht nicht nur das Kochen Spaß, sondern das komplette Familienleben.
+Hier tobt das Familienleben. Maßangefertigte Küchenschränke im XXL Format, eine perfekte Deckenbeleuchtung und Fliesen in graphischen Mustern, machen diese Küche zum Favorit der Familien. Hier macht nicht nur das Kochen Spaß, sondern das komplette Familienleben.
 
 ![Interior Design Essbereich](stillvolles-apartment-in-hellen-und-freundlichen-tönen/interior-design-essbereich.jpg)
 ### Interior Design **Essbereich**
 
-Einen offenen Essbereich mit großen Esstisch und hohen Wohlfühlfaktor – skandinavisch eben! Die Stühle sind in den gleichen Farben gewählt wie das gepolsterte Sofa. Wie gemütlich. Kleine Dekokissen in Apricot, Rosa und Apfelgrün setzten hier die Akzente.
+Einen offenen Essbereich mit großem Esstisch und hohem Wohlfühlfaktor – skandinavisch eben! Die Stühle sind in den gleichen Farben gewählt wie das gepolsterte Sofa. Wie gemütlich! Kleine Wurfkissen in Apricot, Rosa und Apfelgrün setzten hier die Akzente.
 
 ![Innenaustattung Badezimmer](stillvolles-apartment-in-hellen-und-freundlichen-tönen/innenaustattung-badezimmer.jpg)
 ### Innenaustattung **Badezimmer**
 
-Beeindruckend – ein Badezimmer, das dir sofort ein Lächeln aufs Gesicht zaubert! Pures Weiß in Kombination mit kaltem Blau. Wo sieht man das noch, wenn nicht im Skandinavien. An diesem Bad ist nichts zu viel oder redundant. Eine perfekte Auswahl an Farben, Formen und Materialien. Der Waschbeckenunterschrank in Türkis lässt das Bad besonders edel wirken. 
+Beeindruckend – ein Badezimmer, das dir sofort ein Lächeln aufs Gesicht zaubert! Pures Weiß in Kombination mit kaltem Blau. Wo sieht man das noch, wenn nicht in Skandinavien. An diesem Bad ist nichts zu viel oder redundant. Eine perfekte Auswahl an Farben, Formen und Materialien. Der Waschbeckenunterschrank in Türkis lässt das Bad besonders edel wirken. 
 
 -   ### Ausstattung **Badezimmer**
     ![Ausstattung Badezimmer](stillvolles-apartment-in-hellen-und-freundlichen-tönen/ausstattung-badezimmer.jpg)
@@ -112,7 +112,7 @@ Eine ebenerdige Dusche mit großen Glastüren, lässt den Raum noch größer wir
 -   ### Innendesign **Eingangsbereich**
     ![Innendesign Eingangsbereich](stillvolles-apartment-in-hellen-und-freundlichen-tönen/innendesign-eingangsbereich.jpg)
 
-Das Fliesenmosaik in warmen Natur und Rose Tönen fesselt den Blick jedes Besuchers. Die Wände und die abstrakten Gemälde harmonieren perfekt mit dem diesem Bodenbelag. Ein simpler und eleganter Schuhschrank vollendet dieses prächtige Arrangement. 
+Das Fliesenmosaik in warmen Natur und Rosé Tönen fesselt den Blick jedes Besuchers. Die Wände und die abstrakten Gemälde harmonieren perfekt mit diesem Bodenbelag. Ein simpler und eleganter Schuhschrank vollendet dieses prächtige Arrangement. 
 
 ![Interior Design Schlafzimmer](stillvolles-apartment-in-hellen-und-freundlichen-tönen/interior-design-schlafzimmer.jpg)
 ### Interior Design **Schlafzimmer**
@@ -124,7 +124,7 @@ Energie tanken! Das ist das Motto dieses Schlafzimmers. Das Lemongelb gibt dir e
 -   ### Innenaustattung **Schlafzimmer**
     ![Innenaustattung Schlafzimmer](stillvolles-apartment-in-hellen-und-freundlichen-tönen/innenaustattung-schlafzimmer.jpg)
 
-Die Wand hinter dem Bett ist zweigeteilt. Auf der einen Seite haben wir eine Tapete in typisch skandinavischen Naturmustern, auf der Anderen ist sie mit einer Latexfarbe gestrichen.Die Möbel sind im dunklen braun gehalten um einen Kontrast zu bilden. Ein großer praktischer Schrank mit integriertem Ordungssystem bietet Platz für alles Nötige. So wirkt das Zimmer immer aufgeräumt und hell.
+Die Wand hinter dem Bett ist zweigeteilt. Auf der einen Seite haben wir eine Tapete in typisch-skandinavischen Naturmustern, auf der Anderen ist sie mit einer Latexfarbe gestrichen.Die Möbel sind im dunklen Braun gehalten um einen Kontrast zu bilden. Ein großer praktischer Schrank mit integriertem Ordungssystem bietet Platz für alles Nötige. So wirkt das Zimmer immer aufgeräumt und hell.
 
 -   ### Einrichtung **Gäste Bad**
     ![Einrichtung Gäste Bad](stillvolles-apartment-in-hellen-und-freundlichen-tönen/einrichtung-gäste-bad.jpg)
@@ -133,12 +133,12 @@ Die Wand hinter dem Bett ist zweigeteilt. Auf der einen Seite haben wir eine Tap
 -   ### Innenaustattung **Gäste Bad**
     ![Innenaustattung Gäste Bad](stillvolles-apartment-in-hellen-und-freundlichen-tönen/innenaustattung-gäste-bad.jpg)
 
-Weniger ist mehr! Auch haben wir nur drei Farben kombiniert. Weiß, helles Grau und Oliv. Klare Linien und eine transparente Duschkabine und hochwertige Armaturen  machen aus diesem Bad eine kleine Wellnessoase.
+Weniger ist mehr! Auch haben wir nur drei Farben kombiniert - Weiß, helles Grau und Oliv. Klare Linien und eine transparente Duschkabine und hochwertige Armaturen  machen aus diesem Bad eine kleine Wellnessoase.
 
 ![Inneneinrichtung Kinderzimmer](stillvolles-apartment-in-hellen-und-freundlichen-tönen/inneneinrichtung-kinderzimmer.jpg)
 ### Inneneinrichtung **Kinderzimmer**
 
-Das Kinderzimmer – ein multifunktionaler Raum! Hier sollen Kinder nicht nur schlafen, sondern auch spielen und lernen. Wir haben das Zimmer sehr fantasievoll und praktisch eingerichtet. Bei der Farbauswahl, haben wir uns für ein Naturton entschieden und diesen dann mit Textilien und anderen Accessoires in grellen Farben kombiniert.  
+Das Kinderzimmer – ein multifunktionaler Raum! Hier sollen Kinder nicht nur schlafen, sondern auch spielen und lernen. Wir haben das Zimmer sehr fantasievoll und praktisch eingerichtet. Bei der Farbauswahl, haben wir uns für einen Naturton entschieden und diesen dann mit Textilien und anderen Accessoires in heiteren Farben kombiniert.  
 
 -   ### Interior Design **Kinderzimmer**
     ![Interior Design Kinderzimmer](stillvolles-apartment-in-hellen-und-freundlichen-tönen/interior-design-kinderzimmer.jpg)
