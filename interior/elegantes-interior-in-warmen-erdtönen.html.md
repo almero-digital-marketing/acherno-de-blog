@@ -75,19 +75,19 @@ Das Zentrum des Familienlebens - Der Essbereich ist zweckmäßig  in der Küche 
 ![Innendesign Küche](elegantes-interior-in-warmen-erdtönen/innendesign-küche.jpg)
 ### Innendesign **Küche**
 
-Gut gelöst – die eigentliche Küche ist in einem eigenen Raum durch eine transparente Tür mit weißen Rahmen vom Essbereich separiert. Der Koch kann in Ruhe zaubern und die Gerüche bleiben in der Küche.
+Gut gelöst! Die eigentliche Küche ist in einem eigenen Raum durch eine transparente Tür vom Essbereich separiert. Der Koch kann in Ruhe zaubern und die Gerüche bleiben in der Küche.
 
 ![Inneneinrichtung Küche](elegantes-interior-in-warmen-erdtönen/inneneinrichtung-küche.jpg)
 ### Inneneinrichtung **Küche**
 
-Großartig - Klare Linien, helle Farben und viel Stauraum schaffen ein Gefühl der Großzügigkeit. Das individuelle Schranksystem nutzt die Raumhöhe optimal aus, bietet viel Stauraum und lässt den kleinen Raum aufgeräumt und ordentlich wirken. Spotlights in den Decken beleuchten die weiße Arbeitsfläche und alles Wichtige perfekt aus.
+Klasse! Klare Linien, helle Farben und viel Stauraum schaffen ein Gefühl der Großzügigkeit. Das individuelle Schranksystem nutzt die Raumhöhe optimal aus, bietet viel Stauraum und lässt den kleinen Raum aufgeräumt und ordentlich wirken. Spotlights beleuchten die weiße Arbeitsfläche und alles Wichtige perfekt aus.
 
 ![Interior Eingangsbereich](elegantes-interior-in-warmen-erdtönen/interior-eingangsbereich.jpg)
 ### Interior **Eingangsbereich**
 
-Der Eingangsbereich ist einheitlich mit dem restlichen Design in klassischem Weiß und Braun gehalten. Der Boden ist mit dem gleichen Belag  wie in der Küche ausgestattet, einem pflegeleichten Parkettimitat in Granit.  Ein großer Spiegel am Ende des Eingangsbereichs streckt den Raum optisch und verleiht ihm dadurch zusätzliche Tiefe. Der Schuhschrank in Weiß ist mit Walnuss furniert und wirkt sehr dekorativ. Bilder in Gold, Ocker und Silber verzieren die Wand.
+Der Eingangsbereich ist einheitlich mit dem restlichen Design in klassischem Weiß und Braun gehalten. Der Boden ist mit dem gleichen Belag wie in der Küche ausgestattet, einem pflegeleichten Laminat in Granit.  Ein großer Spiegel am Ende des Eingangsbereichs streckt den Raum optisch und verleiht ihm dadurch zusätzliche Tiefe. Der Schuhschrank in Weiß ist mit Walnuss furniert und wirkt sehr dekorativ. Bilder in Gold, Ocker und Silber verzieren die Wand.
 
 ![Inneneinrichtung Eingangsbereich](elegantes-interior-in-warmen-erdtönen/inneneinrichtung-eingangsbereich.jpg)
 ### Inneneinrichtung **Eingangsbereich**
 
-Der Große braune Einbauschrank, der Wohnzimmer und Eingangsbereich gliedert, erstrahlt von dieser Seite in edlem Weiß. Eine dekorative Arkade ist der optische Hingucker - so wird eine Spannung erzeugt, die den von klaren Linien und schlichten Farben dominierten Raum auflockert.
+Der Große braune Einbauschrank, der Wohnzimmer und Eingangsbereich gliedert, erstrahlt von dieser Seite in edlem Weiß. Eine dekorative Arkade ist der optische Hingucker - so wird eine Spannung erzeugt, die den von klaren Linien und schlichten Farben dominierten Raum, auflockert.
