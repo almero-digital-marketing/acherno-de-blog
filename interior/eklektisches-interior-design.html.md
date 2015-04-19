@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: 'Eklektisches (Interior Design)'
-description: 'Authentizität bewahren! – Eine Wohnungseinrichtung, die das Beste aus vielen Wohndesigns in sich vereint,  aber doch sehr schlüssig und ästhetisch wirkt. Befreie dich von Konventionen und kreiere dein eigenes Traumheim!'
+description: 'Authentizität bewahren! Eine Wohnungseinrichtung, die das Beste aus vielen Wohndesigns in sich vereint,  aber doch sehr schlüssig und ästhetisch wirkt. Befreie dich von Konventionen und kreiere dein eigenes Traumheim!'
 date: 2015-04-14
 images:
   -
@@ -84,44 +84,44 @@ Authentizität bewahren! – Eine Wohnungseinrichtung, die das Beste aus vielen 
 ![Innendesign Wohnzimmer](eklektisches-interior-design/innendesign-wohnzimmer.jpg)
 ### Innendesign **Wohnzimmer**
 
-Ein offenes Wohnzimmer, das von den Farben Weiß und Hellgrau dominiert wird. Eine der Wände ist mit dekorativen Putz in samtigem Grau angestrichen und mit Holzrahmen verseht. Zwei klassischen Deckenleuchtern in Weiß sind nicht nur zeitlos dekorativ, sondern weisen auch den Blick auf den Wohn - Essbereich.
+Ein offenes Wohnzimmer, das von den Farben Weiß und Hellgrau dominiert wird. Eine der Wände ist mit dekorativem Putz in samtigem Grau angestrichen und mit Holzrahmen versehen. Zwei klassische Deckenleuchten in Weiß sind nicht nur zeitlos dekorativ, sondern weisen auch den Blick auf den Wohn - Essbereich.
 
 ![Inneneinrichtung Wohnzimmer](eklektisches-interior-design/inneneinrichtung-wohnzimmer.jpg)
 ### Inneneinrichtung **Wohnzimmer**
 
-Der Raum wirkt dank den großen französischen Fenstern gut ausgeleuchtet. Schwere bodenlange Vorhänge bewahren die nötige Privatheit. Die überdimensionale weiße Fronttür wirkt mit seinen filigranen Holzrahmen gar nicht schwer und sorgt für einen denkwürdigen Eintritt.
+Der Raum wirkt dank den großen französischen Fenstern gut ausgeleuchtet. Schwere bodenlange Vorhänge bewahren die nötige Privatheit. Die überdimensionale, weiße Fronttür wirkt mit seinem filigranen Holzrahmen gar nicht schwer und sorgt für einen denkwürdigen Eintritt.
 
 ![Interior Wohnzimmer](eklektisches-interior-design/interior-wohnzimmer.jpg)
 ### Interior **Wohnzimmer**
 
-Trendy Petrolblau setzt in diesem Raum die Akzente. Die Ledercouch ist in der gleichen Farbe  wie der Rahmen des LCD-TV gehalten. Ein Hingucker! Petrolblau ist auch in den Gemälden anwesend, genauso wie in den Küchen und Wohn - Accessoires. Der Rest ist in Weiß gehalten. Der Ethanolkamin unter dem TV spendet zusätzlich Wärme und Behaglichkeit.
+Trendiges Petrolblau setzt in diesem Raum die Akzente. Die Ledercouch ist in der gleichen Farbe wie der Rahmen des LCD-TVs gehalten. Ein Hingucker! Petrolblau ist auch in den Gemälden anwesend, genauso wie in den Küchen- und Wohnaccessoires. Der Rest ist in Weiß gehalten. Der Ethanolkamin unter dem TV spendet zusätzlich Wärme und Behaglichkeit.
 
 ![Inneneinrichtung Wohn und Essbereich](eklektisches-interior-design/inneneinrichtung-wohn-und-essbereich.jpg)
 ### Inneneinrichtung **Wohn und Essbereich**
 
-Luxuriös und Komfortabel – dieser Essbereich lässt keine Wünsche offen.  Die vier weißen, gepolsterten Essstühle gleichen Barocksesseln und sind mit dekorativen Knöpfen verzieht. Der Esstisch ist klassisch designt und  in mattem Weiß gehalten. Hier kann das Essen gerne mal länger dauern.
+Luxuriös und komfortabel – dieser Essbereich lässt keine Wünsche offen! Die vier weißen, gepolsterten Essstühle gleichen Barocksesseln und sind mit dekorativen Knöpfen verziehrt. Der Esstisch ist klassisch designt und in mattem Weiß gehalten. Hier kann das Essen gerne mal länger dauern.
 
 ![Inneneinrichtung Küche](eklektisches-interior-design/inneneinrichtung-küche.jpg)
 ### Inneneinrichtung **Küche**
 
-Lass deine Fantasie fliegen – deine Küche als Bühne für ein kulinarisches Feuerwerk. Die Schränke sind Weiß mit gefrästen Türen und originellen Metalltürgriffen. Die Arbeitsflächen sind aus schwarzem Stein gefertigt. Eine moderne und funktionale Kücheninsel, die mit Barhockern kombiniert wurde bildet eine dezente Trennung zwischen Koch - und Essbereich.
+Lass deine Fantasie fliegen – deine Küche als Bühne für ein kulinarisches Feuerwerk! Die Schränke sind Weiß mit gefrästen Türen und originellen Metalltürgriffen. Die Arbeitsflächen sind aus schwarzem Stein gefertigt. Eine moderne und funktionale Kücheninsel, die mit Barhockern kombiniert wurde, bildet eine dezente Trennung zwischen Koch - und Essbereich.
 
 ![Interior Design Schlafzimmer](eklektisches-interior-design/interior-design-schlafzimmer.jpg)
 ### Interior Design **Schlafzimmer**
 
-Film reif – Wunderschöne Hängedecken in hellem Grau werden durch die gläsernen Deckenleuchten zusätzlich in Szene gesetzt. Ein prachtvolles Mosaik aus Mustern in schwarz-grau, steht hinter den großzügigen Bett.  Dazu steht noch ein schwarzer Konsolentisch mit einem stilvollen Spiegel an der Ecke bereit.
+Filmreif – Wunderschöne Hängedecken in hellem Grau werden durch die gläsernen Deckenleuchten zusätzlich in Szene gesetzt. Ein prachtvolles Mosaik aus Mustern in schwarz-grau, steht hinter dem großzügigen Bett.  Dazu steht noch ein schwarzer Konsolentisch mit einem stilvollen Spiegel an der Ecke bereit.
 
 -   ### Einrichtung **Schlafzimmer**
     ![Einrichtung Schlafzimmer](eklektisches-interior-design/einrichtung-schlafzimmer.jpg)
 -   ### Inneneinrichtung **Schlafzimmer**
     ![Inneneinrichtung Schlafzimmer](eklektisches-interior-design/inneneinrichtung-schlafzimmer.jpg)
 
-Eine Schiebetür mit weißem Rahmen sorgt für stimmungsvolle Atmosphäre. Die kuschelige Bettwäsche ist in softem Ecru und Weiß. Petrolblaue Textilien setzten auch hier die Akzente. Ein bunter Polstersessel in Patchwork Look ist der Blickfang im Raum.
+Eine Schiebetür mit weißem Rahmen sorgt für stimmungsvolle Atmosphäre. Die kuschelige Bettwäsche ist in softem Ecru und Weiß. Petrolblaue Textilien setzten auch hier die Akzente. Ein bunter Polstersessel im Patchwork Look ist der Blickfang im Raum.
 
 ![Inneneinrichtung Eingangsbereich](eklektisches-interior-design/inneneinrichtung-eingangsbereich.jpg)
 ### Inneneinrichtung **Eingangsbereich**
 
-Ein Hauch Klassizismus – zeitloses Schwarz und Weis. Fliesen im Schachbrett Look verlegt lassen den kleinen Raum viel großer wirken.
+Ein Hauch Klassizismus – zeitloses Schwarz und Weis. Fliesen im Schachbrett Look verlegt, lassen den kleinen Raum viel größer wirken.
 
 -   ### Interior Design **Eingangsbereich**
     ![Interior Design Eingangsbereich](eklektisches-interior-design/interior-design-eingangsbereich.jpg)
@@ -137,7 +137,7 @@ Für noch mehr Komfort haben wir eine Nische zu einem Schminktisch umfunktionier
 ![Inneneinrichtung Badezimmer](eklektisches-interior-design/inneneinrichtung-badezimmer.jpg)
 ### Inneneinrichtung **Badezimmer**
 
-In kontrastreichen Schwarz und Weiß erstrahlt dieser Badezimmer in einem einmaligen Sixties Design. Spiegel, ein paar Bilderrahmen und schicke Seifenspender in petrolblau sorgen für eine kleine Rebellion im Raum. Dusche und Toilette sind praktisch mit einer Glaswand getrennt. Die Duschkabine in Schwarz mit kleinen Abstellnischen wirkt sehr edel.
+In kontrastreichem Schwarz und Weiß erstrahlt dieses Badezimmer in einem einmaligen Sixties Design. Spiegel, ein paar Bilderrahmen und schicke Seifenspender in petrolblau sorgen für eine kleine Rebellion im Raum. Dusche und Toilette sind praktisch mit einer Glaswand getrennt. Die Duschkabine in Schwarz mit kleinen Abstellnischen wirkt sehr edel und dekorativ.
 
 -   ### Einrichtung **Badezimmer**
     ![Einrichtung Badezimmer](eklektisches-interior-design/einrichtung-badezimmer.jpg)
