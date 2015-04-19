@@ -2,11 +2,11 @@
 layout: blogindex
 rel: '/home'
 title: 'Wohn - und Einrichtungsideen'
-description: 'Das Acherno Interior Design Blog. Unzählige Ideen für Inneneinrichtung, Wohndesign und intereresante Raumlösungen.'
+description: 'Der Acherno Interior Design Blog - interessante Ideen für Inneneinrichtung, Wohndesign und ungewöhnliche Raumlösungen.'
 paging: 'interior'
 web:
   title: '(Offizielle Seite) [Acherno]'
-  description: 'Von der Idee bis zur Realisierung - wir sind dein Ansprechpartner für alle Fragen rund um Interior Design.'
+  description: 'Von der Idee bis zur Realisierung - wir sind dein Ansprechpartner für alle Fragen rund ums Interior Design.'
   domains: 
     - 
       name: 'acherno.de'
@@ -16,7 +16,7 @@ web:
       geoip: 'at'
 facebook:
   title: '(Besuche uns auf Facebook) [Facebook.com]'
-  description: 'Kommentiere unsere Projekte und folge dem Blog um über das Neueste informiert zu sein.'
+  description: 'Kommentiere unsere Projekte und folge dem Blog, so wirst du immer auf dem neuesten Stand sein.'
   url: 'http://www.facebook.com/acherno.interior.design'
 copyright:
   acherno: '(Acherno) GmbH © 2007-2015|(Alle Rechte vorbehalten)'
