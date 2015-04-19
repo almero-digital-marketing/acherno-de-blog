@@ -118,7 +118,7 @@ Wie eine Oase in Mitten des stressigen und schnellen Stadtlebens. Hier kannst du
 ![Interior Design Wohnzimmer](apartment-design-in-frühlingsfarben/interior-design-wohnzimmer.jpg)
 ### Interior Design **Wohnzimmer**
 
-Die moderne Aufteilung der Wohnung macht hier einen offenen Wohnraum möglich. Dieses moderne Wohndesign liegt voll im Trend, weil es ein Gefühl von Geräumigkeit überträgt und trotzdem behaglich wirkt. Hier ist der Wohn-und Essbereich durch Deckenrahmen mit integrierter Beleuchtung in Flieder abgetrennt.
+Die moderne Aufteilung der Wohnung macht hier einen offenen Wohnraum möglich. Dieses Wohndesign liegt voll im Trend, weil es ein Gefühl von Geräumigkeit überträgt und trotzdem behaglich wirkt. Hier ist der Wohn-und Essbereich durch Deckenrahmen mit integrierter Beleuchtung in Flieder markiert.
 
 ![Einrichtung Wohnzimmer](apartment-design-in-frühlingsfarben/einrichtung-wohnzimmer.jpg)
 ### Einrichtung **Wohnzimmer**
