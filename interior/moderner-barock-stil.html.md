@@ -140,7 +140,7 @@ Grenzenloser Luxus, dramatischer Moment, dynamische Architektur und eine Vorlieb
 ![Inneneinrichtung Wohnzimmer](moderner-barock-stil/inneneinrichtung-wohnzimmer.jpg)
 ### Inneneinrichtung **Wohnzimmer**
 
-Kompliment – eine schwarze halbmondförmige Sitzlandschaft füllt den weißen ovalen Raum. Üppige Vorhänge, geschwungene Beinornamente in venezianischem Stil  und ein abstraktes Wandgemälde erstrahlen in luxuriösem Gold. Deckenleuchten aus Glas, eine moderne Interpretation von pompösen Kronleuchtern, brechen das Licht im Raum und schaffen eine einmalige Atmosphäre. 
+Kompliment – eine schwarze halbmondförmige Sitzlandschaft füllt den weißen, ovalen Raum. Üppige Vorhänge, geschwungene Beinornamente in venezianischem Stil  und ein abstraktes Wandgemälde erstrahlen in luxuriösem Gold. Deckenleuchten aus Glas, eine moderne Interpretation von pompösen Kronleuchtern, brechen das Licht im Raum und schaffen eine einmalige Atmosphäre. 
 
 -   ### Innendesign **Wohnzimmer**
     ![Innendesign Wohnzimmer](moderner-barock-stil/innendesign-wohnzimmer.jpg)
@@ -149,12 +149,12 @@ Kompliment – eine schwarze halbmondförmige Sitzlandschaft füllt den weißen 
 -   ### Einrichtung **Wohnzimmer**
     ![Einrichtung Wohnzimmer](moderner-barock-stil/einrichtung-wohnzimmer.jpg)
 
-Das Sofa folgt effektvoll der Biegungslinie der weißen Decke. Davor steht ein moderner kreisförmiger Beistelltisch in Hochglanz Weiß. Dieser korrespondiert mit der glatten Oberfläche der ovalen Decke. Ein abgehängter Rahmen mit integrierter Beleuchtung bringt das Deckendesign zur Geltung und erinnert an ein königliches Schlafgemach.
+Das Sofa folgt effektvoll der Biegungslinie der weißen Decke. Davor steht ein moderner kreisförmiger Beistelltisch in hochglanz Weiß. Dieser korrespondiert mit der glatten Oberfläche der ovalen Decke. Ein abgehängter Rahmen mit integrierter Beleuchtung bringt das Deckendesign zur Geltung und erinnert an ein königliches Schlafgemach.
 
 ![Innendesign Esszimmer](moderner-barock-stil/innendesign-esszimmer.jpg)
 ### Innendesign **Esszimmer**
 
-Für die visuelle Trennung zwischen Wohn- und Essbereich sorgt eine extravagante Wand, die wie  von einem Bildhauer geschaffenen aussieht und an einen Wasserfall erinnert.
+Für die visuelle Trennung zwischen Wohn- und Essbereich sorgt eine extravagante Wand, die wie von einem Bildhauer geschaffenen aussieht und an einen Wasserfall erinnert.
 
 -   ### Inneneinrichtung **Esszimmer**
     ![Inneneinrichtung Esszimmer](moderner-barock-stil/inneneinrichtung-esszimmer.jpg)
@@ -163,7 +163,7 @@ Für die visuelle Trennung zwischen Wohn- und Essbereich sorgt eine extravagante
 -   ### Interior Design **Esszimmer**
     ![Interior Design Esszimmer](moderner-barock-stil/interior-design-esszimmer.jpg)  
 
-Die Einrichtung im Esszimmer ist schlicht gehalten in klassischem Schwarz und Weiß. Die Sitzmöbel sind modern und komfortabel mit stilisierten Barockelementen. Eine Hängeleuchte, die einer Sternschnuppe ähnelt bringt Dynamik in dem Raum. Eine Ivory Tapete  mit Blumenornamenten und ein Fußboden Mandala Mosaik sind passend zum Barockstil gewählt. 
+Die Einrichtung im Esszimmer ist schlicht gehalten in klassischem Schwarz und Weiß. Die Sitzmöbel sind modern und komfortabel mit stilisierten Barockelementen. Eine Hängeleuchte, die einer Sternschnuppe ähnelt, bringt Dynamik in den Raum. Eine Ivory Tapete mit Blumenprints und ein Fußboden mit Mandala-Mosaik sind passend zum Barockstil gewählt. 
 
 -   ### Innendesign **Küche**
     ![Innendesign Küche](moderner-barock-stil/innendesign-küche.jpg)
@@ -174,12 +174,12 @@ Die Einrichtung im Esszimmer ist schlicht gehalten in klassischem Schwarz und We
 -   ### Einrichtung **Küche**
     ![Einrichtung Küche](moderner-barock-stil/einrichtung-küche.jpg)  
 
-Von einem anderen Stern – ein atemberaubendes Küchendesign in Weiß, Schwarz und Gold.  Die Trennung zwischen Wohnzimmer und Küche wird dank einer Glastür, die mit kleinen Gold -Glitter appliziert ist, geschaffen. Großzügiger Luxus und moderne Ästhetik in Form von bedruckten Glasflächen, moderner Küchenausstattung und Arbeitsplatten in organic shape Design.
+Wie von einem anderen Stern – ein atemberaubendes Küchendesign in Weiß, Schwarz und Gold.  Die Trennung zwischen Wohnzimmer und Küche wird dank einer Glastür, die mit kleinen Goldglittern appliziert ist, geschaffen. Großzügiger Luxus und moderne Ästhetik in Form von bedruckten Glasflächen, eine moderne Küchenausstattung und Arbeitsplatten im Organic Shape Design.
 
 ![Interior Design Schlafzimmer](moderner-barock-stil/interior-design-schlafzimmer.jpg)
 ### Interior Design **Schlafzimmer**
 
-Auch hier finden wir die Farbkombination von Schwarz, Weiß und Gold.  Wohnaccessoires in Barock Design setzen die Akzente und machen dieses Schlafzimmer zu einem prachtvollen Gemach.
+Auch hier finden wir die Farbkombination Schwarz, Weiß und Gold.  Wohnaccessoires im Barock Design setzen die Akzente und machen dieses Schlafzimmer zu einem prachtvollen Gemach.
 
 -   ### Einrichtung **Schlafzimmer**
     ![Einrichtung Schlafzimmer](moderner-barock-stil/einrichtung-schlafzimmer.jpg)
@@ -188,12 +188,12 @@ Auch hier finden wir die Farbkombination von Schwarz, Weiß und Gold.  Wohnacces
 -   ### Innenausstattung **Schlafzimmer**
     ![Innenausstattung Schlafzimmer](moderner-barock-stil/innenausstattung-schlafzimmer.jpg)
 
-Die Wände sind mit wunderschönen Tapeten in Rautenmuster bedeckt. Vor dem Fenstern hängen noble blickdichte Vorhänge. Zwei Spiegelelemente, die an der Decke und der Bettwand angebracht sind sorgen für eine faszinierende optische Illusion. Das Bett – ein wahrlich königlicher Ruheplatz.
+Die Wände sind mit wunderschönen Tapeten in Rautenmuster bedeckt. Vor den Fenstern hängen noble, blickdichte Vorhänge. Zwei Spiegelelemente, die an der Decke und der Bettwand angebracht sind sorgen für eine faszinierende optische Illusion. Das Bett – ein wahrlich königlicher Ruheplatz.
 
 ![Einrichtung Kinderzimmer](moderner-barock-stil/einrichtung-kinderzimmer.jpg)
 ### Einrichtung **Kinderzimmer**
 
-Zartes Lila und Rosa wie die Seele eines Mädchens – großflächig angebrachte Orchideen und Wohntextilien in Lila prägen das Bild dieses Zimmers. Die Einrichtung ist auch hier im schlichten Weiß gehalten mit goldenen Ornamenten. 
+Zartes Lila und Rosa, wie die Seele eines Mädchens – großflächig angebrachte Orchideen und Wohntextilien in Lila, prägen das Bild dieses Zimmers. Die Einrichtung ist auch hier in schlichtem Weiß mit goldenen Ornamenten gehalten. 
 
 -   ### Inneneinrichtung **Kinderzimmer**
     ![Inneneinrichtung Kinderzimmer](moderner-barock-stil/inneneinrichtung-kinderzimmer.jpg)
@@ -204,7 +204,7 @@ Zartes Lila und Rosa wie die Seele eines Mädchens – großflächig angebrachte
 -   ### Einrichtung **Kinderzimmer**
     ![Einrichtung Kinderzimmer](moderner-barock-stil/einrichtung-kinderzimmer.jpg)
 
-Ein weißer Deckenleuchter in Barockstil folgt der Designlinie der Wohnung. Ein Entspannungssessel hängt einladend von der Decke herab.  Der praktische Arbeitstisch ist mit Holzverzierungen in Barockstil angefertigt und wartet auf seinen Einsatz bei den Hausaufgaben.
+Ein weißer Deckenleuchter im Barockstil folgt der Designlinie der Wohnung. Ein Entspannungssessel hängt einladend von der Decke herab.  Der praktische Arbeitstisch ist mit Holzverzierungen im Barockstil angefertigt und wartet auf seinen Einsatz bei den Hausaufgaben.
 
 -   ### Inneneinrichtung **Gästezimmer**
     ![Inneneinrichtung Gästezimmer](moderner-barock-stil/inneneinrichtung-gästezimmer.jpg)
@@ -229,7 +229,7 @@ Luxus pur !
 -   ### Interior Design **Badezimmer**
     ![Interior Design Badezimmer](moderner-barock-stil/interior-design-badezimmer.jpg)
 
-Fliesen, die die Polsterung von üppigen Barockmöbeln imitieren. Vergoldete Design -Armaturen und modernste Sanitärtechnik, dazu ein Whirlpool  für entspannende Stunden zu zweit.
+Fliesen, die die Polsterung von üppigen Barockmöbeln imitieren. Vergoldete Designarmaturen und modernste Sanitärtechnik, dazu ein Whirlpool für entspannende Stunden zu zweit.
 
 -   ### Interior Design **Toilette**
     ![Interior Design Toilette](moderner-barock-stil/interior-design-toilette.jpg)
