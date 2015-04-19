@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: '(Hotel-interior) City Chick'
-description: 'Hotel – nicht nur ein Übernachtungs- und Verpflegungsbetrieb für Gäste gegen Bares, sondern eine Privatsphäre auf Zeit. Einen Ort der Geborgenheit , wie Zuhause.'
+description: 'Hotel – nicht nur ein Übernachtungs- und Verpflegungsbetrieb für Gäste gegen Geld, sondern eine Privatsphäre auf Zeit. Einen Ort der Geborgenheit, wie Zuhause.'
 date: 2015-02-23
 cover: 'http://hub.acherno.com/svn/hotel-001/Facebook/2.17-ap-spalnq_f.jpg'
 images:
@@ -52,13 +52,13 @@ images:
 tags: [public, contemporary, livingroom, kitchen, bedroom]
 featured: true
 ---
-## Klare Farben in **minimal Design**
-Hotel – nicht nur ein Übernachtungs- und Verpflegungsbetrieb für Gäste gegen Bares, sondern eine Privatsphäre auf Zeit. Einen Ort der Geborgenheit , wie Zuhause.
+## Klare Farben in **Minimal Design**
+Hotel – nicht nur ein Übernachtungs- und Verpflegungsbetrieb für Gäste gegen Geld, sondern eine Privatsphäre auf Zeit. Einen Ort der Geborgenheit, wie Zuhause.
 
 ![Innendesign Apartment Wohnbereich](klare-farben-in-minimal-design/hotel-interior.jpg)
 ### Innendesign **Apartment Wohnbereich**
 
-Klare Linien und Farben, reduziertes Design – Minimalismus in seiner schönsten Form. Einzig die roten Wohnaccessoires  setzten Akzente.
+Klare Linien und Farben, reduzierte Einrichtung – Minimalismus in seiner schönsten Form. Einzig die roten Wohnaccessoires setzten Akzente.
 
 ![Einrichtung Apartment Wohnbereich](klare-farben-in-minimal-design/einrichtung-apartment-wohnbereich.jpg)
 ### Einrichtung **Apartment Wohnbereich**
@@ -72,12 +72,12 @@ Der Farbcode in hellgrau, weiß und Grafit schmeichelt deiner Seele - Erholung p
 ![Einrichtung Apartment Wohnzimmer](klare-farben-in-minimal-design/einrichtung-apartment-wohnzimmer.jpg)
 ### Einrichtung **Apartment Wohnzimmer**
 
-Der helle und luftige Charakter dieses Hotelapartments wird durch den hochwertigen Bodenbelag in Weiß und die funktionale Möblierung unterstrichen.
+Der helle und luftige Charakter dieses Hotelapartments, wird durch den hochwertigen Bodenbelag in Weiß und die funktionale Möbelierung unterstrichen.
 
 ![Einrichtung Apartment Schlafzimmer](klare-farben-in-minimal-design/innendesign-apartment-wohnbereich.jpg)
 ### Einrichtung **Apartment Schlafzimmer**
 
-Unserem Einrichtungsstyle folgend haben wir auch das Schlafzimmer in den Farben hellgrau Grafit, weiß und rot gehalten. Um das intime Moment zu bewahren haben wir dem Rot mehr Raum gelassen.
+Unserem Einrichtungsstyle folgend haben wir auch das Schlafzimmer in den Farben Grafit, Weiß und Rot gehalten. Um das intime Moment zu bewahren haben wir dem Rot mehr Raum gelassen.
 
 ![Inneneinrichtung Apartment Schlafzimmer](klare-farben-in-minimal-design/inneneinrichtung-apartment-schlafzimmer.jpg)
 ### Inneneinrichtung **Apartment Schlafzimmer**
@@ -87,12 +87,12 @@ Ein ergonomischer Drehstuhl in Weiß, ein großer Einbauschrank mit Türen in Ho
 ![Interior Design Hotelzimmer](klare-farben-in-minimal-design/interior-design-hotelzimmer.jpg)
 ### Interior Design **Hotelzimmer**
 
-Dieses Design gefällt uns! Die Farbpallete ist in den gleichen Farben gehalten. Details in Schwarz und Grau lockern auf und rote Akzepte machen das Zimmer zum optischen Hochgenuss.
+Dieses Design gefällt uns! Die Farbpallete ist in den gleichen Farben gehalten. Details in Schwarz und Grau lockern auf und rote Akzente machen das Zimmer zum optischen Hochgenuss.
 
 ![Inneneinrichtung Hotelzimmer](klare-farben-in-minimal-design/inneneinrichtung-hotelzimmer.jpg)
 ### Inneneinrichtung **Hotelzimmer**
  
-Ein Zweiersofa in Grafit aus robustem Kunstleder, ein Z-förmiger Beistelltisch und ein praktischer Arbeitsplatz lassen keine Gästewünsche offen.
+Ein Zweiersofa in Grafit aus robustem Kunstleder, ein z-förmiger Beistelltisch und ein praktischer Arbeitsplatz lassen keine Gästewünsche offen.
 
 ![Hotel Lobby](klare-farben-in-minimal-design/hotel-lobby.jpg)
 ### Hotel **Lobby**
@@ -114,5 +114,5 @@ Der Speiseraum besticht durch seinen offenen Charakter und lädt bis zu sechszeh
 ![Inneneinrichtung Event-Küche](klare-farben-in-minimal-design/inneneinrichtung-event-küche.jpg)
 ### Inneneinrichtung **Event-Küche**
 
-Wo kann man sich sonst besser näher kommen als in der Küche? 
+Wo kann man sich besser näher kommen als in der Küche? 
 Klare Linien,  glänzende Flächen, strahlendes Weiß.  Diese Küche nimmt sich zurück und lässt den Gästen die Initiative ohne etwas vermissen zu lassen. 
