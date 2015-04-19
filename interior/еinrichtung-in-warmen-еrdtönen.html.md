@@ -85,24 +85,24 @@ Eine Wohnung die jedermanns Geschmack trifft! Eine Farbauswahl wie ein Sonnenunt
 ![Interior Design Wohnzimmer](einrichtung-in-warmen-erdtönen/interior-design-wohnzimmer.jpg)
 ### Interior Design **Wohnzimmer**
 
-Eine königliche Sitzlandschaft in hellem Graphit markiert den Wohnbereich und bietet dir höchstes Niveau an Komfort. Die integrierten Deckenleuchten sorgen für eine stimmungsvolle Atmosphäre.
+Eine königliche Sitzlandschaft in hellem Graphit, markiert den Wohnbereich und bietet dir höchstes Niveau an Komfort. Die integrierten Deckenleuchten sorgen für eine stimmungsvolle Atmosphäre.
 
 -   ### Inneneinrichtung **Wohnzimmer**
     ![Inneneinrichtung Wohnzimmer](einrichtung-in-warmen-erdtönen/inneneinrichtung-wohnzimmer.jpg)
 -   ### Einrichtung **Wohnzimmer**
     ![Einrichtung Wohnzimmer](einrichtung-in-warmen-erdtönen/einrichtung-wohnzimmer.jpg)
 
-Deckenelemente, Vorhänge und Dekokissen in Terrakotta bilden einen perfekten Rahmen und lassen das Maisgelb der Wandgemälde noch heller erstrahlen. Der dunklen Bodenbelag beruhigt und rundet das Design stilvoll ab.
+Deckenelemente, Vorhänge und Dekokissen in Terrakotta bilden einen perfekten Rahmen und lassen das Maisgelb der Wandgemälde noch heller erstrahlen. Der dunkle Bodenbelag beruhigt und rundet das Design stilvoll ab.
 
 ![Einrichtung Küche und Esszimmer](einrichtung-in-warmen-erdtönen/einrichtung-küche-und-esszimmer.jpg)
 ### Einrichtung **Küche und Esszimmer**
 
-Diese Küche ist dein Spezialist in Sachen Kochkomfort und Aufbewahrung! Die massiven dunkelblauen Küchenschränke wirken nicht schwer sondern erhaben und edel. Das verspielte Wandmosaik ist nicht nur praktisch beim Kochen, sondern wirkt sehr dekorativ und nimmt die Strenge aus der Küche.
+Diese Küche ist dein Spezialist in Sachen Kochkomfort und Aufbewahrung! Die massiven dunkelblauen Küchenschränke wirken nicht schwer, sondern erhaben und edel. Das verspielte Wandmosaik ist nicht nur praktisch beim Kochen, sondern wirkt sehr dekorativ und nimmt die Strenge aus der Küche.
 
 ![Inneneinrichtung Essbereich](einrichtung-in-warmen-erdtönen/inneneinrichtung-essbereich.jpg)
 ### Inneneinrichtung **Essbereich**
 
-Praktisch mit klaren Linien – das ist der moderne Essplatz von heute. Einen Tisch aus dunklem Massivholz, ausgewählte Tafeldeteils in Terrakotta braun und vier Polsterstühle in hellgrau harmonieren perfekt. Ob morgens oder abends hier schmeckt es immer!
+Praktisch mit klaren Linien – das ist der moderne Essplatz von heute. Einen Tisch aus dunklem Massivholz, ausgewählte Tafeldeteils in Terrakottabraun und vier Polsterstühle in hellgrau harmonieren perfekt. Ob morgens oder abends, hier schmeckt es immer!
 
 ![Einrichtung Eingangsbereich](einrichtung-in-warmen-erdtönen/einrichtung-eingangsbereich.jpg)
 ### Einrichtung **Eingangsbereich**
@@ -119,12 +119,12 @@ Ein großer Schuhschrank bietet nicht nur den nötigen Stauraum, sondern er ist 
 ![Begehbaren Kleiderschrank](einrichtung-in-warmen-erdtönen/begehbaren-kleiderschrank.jpg)
 ### Begehbaren **Kleiderschrank**
 
-Girls best friend! Ein begehbarer Kleiderschrank, das ist längst nicht mehr nur ein Must Have für exzentrischen Ladies. Heute gehört er in jeder moderner Wohnung. Dieser ist zwar nicht der größte, aber sehr funktional, mit mehreren Regalen und viele Platz für ihre neuesten Kollektionen.
+Girls best friend! Ein begehbarer Kleiderschrank, das ist längst nicht mehr nur ein Must Have für exzentrische Ladies. Heute gehört er in jede moderne Wohnung. Dieser ist zwar nicht der größte, aber sehr funktional, mit mehreren Regalen und viele Platz für ihre neuesten Kollektionen.
 
 ![Inneneinrichtung Schlafzimmer](einrichtung-in-warmen-erdtönen/inneneinrichtung-schlafzimmer.jpg)
 ### Inneneinrichtung **Schlafzimmer**
 
-Ein Ruhepol – dieses Zimmer ist eine Hommage an die Natur. Helle und dunklere Erdtöne umranden das Schlafzimmerbett. Ein lindengrün macht das Zimmer sehr freundlich und sorgt für himmlische Träume.
+Ein Ruhepol – dieses Zimmer ist eine Hommage an die Natur. Helle und dunklere Erdtöne umranden das Schlafzimmerbett. Ein Lindengrün macht das Zimmer sehr freundlich und sorgt für himmlische Träume.
 
 ![Einrichtung Schlafzimmer](einrichtung-in-warmen-erdtönen/einrichtung-schlafzimmer.jpg)
 ### Einrichtung **Schlafzimmer**
@@ -134,23 +134,23 @@ Die Möbel sind in schlichtem Weiß gehalten.
 ![Innendesign Gästeschlafzimmer](einrichtung-in-warmen-erdtönen/innendesign-gästeschlafzimmer.jpg)
 ### Innendesign **Gästeschlafzimmer**
 
-Altrosa und Lila setzten die Akzente in zweitem Schlafzimmer. Vor einem Hintergrund vom Hellgrau und Beige wirkt diese Kombination von Rosatönen besonders brillant. Durch künstliches Volumen haben wir das Zimmer vergrößert und ein einzigartiges Design geschaffen.
+Altrosa und Lila setzten die Akzente in zweitem Schlafzimmer. Vor einem Hintergrund vom Hellgrau und Beige wirkt diese Kombination von Rosatönen besonders brilliant. Durch künstliches Volumen haben wir das Zimmer vergrößert und ein einzigartiges Design geschaffen.
 
 -   ### Interior Design **Gästeschlafzimmer**
     ![Interior Design Gästeschlafzimmer](einrichtung-in-warmen-erdtönen/interior-design-gästeschlafzimmer.jpg)
 -   ### Einrichtung **Gästeschlafzimmer**
     ![Einrichtung Gästeschlafzimmer](einrichtung-in-warmen-erdtönen/einrichtung-gästeschlafzimmer.jpg)
 
-Auch hier sind die Möbel in purem mattem Weiß gehalten. 
+Auch hier sind die Möbel in purem, mattem Weiß gehalten. 
 
-Modern gelöst! Badezimmer und WC wurden voneinander getrennt. Edle Fliesen in beigetöne und große Wandspiegel lassen das Zimmer nicht nur groß wirken sondern auch sehr elegant. Zarte dekorative Blumen in braun unterstreichen diese Schönheit und laden zum Entspannen ein. 
+Modern gelöst! Badezimmer und WC wurden voneinander getrennt. Edle Fliesen in beigetönen und große Wandspiegel lassen das Zimmer nicht nur groß wirken sondern auch sehr elegant. Zarte, dekorative Blumen in Braun unterstreichen diese Schönheit und laden zum Entspannen ein. 
 
 -   ### Innendesign **Toilette**
     ![Innendesign Toilette](einrichtung-in-warmen-erdtönen/innendesign-toilette.jpg)
 -   ### Inneneinrichtung **Toilette**
     ![Inneneinrichtung Toilette](einrichtung-in-warmen-erdtönen/inneneinrichtung-toilette.jpg)
 
-Die Dusche ist in dem gleichem Design gehalten, sodass beide sich gut ergänzen und eine Perfektion von Ästhetik und Funktionalität bilden.
+Die Dusche ist in dem gleichen Design gehalten, sodass beide sich gut ergänzen und eine Perfektion von Ästhetik und Funktionalität bilden.
 
 -   ### Einrichtung **Badezimmer**
     ![Einrichtung Badezimmer](einrichtung-in-warmen-erdtönen/einrichtung-badezimmer.jpg)
