@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: 'Kraftvolle Kombinationen von (Farben und Formen)'
-description: 'Mutig kombinierten, kraftvolle Farben und markante Formen. Praktische Einrichtung im modernen Design lassen dich dieses Ambiente nicht mehr vergessen.'
+description: 'Mutig kombinierte, kraftvolle Farben und markante Formen. Praktische Einrichtung im modernen Design lassen dich dieses Ambiente nicht mehr vergessen.'
 cover: 'http://hub.acherno.com/svn/kaleydoskop/Site/3D/08-h_f.jpg'
 date: 2015-02-24
 firstPage: true
@@ -63,17 +63,17 @@ tags: [private, contemporary, livingroom, kitchen, bedroom, nursery, other]
 featured: true
 ---
 ## Ein Kaleidoskop der **Farben und Formen**
-Mutig kombinierten, kraftvolle Farben und markante Formen. Praktische Einrichtung im modernen Design lassen dich dieses Ambiente nicht mehr vergessen.
+Mutig kombinierte, kraftvolle Farben und markante Formen. Praktische Einrichtung im modernen Design lassen dich dieses Ambiente nicht mehr vergessen.
 
 ![Innendesign Wohnzimmer](kraftvolle-kombinationen-von-farben-und-formen/innendesign-wohnzimmer.jpg)
 ### Innendesign **Wohnzimmer**
 
-Ein Raumteiler in Grafit ist eindeutig der Hingucker in diesem Raum.  Ein hochwertiges Laminat  in hellgrau rahmt den Wohnzimmerbereich ein und bildet einen gelungenen Kontrast zu dem verspielten Fliesenmosaik der Küche. Ausgewählte Wohnaccessoires in trendigem blau, grün und braun gibt dem Zimmer eine persönliche Note. Die hellbraunen Möbel  laden dich zum verweilen ein.
+Ein Raumteiler in Grafit ist eindeutig der Hingucker in diesem Raum. Ein hochwertiges Laminat in Hellgrau rahmt den Wohnzimmerbereich ein und bildet einen gelungenen Kontrast zu dem verspielten Fliesenmosaik der Küche. Ausgewählte Wohnaccessoires in trendigem Blau, Grün und Braun geben dem Zimmer eine persönliche Note. Die hellbraunen Möbel laden dich zum verweilen ein.
 
 ![Interiordesign Wohnzimmer](kraftvolle-kombinationen-von-farben-und-formen/interiordesign-wohnzimmer.jpg)
 ### Interiordesign **Wohnzimmer**
 
-Ein edler Kamin und geschmiedete gusseiserne Leuchter verbinden rustikale Gemütlichkeit mit moderner Inneneirichtung.  Perfekt ergänzt wird diese  Vision mit einer graphitfarbenen 3D Wand, in deren Mitte das Fernsehergerät untergebracht ist. 
+Ein edler Kamin und geschmiedete, gusseiserne Leuchter verbinden rustikale Gemütlichkeit mit modernem Wohlfühlambiente. Perfekt ergänzt wird diese  Vision mit einer graphitfarbenen 3D Wand, in deren Mitte das Fernsehergerät untergebracht ist. 
 
 ![Inneneinrichtung Wohnzimmer](kraftvolle-kombinationen-von-farben-und-formen/inneneinrichtung-wohnzimmer.jpg)
 ### Inneneinrichtung **Wohnzimmer**
@@ -83,18 +83,18 @@ Ein Ledersofa in warmem Braun bildet die Basis für das ausbalancierte Farbkonze
 ![Innendesign Küche](kraftvolle-kombinationen-von-farben-und-formen/innendesign-küche.jpg)
 ### Innendesign **Küche**
 
-Die moderne Eckküche in strahlendem Weiß mit schwarzen Türgriffen ist der Traum jedes Hobbykochs. Hier ist steht alles für dich griffbereit: modernste Küchengeräte, ausreichende Arbeitsfläche und eine optimale Ausleuchtung.
+Die moderne Eckküche in strahlendem Weiß mit schwarzen Türgriffen ist der Traum jedes Hobbykochs. Hier ist stets alles griffbereit: modernste Küchengeräte, ausreichende Arbeitsfläche und eine optimale Ausleuchtung.
 
 ![Inneneinrichtung Essbereich](kraftvolle-kombinationen-von-farben-und-formen/inneneinrichtung-essbereich.jpg) 
 ### Inneneinrichtung **Essbereich**
 
-Himmelblau – eine Farbe zum träumen.  Vorhänge und Tischläufer, Wandbilder und Fliesenmosaik. Überall finden wir diese wunderschöne Farbe, die  perfekt mit dem Weiß der Küche harmoniert. Die Sitzmöbel im freundlichen Gelb, Türkis und Schwarz lockern das duale Farbmuster auf und laden zum Genießen ein.
+Himmelblau – eine Farbe zum Träumen. Vorhänge und Tischläufer, Wandbilder und Fliesenmosaik - überall finden wir diese wunderschöne Farbe, die  perfekt mit dem Weiß der Küche harmoniert. Die Sitzmöbel in freundlichem Gelb, Türkis und klassichem Schwarz lockern das duale Farbmuster auf und laden zum Genießen ein.
 
 ![Innereinrichtung Schlafzimmer](kraftvolle-kombinationen-von-farben-und-formen/innereinrichtung-schlafzimmer.jpg)
 ### Innereinrichtung **Schlafzimmer**
 
 Wasabi im Schlafzimmer? Ja, gerne!
-Ein Innendesign im Asia –Style mit den typischen Farben und Formen.  Schlicht gehalten in drei Farben, wirkt das Schlafzimmer besonders harmonisch und beruhigend.  Wandregale in verspielten Formen in Wasabi  und ein großes gemütliches Bett in Weiß und  Bambus, ein Tiefe verleihender Spiegelschrank – fertig ist das Schlafzimmer!
+Ein Innendesign im Asia – Style mit den typischen Farben und Formen.  Schlicht gehalten in drei Farben, wirkt das Schlafzimmer besonders harmonisch und beruhigend.  Wandregale in verspielten Formen in Wasabi und ein großes gemütliches Bett in Weiß und Bambus, ein Tiefe verleihender Spiegelschrank – fertig ist das Schlafzimmer!
 
 -   ### Interiordesign **Schlafzimmer**
     ![Interiordesign Schlafzimmer](kraftvolle-kombinationen-von-farben-und-formen/interiordesign-schlafzimmer.jpg)
@@ -106,21 +106,21 @@ Auch die gegenüberliegende Wand haben wir in Wasabi getaucht und mit einem Fern
 ![Inneneinrichtung  Kinderzimmer](kraftvolle-kombinationen-von-farben-und-formen/inneneinrichtung-kinderzimmer.jpg)
 ### Inneneinrichtung  **Kinderzimmer**
 
-Multicolor – ein Kinderzimmer das in heiteren Farben eingerichtet ist.  Türkis, Gelb, Braun, Schwarz und Weiß sind die Farben die das Design dieses Zimmers bestimmen. Funktionale Möbel bieten den nötigen Stauraum und ein Schreibtisch genug Arbeitsfläche für die Hausaufgaben. 
+Farbenfroh – ein Kinderzimmer, das in heiteren Farben eingerichtet ist. Türkis, Gelb, Braun, Schwarz und Weiß sind die Farben, die das Design dieses Zimmers bestimmen. Funktionale Möbel bieten den nötigen Stauraum und ein Schreibtisch genug Arbeitsfläche für die Hausaufgaben. 
 
 -   ### Innendesign **Schlafzimmer**
     ![Innendesign Schlafzimmer](kraftvolle-kombinationen-von-farben-und-formen/innendesign-schlafzimmer.jpg)
 -   ### Interiordesign **Schlafzimmer**
     ![Interiordesign Schlafzimmer](kraftvolle-kombinationen-von-farben-und-formen/interiordesign-schlafzimmer.jpg)
  
-Auf der einen Seite eine bunte Bordüre in Gelb, Grau und Schwarz auf der anderen ein großer Einbauschrank, dessen Türen in den Farben der Bordüre gehalten sind.  Textilien in Türkis und Blau runden das Jugendzimmer Design ab.
+Auf der einen Seite eine bunte Bordüre in Gelb, Grau und Schwarz, auf der anderen ein großer Einbauschrank, dessen Türen in den Farben der Bordüre gehalten sind. Textilien in Türkis und Blau runden das Design dieses Jugendzimmers ab.
 
 ![Einrichtung Eingangsbereich](kraftvolle-kombinationen-von-farben-und-formen/einrichtung-eingangsbereich.jpg)
 ### Einrichtung **Eingangsbereich**
 
-Ein großes helles Entree heißt dich Willkommen. Interessante Deckenleuchten weisen dir den Weg in die Wohnung. Ein großer schwarz gerahmter Wandspiegel schafft Raum und gibt dir die Gelegenheit einen letzten Blick auf dein Outfit zu werfen.
+Ein großes helles Entrée heißt dich Willkommen. Interessante Deckenleuchten weisen dir den Weg in die Wohnung. Ein großer, Schwarz gerahmter Wandspiegel schafft Raum und gibt dir die Gelegenheit einen letzten Blick auf dein Outfit zu werfen.
 
 ![Interiordesign Eingangsbereich](kraftvolle-kombinationen-von-farben-und-formen/interiordesign-eingangsbereich.jpg)
 ### Interiordesign **Eingangsbereich**
 
-Ein individuell angefertigter Schuhschrank in Weiß mit Ablage für Wohnaccessoirs und eine Designuhr ziehen alle Blicke auf sich. 
+Ein individuell angefertigter Schuhschrank in Weiß mit Ablage für Wohnaccessoirs und eine Designeruhr ziehen alle Blicke auf sich. 
