@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: '(Schickes Wohndesign) für ein geräumiges Haus'
-description: 'Ein mehrstöckiges Wohnhaus, das eine umfangreiche  Rekonstruktion erfahren hat und in minimalistischen Still eingerichtet ist. Besonderen Wert wurde auf  große, lichtdurchflutete Räume gelegt die schön hell, luftig und geräumig sein sollten. Trotz einer reduzierten Dekoration wurde  dennoch eine große Individualität hinsichtlich der Einrichtung realisiert.'
+description: 'Ein mehrstöckiges Wohnhaus, das eine umfangreiche Rekonstruktion erfahren hat und in minimalistischem Stil eingerichtet ist. Besonderen Wert wurde auf große, lichtdurchflutete Räume gelegt, die schön hell, luftig und geräumig sein sollten. Trotz einer reduzierten Dekoration wurde  dennoch eine große Individualität hinsichtlich der Einrichtung realisiert.'
 date: 2015-03-30
 images:
   -
@@ -129,26 +129,26 @@ tags: [private, modern, livingroom, kitchen, bedroom, other, nursery]
 ## **Minimalistisches Design** 
 Der Minimalismus hat sich zu einem der angesagtesten Wohnstile der Gegenwart etabliert. Kein Wunder, mit seinen klaren Linien und Formen, der Raumfreiheit und Funktionalität eignet er sich perfekt um aus dem beschleunigten Alltag zu entfliehen. 
 
-Ein mehrstöckiges Wohnhaus, das eine umfangreiche  Rekonstruktion erfahren hat und in minimalistischen Still eingerichtet ist. Besonderen Wert wurde auf  große, lichtdurchflutete Räume gelegt die schön hell, luftig und geräumig sein sollten. Trotz einer reduzierten Dekoration wurde  dennoch eine große Individualität hinsichtlich der Einrichtung realisiert.
+Ein mehrstöckiges Wohnhaus, das eine umfangreiche Rekonstruktion erfahren hat und in minimalistischem Stil eingerichtet ist. Besonderen Wert wurde auf große, lichtdurchflutete Räume gelegt, die schön hell, luftig und geräumig sein sollten. Trotz einer reduzierten Dekoration wurde  dennoch eine große Individualität hinsichtlich der Einrichtung realisiert.
 
 ![Interior Design Wohnzimmer](schickes-wohndesign-für-ein-geräumiges-haus/interior-design-wohnzimmer.jpg)
 ### Interior Design **Wohnzimmer**
 
-Im  ersten Stock befindet sich ein großer heller und geräumiger  Raum der Wohnen, Essen und Kochen in sich vereint! Die Farben sind perfekt ausbalanciert. Klares Schwarz und Weiß wird hier mit zartem Beige kombiniert. Der Boden ist mit einem hochwertigen Laminat in natürlicher Erlen Optik belegt. Die Decken sind clever abgehängt und mit gut platzierten Spotlights ausgestattet.
+Im  ersten Stock befindet sich ein großer, heller und geräumiger  Raum der Wohnen, Essen und Kochen in sich vereint! Die Farben sind perfekt ausbalanciert. Klares Schwarz und Weiß wird hier mit zartem Beige kombiniert. Der Boden ist mit einem hochwertigen Laminat in natürlicher Erlenoptik belegt. Die Decken sind clever abgehängt und mit gut platzierten Spotlights ausgestattet.
 
 ![Interior Design Wohnzimmer](schickes-wohndesign-für-ein-geräumiges-haus/inneneinrichtung-wohnzimmer.jpg)
 ### Interior Design **Wohnzimmer**
 
-Eine Sitzlandschaft in XXL und großflächige Sitzhocker markieren die Wohn- und Entspannungszone. Die Polsterung ist in einem hellen Ton gehalten  und korrespondiert perfekt mit dem kleinen Beistelltisch in Weiß. Hinter der Sitzecke befindet sich eine weiße Wand, die eine mit Walnussholz verkleidete Nische beherbergt. Durch diese beeindruckende Konstruktion wird ein Regalsystem oder ein Wohnzimmerschrank überflüssig. Der handangefertigte Couchtisch ist ein Kunstwerk – aus zwei verschiedenen Komponenten gefertigt, ist er sehr flexibel nutzbar  und sehr dekorativ. Ebenso genial und praktisch ist die integrierte Leuchteinheit in der Decke die für ein perfektes Licht sorgt.
+Eine Sitzlandschaft in XXL und großflächige Sitzhocker markieren die Wohn- und Entspannungszone. Die Polsterung ist in einem hellen Ton gehalten  und korrespondiert perfekt mit dem kleinen Beistelltisch in Weiß. Hinter der Sitzecke befindet sich eine weiße Wand, die eine mit Walnussholz verkleidete Nische beherbergt. Durch diese beeindruckende Konstruktion wird ein Regalsystem oder ein Wohnzimmerschrank überflüssig. Der handangefertigte Couchtisch ist ein Kunstwerk – aus zwei verschiedenen Komponenten gefertigt, ist er sehr flexibel nutzbar und sehr dekorativ. Ebenso genial und praktisch ist die integrierte Leuchteinheit in der Decke, die für ein perfektes Licht sorgt.
 
-Unmittelbar in der Nähe hat eine kleine Arbeitsecke seinen Platz gefunden. Drei Bilder mit Holzprint lassen die Ecke nicht zu clean und kühl wirken.
+Unmittelbar in der Nähe hat eine kleine Arbeitsecke seinen Platz gefunden. Drei Bilder mit Holzprints lassen die Ecke nicht zu clean und kühl wirken.
 
 -   ### Interior Design **Esszimmer**
     ![Interior Design Esszimmer](schickes-wohndesign-für-ein-geräumiges-haus/interior-design-esszimmer.jpg)
 -   ### Innenausstattung **Esszimmer**
     ![Innenausstattung Esszimmer](schickes-wohndesign-für-ein-geräumiges-haus/innenausstattung-esszimmer.jpg)
 
-Der stilvolle Esstisch lädt acht Personen ein Platz zu nehmen. Die Farbtöne des Wohnzimmers finden sich auch im Esszimmer wieder. Der  Unterbau des Tischs ist aus Eiche und die Stühle strahlen wie die anderen Oberflächen in feinstem Weiß.  Drei  schwere, glockenförmige Leuchten und das einfallende Sonnenlicht von den großen Fenstern sorgen für optimale Lichtverhältnisse. Vom Esszimmer aus fällt der Blick auf die spektakuläre Kinowand.
+Der stilvolle Esstisch lädt acht Personen ein, Platz zu nehmen. Die Farbtöne des Wohnzimmers finden sich auch im Esszimmer wieder. Der Unterbau des Tischs ist aus Eiche und die Stühle strahlen wie die anderen Oberflächen in feinstem Weiß. Drei schwere, glockenförmige Leuchten und das einfallende Sonnenlicht von den großen Fenstern sorgen für optimale Lichtverhältnisse. Vom Esszimmer aus fällt der Blick auf die spektakuläre Kinowand.
 
 ![Innendesign Küche](schickes-wohndesign-für-ein-geräumiges-haus/innendesign-küche.jpg)
 ### Innendesign **Küche**
@@ -167,19 +167,19 @@ Eine Kochinsel – die beste Lösung für eine geräumige Küche. Sie dient nich
 ![Inneneinrichtung Eingangsbereich](schickes-wohndesign-für-ein-geräumiges-haus/inneneinrichtung-eingangsbereich.jpg)
 ### Inneneinrichtung **Eingangsbereich**
 
-Ein bühnenreifer Eingangsraum, wie ein prunkvolles Foyer im Theater! Marmorweißer Boden im angesagten Granitogressdesign wirkt wahrlich mondän. Nur die schwarze Tür, die umrahmten Leuchten und  die kleine erlesenen Wohnaccessoires in Silber stechen heraus und geben eine dekorative Note.
+Ein bühnenreifer Eingangsraum, wie ein prunkvolles Foyer im Theater! Marmorweißer Boden im angesagten Granitogressdesign wirkt wahrlich mondän. Nur die schwarze Tür, die umrahmten Leuchten und  die kleinen, erlesenen Wohnaccessoires in Silber stechen heraus und geben eine dekorative Note.
 
 -   ### Innendesign **Eingangsbereich**
     ![Innendesign Eingangsbereich](schickes-wohndesign-für-ein-geräumiges-haus/innendesign-eingangsbereich.jpg)
 -   ### Innenausstattung **Eingangsbereich**
     ![Innenausstattung Eingangsbereich](schickes-wohndesign-für-ein-geräumiges-haus/innenausstattung-eingangsbereich.jpg)    
 
-Sehr clean und vollendet aber dank der großen Fenster, die das Grüne von außen nach innen transportieren, nicht zu kühl. Das Treppenhaus ist in weißen Stein, Metall und Glas gehalten.
+Sehr clean und vollendet aber dank der großen Fenster, die das Grüne von außen nach innen transportieren, nicht zu kühl. Das Treppenhaus ist in weißem Stein, Metall und Glas gehalten.
 
 ![Raumeinrichtung ovaler Salon](schickes-wohndesign-für-ein-geräumiges-haus/raumeinrichtung-ovaler-salon.jpg)
 ### Raumeinrichtung ovaler **Salon**
 
-Unübliche Formen und  viel Platz - Ein Zimmer, das jeder haben will. Hier dürfen sich die Kinder austoben oder die Eltern sich beim Buch lesen entspannen. Oder einfach mal alle zusammen eine glückliche Zeit verbringen, Zusammen sein, Spaß haben und die Gemeinsamkeit genießen.
+Unübliche Formen und  viel Platz - Ein Zimmer, das jeder haben will. Hier dürfen sich die Kinder austoben oder die Eltern sich beim Buch lesen entspannen. Oder einfach mal alle zusammen eine glückliche Zeit verbringen, Spaß haben und die Gemeinsamkeit genießen.
 
 -   ### Inneneinrichtung **ovaler Raum**
     ![Inneneinrichtung ovaler Raum](schickes-wohndesign-für-ein-geräumiges-haus/inneneinrichtung-ovaler-Raum.jpg)
@@ -190,12 +190,12 @@ Unübliche Formen und  viel Platz - Ein Zimmer, das jeder haben will. Hier dürf
 -   ### Interior Design **ovaler Raum**
     ![Interior Design ovaler Raum](schickes-wohndesign-für-ein-geräumiges-haus/interior-design-ovaler-raum.jpg)
 
-Die Hängedecke ist ein Hingucker. Die Möbel sind komfortabel und schlicht gehalten. Hier hat viel Platz Vorrang vor Möblierung. Ein Ledersofa, ein Tisch und ein Regal, alles in gemütlichem Braun- fertig ist die perfekte Einrichtung dieses Raumwunders.
+Die Hängedecke ist ein Hingucker. Die Möbel sind komfortabel und schlicht gehalten. Hier hat viel Platz Vorrang vor Möblierung. Ein Ledersofa, ein Tisch und ein Regal, alles in gemütlichem Braun - fertig ist die perfekte Einrichtung dieses Raumwunders.
 
 ![Innendesign Schlafzimmer](schickes-wohndesign-für-ein-geräumiges-haus/innendesign-schlafzimmer.jpg)
 ### Innendesign **Schlafzimmer**
 
-Treppe hoch! Wir befinden uns im Schlafzimmer. Ein Schlafraum der fünf Sterne Klasse, der mit viel Luxus  zum Entspannen einlädt. Die Wand am Rückenteil ist der Blickfang. Sattes Braun, ein stilisierter Wasserfall und eine spektakuläre Beleuchtung bringen jeden zum Staunen. 
+Treppe hoch! Wir befinden uns im Schlafzimmer. Ein Schlafraum der fünf Sterne Klasse, der mit viel Luxus zum Entspannen einlädt. Die Wand am Rückenteil ist der Blickfang. Sattes Braun, ein stilisierter Wasserfall und eine spektakuläre Beleuchtung bringen jeden zum Staunen. 
 
 ![Inneneinrichtung Schlafzimmer](schickes-wohndesign-für-ein-geräumiges-haus/inneneinrichtung-schlafzimmer.jpg)
 ### Inneneinrichtung **Schlafzimmer**
@@ -226,12 +226,12 @@ Relax- und Spaßzone mit Fernseher darf natürlich nicht fehlen um mit den Kumpe
 ![Das zweite Wohnzimmer](schickes-wohndesign-für-ein-geräumiges-haus/das-zweite-wohnzimmer.jpg)
 ### Das zweite **Wohnzimmer**
 
-Das zweite Wohnzimmer – ein stillvoller und gemütlicher Wohnbereich, der der Wohnlinie des gesamten Hauses folgt. Klare Linien und Formen in Kombination mit neutralen Tönen  konsequent umgesetzt.
+Das zweite Wohnzimmer – ein stillvoller und gemütlicher Wohnbereich, der der Wohnlinie des gesamten Hauses folgt. Klare Linien und Formen in Kombination mit neutralen Tönen konsequent umgesetzt.
 
 ![Inneneinrichtung zweites Wohnzimmer](schickes-wohndesign-für-ein-geräumiges-haus/inneneinrichtung-zweites-wohnzimmer.jpg)
 ### Inneneinrichtung zweites **Wohnzimmer**
 
-Ein schönes gut gepolstertes Sofa in creme und ein Beistelltisch in geometrischer Form.  Drei weiße Deckenleuchten definieren den Wohnbereich. Die weiße Wand hinter dem Sofa ist mit interessanten Nischen  in dunklem Furnier verzehrt.  Der runde Esstisch im simplen Design ist vollkommen ausreichend für den Bedarf einer vier köpfigen Familie. Hier liegt das Augenmerkt auf Komfort. 
+Ein schönes, gut gepolstertes Sofa in Creme und ein Beistelltisch in geometrischer Form und drei weiße Deckenleuchten definieren den Wohnbereich. Die weiße Wand hinter dem Sofa ist mit interessanten Nischen in dunklem Furnier verziehrt. Der runde Esstisch in simplem Design ist vollkommen ausreichend für den Bedarf einer vier köpfigen Familie. Hier liegt das Augenmerk auf Komfort. 
 
 -   ### Inneneinrichtung **zweite Küche**
     ![Inneneinrichtung zweite Küche](schickes-wohndesign-für-ein-geräumiges-haus/inneneinrichtung-zweite-küche.jpg)
@@ -248,11 +248,11 @@ Das Arbeitszimmer – ein Ort der Inspiration und Konzentration. Dieses Home Off
 ![Innenaustattung Arbeitszimmer](schickes-wohndesign-für-ein-geräumiges-haus/innenaustattung-arbeitszimmer.jpg)
 ### Innenaustattung **Arbeitszimmer**
 
-Design - Klassiker wie ein Polstersofa ein großer Bürotisch und wertiger Chefsessel. Eine Wand ist zu einem riesen Archiv umfunktioniert. Dadurch wirkt der Raum aufgeräumt und ruhig.
+Designklassiker wie ein Polstersofa, ein großer Bürotisch und ein wertiger Chefsessel. Eine Wand ist zu einem riesen Archiv umfunktioniert. Dadurch wirkt der Raum aufgeräumt und ruhig.
 
 -   ### Inneneinrichtung **Gästezimmer**
     ![Inneneinrichtung Gästezimmer](schickes-wohndesign-für-ein-geräumiges-haus/inneneinrichtung-gästezimmer.jpg)
 -   ### Interior Design **Gästezimmer**
     ![Interior Design Gästezimmer](schickes-wohndesign-für-ein-geräumiges-haus/interior-design-gästezimmer.jpg)
 
-Alles inklusive –  das Gästezimmer ist luftig eingerichtet, mit  einem großen Bett, Nachtisch, kleinem Arbeitstisch und einem Kleiderschrank. Mit seinen braunen und weißen Tönen wirkt der Raum optisch viel großer und einladender.
+Alles inklusive –  das Gästezimmer ist luftig eingerichtet, mit einem großen Bett, Nachttisch, kleinem Arbeitstisch und einem Kleiderschrank. Mit seinen braunen und weißen Tönen wirkt der Raum optisch viel großer und einladender.
