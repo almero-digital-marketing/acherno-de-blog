@@ -3,6 +3,7 @@ layout: blogpost
 title: '(Klassisches Wohndesign) mit romantischem Flair'
 description: 'Das klassische Design zeichnet sich mit seiner universellen Ästhetik aus. Ein Inneneinrichtungsstil, der in gewisser Hinsicht zeitlos geblieben ist. Mit kleinen verspielten Elementen wirkt er unverwechselbar und einladend.'
 date: 2015-04-14
+featured: true
 images:
   -
     url: 'http://hub.acherno.com/svn/prispivna-pesen/Facebook/03-h_f.jpg'

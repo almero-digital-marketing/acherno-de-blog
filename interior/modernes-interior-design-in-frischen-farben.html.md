@@ -3,6 +3,7 @@ layout: blogpost
 title: '(Modernes Interior Design) in frischen Farben'
 description: 'Offene Räume, seidige Oberflächen, großflächig grau und kleine Akzente in grellen Farben. Ein Wohndesign, das  Energie  und Optimismus  vermittelt.'
 date: 2015-04-14
+featured: true
 images:
   -
     url: 'http://hub.acherno.com/svn/neochakvana-kombinatsia/Facebook/01-hol_f.jpg'
