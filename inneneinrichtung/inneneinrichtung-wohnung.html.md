@@ -1,7 +1,7 @@
 ---
 layout: blogcategory
 rel: '/home/category/private'
-title: 'Inneneinrichtung Wohnung'
+title: 'Wohnung'
 parent: '/home'
 subtitle: 'Inneneinrichtung Haus und Wohnung'
 isPaged: true
