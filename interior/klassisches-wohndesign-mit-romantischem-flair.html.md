@@ -108,6 +108,8 @@ Dieses Wohnzimmer vereint Üppigkeit und Luxus mit sachlicher Schlichtheit. Die 
 -   ### Interior Design **Wohnzimmer**
     ![Interior Design Wohnzimmer](klassisches-wohndesign-mit-romantischem-flair/interior-design-wohnzimmer.jpg)
 
+Helle Wände und abgehängte Decken mit Beleuchtung stimmen freundlich und laden zum Verweilen ein.    
+
 ![Innenausstattung Esszimmer](klassisches-wohndesign-mit-romantischem-flair/innenausstattung-esszimmer.jpg)
 ### Innenausstattung **Esszimmer**
 
