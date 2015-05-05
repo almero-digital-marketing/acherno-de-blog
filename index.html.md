@@ -18,6 +18,10 @@ facebook:
   title: '(Besuche uns auf Facebook) [Facebook.com]'
   description: 'Kommentiere unsere Projekte und folge dem Blog, so wirst du immer auf dem neuesten Stand sein.'
   url: 'http://www.facebook.com/acherno.interior.design'
+youtube:
+  title: '(Beachten Sie unsere Kanal) [YouTube.com]'
+  description: 'Hier können Sie Videoaufzeichnungen im Zusammenhang mit der Innenausstattung und Einrichtung finden.'
+  url: 'https://www.youtube.com/channel/UCCtTQNIIg6u5hAQoMm0NMUQ'
 copyright:
   acherno: '(Acherno) GmbH © 2007-2015|(Alle Rechte vorbehalten)'
   almero: 
