@@ -1,0 +1,8 @@
+---
+title: 'Eine Gesichte, die zu einer Erzählung wird, eine Erzählung, die zu einem Märchen geworden ist'
+description: 'Der Alchimist saß da und dachte über seine eigenartige Geschichte nach. Die Geschichte von einer Verwandlung, von Reisen und der Magie - eine Magie, wie sie nur ganz wenige Auserwählte kennen. Eine Geschichte über das Verwischen von Grenzen und dem Entstehen von Silhouetten in einer Welt, in der nicht alles so aussieht, wie es scheint.'
+cover: '/de/videos/der-alchimist.jpg'
+video: 'https://youtu.be/SKQYKV-fZV4'
+tags: [private, contemporary, modernclassic, kitchen, livingroom, bedroom, bathroom]
+date: 2015-04-07
+---
