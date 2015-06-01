@@ -3,7 +3,12 @@ layout: blogpost
 title: 'Inneneinrichtung Wohnung mit (ungewöhnlichem Grundriss)'
 description: 'Ein Innendesign  für eine Wohnung mit außergewöhnlichem Grundriss ist sicherlich eine große  Herausforderung für jeden Designer. Hier kannst du sehen, was passieren kann, wenn unkonventionelle Bauformen und luxuriöse Einrichtung aufeinander treffen.'
 date: 2015-06-01
+cover: 'http://hub.acherno.com/svn/kod-cherveno/Facebook/09.1-b.jpg'
 images:
+  -
+    url: 'http://hub.acherno.com/svn/kod-cherveno/Facebook/09.1-b.jpg'
+    file: 'inneneinrichtung-wohnung-mit-ungewöhnlichem-grundriss/interior-design-badezimmer.jpg'
+    tags: [bathroom]
   -
     url: 'http://hub.acherno.com/svn/kod-cherveno/Facebook/01.4-h.jpg'
     file: 'inneneinrichtung-wohnung-mit-ungewöhnlichem-grundriss/interior-design-eingangsbereich.jpg'
@@ -16,10 +21,6 @@ images:
     url: 'http://hub.acherno.com/svn/kod-cherveno/Facebook/01.1-h.jpg'
     file: 'inneneinrichtung-wohnung-mit-ungewöhnlichem-grundriss/einrichtung-wohnbereich.jpg'
     tags: [livingroom]
-  -
-    url: 'http://hub.acherno.com/svn/kod-cherveno/Facebook/09.1-b.jpg'
-    file: 'inneneinrichtung-wohnung-mit-ungewöhnlichem-grundriss/interior-design-badezimmer.jpg'
-    tags: [bathroom]
 tags: [private, modern, kitchen, other, livingroom, bathroom]
 ---
 ## **Unkonventionelles Interior Design** ohne Ecken

@@ -14,14 +14,14 @@ web:
     - 
       name: 'acherno.at'
       geoip: 'at'
-facebook:
-  title: '(Besuche uns auf Facebook) [Facebook.com]'
-  description: 'Kommentiere unsere Projekte und folge dem Blog, so wirst du immer auf dem neuesten Stand sein.'
-  url: 'http://www.facebook.com/acherno.interior.design'
 youtube:
-  title: '(Besuhen Sie uns auf) [YouTube.com]'
-  description: 'Hier können Sie Videoaufzeichnungen im Zusammenhang mit der Innenausstattung und Einrichtung finden.'
+  title: '(Besuche uns auf YouTube) [YouTube.com]'
+  description: 'Schaue dir die Videos zu unseren Projekten auf unserem YouTube-Channel an.'
   url: 'https://www.youtube.com/channel/UCCtTQNIIg6u5hAQoMm0NMUQ'
+facebook:
+  title: '(Finde uns bei) [Facebook.com]'
+  description: 'Kommentiere unsere Projekte oder lass dich von aktuellen Bildern aus internationalen Interior Design Ausstellungen inspirieren.'
+  url: 'http://www.facebook.com/acherno.interior.design'
 copyright:
   acherno: '(Acherno) GmbH © 2007-2015|(Alle Rechte vorbehalten)'
   almero: 
