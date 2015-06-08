@@ -146,3 +146,26 @@ Das Kinderzimmer – ein multifunktionaler Raum! Hier sollen Kinder nicht nur sc
     ![Innenaustattung Kinderzimmer](stillvolles-apartment-in-hellen-und-freundlichen-tönen/innenaustattung-kinderzimmer.jpg)
 
 Die individuell angefertigten weißen Möbel bieten den nötigen Stauraum für jeden Heranwachsenden. Das Metallgitter Bett gibt dem Zimmer eine Nostalgische Note, welche aber von den freundlichen Textilien in sonnigem Gelb, Feuerrot und frischem Grün durchbrochen wird. Niedliche Bilder mit Eulenprint geben dem Zimmer eine verspielte Note. Ein Arbeitstisch ist praktisch in der Nähe des Fensters platziert und wartet auf Hausabgaben.
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Mhy1Cc
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1HhEuO1
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1cG0sO1
