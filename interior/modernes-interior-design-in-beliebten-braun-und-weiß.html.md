@@ -97,6 +97,28 @@ images:
     file: 'modernes-interior-design-in-beliebten-braun-und-weiß/innenausstattung-kinderzimmer.jpg'
     tags: [nursery]
 tags: [private, modern, livingroom, kitchen, bathroom, bedroom, other, nursery]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1AWz4XH
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1AWzbCI
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1JCl1I1
 ---
 ## **Braun und Weiß** für ein warmes **Wohnambiente**
 Für die Fans des klassischen Interior, die aber nicht auf langweilige Raumlösungen stehen, ist dieses Interior Design das Beispiel für eine gelungene Kombination von universellen, warmen Brauntönen und kaltem, neutralem Weiß! 
@@ -181,26 +203,3 @@ Bunt und fröhlich – ein Kinderzimmer in Babyblau und neutralem Weiß.  Eine g
     ![Innenausstattung Kinderzimmer](modernes-interior-design-in-beliebten-braun-und-weiß/innenausstattung-kinderzimmer.jpg)    
 
 Ein brauner Sessel zum kuscheln steht bereit, kleine Bilder mit maritimen Motiven schmücken die Wand, Vorhänge in Karomustern schützen den Raum vor direkter Sonne -hier fühlt sich jedes Kind wohlbehütet.
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1AWz4XH
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1AWzbCI
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1JCl1I1
