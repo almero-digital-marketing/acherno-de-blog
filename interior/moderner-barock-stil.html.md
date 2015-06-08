@@ -239,3 +239,26 @@ Fliesen, die die Polsterung von üppigen Barockmöbeln imitieren. Vergoldete Des
     ![Einrichtung Toilette](moderner-barock-stil/einrichtung-toilette.jpg)
 
 Eine separate Toilette in der gleichen Optik wie das Bad, komplettiert die glamouröse Wohlfühloase.
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1HhBS2G
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1G6beHZ
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1BTMXRi
