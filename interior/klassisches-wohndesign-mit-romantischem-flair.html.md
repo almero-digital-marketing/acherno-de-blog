@@ -176,3 +176,26 @@ Und zu guter Letzt eine kleine Ruheinsel in Form eines schmucken Balkons für di
     ![Einrichtung Der Balkon](klassisches-wohndesign-mit-romantischem-flair/einrichtung-der-balkon.jpg)
 
 Bei einem Sonnenuntergang ein Glas Rosé - was kann schöner sein?
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Ip6SfN
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1MAWgfj
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1B0nPgJ
