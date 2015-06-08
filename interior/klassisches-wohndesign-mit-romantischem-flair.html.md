@@ -94,6 +94,28 @@ images:
     file: 'klassisches-wohndesign-mit-romantischem-flair/einrichtung-der-balkon.jpg'
     tags: [other]
 tags: [private, modernclassic, livingroom, kitchen, bathroom, bedroom, other]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1JCjqlH
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1eXw7w5
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1KW8l0z
 ---
 ## **Landhausstill** auch **ohne Land**
 Das klassische Design zeichnet sich durch seine universelle Ästhetik aus. Ein Inneneinrichtungsstil, der in gewisser Hinsicht zeitlos geblieben ist. Mit kleinen verspielten Elementen wirkt er unverwechselbar und einladend.
@@ -176,26 +198,3 @@ Und zu guter Letzt eine kleine Ruheinsel in Form eines schmucken Balkons für di
     ![Einrichtung Der Balkon](klassisches-wohndesign-mit-romantischem-flair/einrichtung-der-balkon.jpg)
 
 Bei einem Sonnenuntergang ein Glas Rosé - was kann schöner sein?
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1JCjqlH
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1eXw7w5
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1KW8l0z
