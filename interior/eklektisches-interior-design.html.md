@@ -149,3 +149,26 @@ In kontrastreichem Schwarz und Weiß erstrahlt dieses Badezimmer in einem einmal
     ![Innenausstattung Badezimmer](eklektisches-interior-design/innenausstattung-badezimmer.jpg)
 
 Alle Reche vorbehalten! Der absolute Blickfang im Badezimmer sind die Fliesen über der Toilette, die eine Galerie aus schwarz-weißen Fotografien der Sechziger darstellen. Der spektakuläre Waschtisch aus schwarzem Stein ist voll integriert in einen individuell gefertigten Unterschrank und bietet mit seinen vielen Schubladen genügend Stauraum für Mascara, roten Lippenstift und Co.
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Ip2RrZ
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1MASAKK
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1FE7YBh
