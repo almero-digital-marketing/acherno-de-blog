@@ -91,3 +91,26 @@ Der Eingangsbereich ist einheitlich mit dem restlichen Design in klassischem Wei
 ### Inneneinrichtung **Eingangsbereich**
 
 Der Große braune Einbauschrank, der Wohnzimmer und Eingangsbereich gliedert, erstrahlt von dieser Seite in edlem Weiß. Eine dekorative Arkade ist der optische Hingucker - so wird eine Spannung erzeugt, die den von klaren Linien und schlichten Farben dominierten Raum, auflockert.
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1B0lMcx
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1MATl6t
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1FKsYFq
