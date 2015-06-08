@@ -92,3 +92,26 @@ Sanfter Sand und warmes Koralrot – diese Farbkombination verleiht diesem Badez
 ### Inneneinrichtung **Gästetoillette**
 
 Eine Optische Illusion – ein schmaler Spiegel in der Ecke der Waschnische verleiht Tiefe. Fliesen in verschiedenen Formen strecken den Raum zusätzlich. Wie in einem Spiegelkabinett auf dem Jahrmarkt.
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1dXladC
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1cFX3i0
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1FE8NKr
