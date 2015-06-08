@@ -51,6 +51,28 @@ images:
     tags: [kitchen]
 tags: [public, contemporary, livingroom, kitchen, bedroom]
 featured: true
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1B0nwCJ
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1dpWsSj
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1KW7DR4
 ---
 ## Klare Farben in **Minimal Design**
 Hotel – nicht nur ein Übernachtungs- und Verpflegungsbetrieb für Gäste gegen Geld, sondern eine Privatsphäre auf Zeit. Einen Ort der Geborgenheit, wie Zuhause.
@@ -116,26 +138,3 @@ Der Speiseraum besticht durch seinen offenen Charakter und lädt bis zu sechszeh
 
 Wo kann man sich besser näher kommen als in der Küche? 
 Klare Linien,  glänzende Flächen, strahlendes Weiß.  Diese Küche nimmt sich zurück und lässt den Gästen die Initiative ohne etwas vermissen zu lassen. 
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1B0nwCJ
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1dpWsSj
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1KW7DR4
