@@ -182,4 +182,25 @@ Ein flacher Teetisch mit Sitzkissen in Bambusgrün, ein asiatischer Fächerschra
 -   ### Einrichtung **Badezimmer**
     ![Einrichtung Badezimmer](cleverer-mix-aus-farben-und-stilen/einrichtung-badezimmer.jpg)
 
-Märchenhaft! Dieses schicke Bad in glänzendem Weiß mit Fliesen, die an Kieselsteine erinnern, ist einzigartig! Florale Dekoprints beleben das Design und eine hochwertige Sanitäreinrichtung sorgt für den nötigen Komfort. 
+Märchenhaft! Dieses schicke Bad in glänzendem Weiß mit Fliesen, die an Kieselsteine erinnern, ist einzigartig! Florale Dekoprints beleben das Design und eine hochwertige Sanitäreinrichtung sorgt für den nötigen Komfort.
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1KW4K2N
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1HVZANW
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    id: 1FE7H1c
