@@ -22,6 +22,28 @@ images:
     file: 'inneneinrichtung-wohnung-mit-ungewöhnlichem-grundriss/einrichtung-wohnbereich.jpg'
     tags: [livingroom]
 tags: [private, modern, kitchen, other, livingroom, bathroom]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1RXnMH4
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1BTL2MC
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1AWuBEp
 ---
 ## **Unkonventionelles Interior Design** ohne Ecken
 Ein Innendesign  für eine Wohnung mit außergewöhnlichem Grundriss ist sicherlich eine große  Herausforderung für jeden Designer. Hier kannst du sehen, was passieren kann, wenn unkonventionelle Bauformen und luxuriöse Einrichtung aufeinander treffen. 
@@ -45,26 +67,3 @@ Der Blick schweift nach links und schon stehst du mitten im faszinierenden Wohnz
 ### Interior Design **Badezimmer**
 
 Fünf Sterne Luxus in hellem Marmor und braunem Granit. Dazu Luxusarmaturen in Edelmetalloptik und ganz viel Design. Hier stehen du und deine Entspannung an allererster Stelle.
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1RXnMH4
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1BTL2MC
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1AWuBEp
