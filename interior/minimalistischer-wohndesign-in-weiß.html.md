@@ -68,6 +68,28 @@ images:
     tags: [bathroom]
 tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
 featured: true
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1JymwZu
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1eXwiYi
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1RXqJHE
 ---
 ## Pures Weiß, **Minimalistische Einrichtung und viel Raum** 
 Minimalistisch, aber nicht clean! Dieses Wohndesign eignet sich mit seinen klaren Linien und reduzierten Einrichtung besonders gut für Menschen, die gerne auf nichts verzichten und sich trotzdem nur auf die wesentlichen Dinge konzentrieren und sich nicht ablenken lassen wollen.  
@@ -134,26 +156,3 @@ Ein Unikat! Ein Badezimmer in Grau Melange und Weiß. Ein Waschtisch der keinen 
     ![Einrichtung Badezimmer](minimalistischer-wohndesign-in-weiß/einrichtung-badezimmer.jpg)
 
 Eine Duschkabine der Superlative steht für dich bereit. Hier kannst du sogar mit deinem Schatz zusammen duschen oder baden.
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1JymwZu
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1eXwiYi
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1RXqJHE
