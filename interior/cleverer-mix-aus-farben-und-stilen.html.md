@@ -100,6 +100,26 @@ images:
     tags: [bathroom]
 tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
 featured: true
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1KW4K2N
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1HVZANW
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    id: 1FE7H1c
 ---
 ## Pastell mit **Tupfern in Hellgrün und Türkis**
 Eine erstklassige Wohnkombination von verschiedenen Stilen, Formen und Farben, die östliche und westliche Kulturelemente gekonnt in sich vereint. Feiner Sand als Grundton mit Akzenten in frischem Grün und kaltem Türkis - eine einheitliche Farbepalette, die sich durch das ganze Wohnkonzept zieht, lässt dieses Interior besonders ausgeglichen und behaglich wirken.
@@ -183,24 +203,3 @@ Ein flacher Teetisch mit Sitzkissen in Bambusgrün, ein asiatischer Fächerschra
     ![Einrichtung Badezimmer](cleverer-mix-aus-farben-und-stilen/einrichtung-badezimmer.jpg)
 
 Märchenhaft! Dieses schicke Bad in glänzendem Weiß mit Fliesen, die an Kieselsteine erinnern, ist einzigartig! Florale Dekoprints beleben das Design und eine hochwertige Sanitäreinrichtung sorgt für den nötigen Komfort.
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1KW4K2N
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1HVZANW
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    id: 1FE7H1c
