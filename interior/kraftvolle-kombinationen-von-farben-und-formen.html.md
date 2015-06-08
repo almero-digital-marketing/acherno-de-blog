@@ -61,6 +61,28 @@ images:
     tags: [other]
 tags: [private, contemporary, livingroom, kitchen, bedroom, nursery, other]
 featured: true
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1KW82TA
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1IxryoP
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1JylWuB
 ---
 ## Ein Kaleidoskop der **Farben und Formen**
 Mutig kombinierte, kraftvolle Farben und markante Formen. Praktische Einrichtung im modernen Design lassen dich dieses Ambiente nicht mehr vergessen.
@@ -124,26 +146,3 @@ Ein großes helles Entrée heißt dich Willkommen. Interessante Deckenleuchten w
 ### Interiordesign **Eingangsbereich**
 
 Ein individuell angefertigter Schuhschrank in Weiß mit Ablage für Wohnaccessoirs und eine Designeruhr ziehen alle Blicke auf sich. 
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1KW82TA
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1IxryoP
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1JylWuB
