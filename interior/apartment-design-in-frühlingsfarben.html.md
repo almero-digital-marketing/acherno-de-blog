@@ -217,3 +217,24 @@ Back to the Basics – Ein Spruch, der ganz auf dieses Badezimmer zutrifft. Flie
     ![Einrichtung Zweite Badezimmer](apartment-design-in-frühlingsfarbe/einrichtung-zweite-badezimmer.jpg)
 
 Hochwertige Materialien und Möbel in Trend Design komplettieren das Bad und machen es zum Wohlfühlbereich.
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1HW15fd
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1cFWGEp
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    id: 1AWthRX
