@@ -78,6 +78,28 @@ images:
     file: 'einrichtung-in-warmen-erdtönen/inneneinrichtung-badezimmer.jpg'
     tags: [bathroom]
 tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1HhJFh1
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1cG2z4r
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1IpdjQ3
 ---
 ## **Moderner Stilmix** in Natur - und Erdtönen
 Eine Wohnung die jedermanns Geschmack trifft! Eine Farbauswahl wie ein Sonnenuntergang in warmen Erd- und Naturtönen. Akzente in Maisgelb, Grün und Flieder lockern das Raumkonzept auf und lassen keine Monotonie aufkommen. 
@@ -156,26 +178,3 @@ Die Dusche ist in dem gleichen Design gehalten, sodass beide sich gut ergänzen 
     ![Einrichtung Badezimmer](einrichtung-in-warmen-erdtönen/einrichtung-badezimmer.jpg)
 -   ### Inneneinrichtung **Badezimmer**
     ![Inneneinrichtung Badezimmer](einrichtung-in-warmen-erdtönen/inneneinrichtung-badezimmer.jpg)
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1HhJFh1
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1cG2z4r
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1IpdjQ3
