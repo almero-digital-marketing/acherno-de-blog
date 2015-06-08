@@ -58,6 +58,28 @@ images:
     file: 'interior-design-in-violett-und-dunkelgrau/einrichtung-badezimmer.jpg'
     tags: [bathroom]
 tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Ixqlhe
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1GkT0nm
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1QhewA0
 ---
 ## **City Glamour** 
 Ein Wohnzimmer, das dich an eine stylische Bar in New York erinnert. Auf kleinem Raum haben wir ein Multifunktionsappartment kreiert, das keine Wünsche offen lässt.
@@ -122,26 +144,3 @@ Bitte Ruhe, hier wird relaxt! Windkerzen, Seesterne, Sand und Kiesel - das sind 
     ![Innenausstattung Badezimmer](interior-design-in-violett-und-dunkelgrau/innenausstattung-badezimmer.jpg)
 
 Aufbewahrungsschränke in Weiß und Dunkelbraun und eine großzügige Duschkabine mit Trennwand dürfen bei diesem Wellnesspaket nicht fehlen.
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1Ixqlhe
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1GkT0nm
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1QhewA0
