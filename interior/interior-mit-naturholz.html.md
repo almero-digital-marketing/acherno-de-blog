@@ -36,3 +36,26 @@ Und erst der Boden...feinste Glanzfliesen in Marmoroptik wecken durch ihren Elfe
 ### Inneneinrichtung **Empfangsbereich**
 
 Sehr dekorativ – die Wände sind mit typisch englischem, floralem Dessin in Elfenbein und Gold verziert. Die dekorative Tapete ist stilvoll von einem Rahmen aus dunklem Ahorn umrandet.
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1JCi0HJ
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1F3NXT9
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1dXlHwb
