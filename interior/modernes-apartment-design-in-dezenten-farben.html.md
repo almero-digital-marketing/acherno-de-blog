@@ -90,6 +90,28 @@ images:
     tags: [bathroom]
 tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
 featured: true
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1MAXPKa
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1HW4Lxe
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1cFZCAE
 ---
 ## **Von der Sonne geküsst**
 
@@ -176,26 +198,3 @@ Hier vereint sich Schönheit, Luxus und Komfort. Eine gewagte Farbwahl aus Flied
     ![Einrichtung Badezimmer](modernes-apartment-design-in-dezenten-farben/einrichtung-badezimmer.jpg)
 
 Eine extravagante Fünfeck-Dusche mit vielen Ablagemöglichkeiten und ein praktischer Handtuchheizkörper lassen keine Wünsche offen.
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1MAXPKa
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1HW4Lxe
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1cFZCAE
