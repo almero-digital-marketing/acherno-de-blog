@@ -227,3 +227,26 @@ Ein Hauch von Vanille und Dunkelblau – eine Farbkombination, die angenehme Ass
     ![Innenausstattung Gästetoilette](modernes-interior-design-in-frischen-farben/innenausstattung-gästetoilette.jpg)
 
 Fruchtiges Orange und neutrales Beige für die Gästetoilette. Ein moderner Waschtisch in unüblichet Form und viel Stauraum für das tägliche Verschönern. 
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1KPB4RK
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1QEgFRk
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1KW9vJt
