@@ -82,3 +82,26 @@ Hier fehlt es an nichts um dir einen Frischekick zu verpassen und damit neuen Sc
 Viel Platz zum Aufbewahren der Gastronomieausstattung, schöne geräumige Schränke, hochwertige Einbaugeräte und Waschbecken, eine großzügige Kühlvitrine, Kaffeemaschine, Mixer und vieles mehr. Dank einer durchdachten Planung wirkt die Bar auch bei viel Betrieb sehr ordentlich und aufgeräumt. So kann man den besten Service bieten und der Kunde ist König. 
 
 Enjoy it!
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1BTL9Yz
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1GkSPsj
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1B0mZ3J
