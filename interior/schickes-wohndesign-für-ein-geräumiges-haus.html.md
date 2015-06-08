@@ -125,6 +125,28 @@ images:
     file: 'schickes-wohndesign-für-ein-geräumiges-haus/interior-design-gästezimmer.jpg'
     tags: [bedroom]
 tags: [private, modern, livingroom, kitchen, bedroom, other, nursery]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1T6FU2D
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Ip9Cd6
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Kk1ZXD
 ---
 ## **Minimalistisches Design** 
 Der Minimalismus hat sich zu einem der angesagtesten Wohnstile der Gegenwart etabliert. Kein Wunder, mit seinen klaren Linien und Formen, der Raumfreiheit und Funktionalität eignet er sich perfekt um aus dem beschleunigten Alltag zu entfliehen. 
@@ -256,26 +278,3 @@ Designklassiker wie ein Polstersofa, ein großer Bürotisch und ein wertiger Che
     ![Interior Design Gästezimmer](schickes-wohndesign-für-ein-geräumiges-haus/interior-design-gästezimmer.jpg)
 
 Alles inklusive –  das Gästezimmer ist luftig eingerichtet, mit einem großen Bett, Nachttisch, kleinem Arbeitstisch und einem Kleiderschrank. Mit seinen braunen und weißen Tönen wirkt der Raum optisch viel großer und einladender.
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1T6FU2D
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1Ip9Cd6
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1Kk1ZXD
