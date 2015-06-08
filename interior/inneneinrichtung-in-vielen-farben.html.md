@@ -74,3 +74,26 @@ Romantisch und Stilvoll in sanfte Rosatöne getaucht  ist unser Schlafzimmer ein
 ### Interior Design **Badezimmer**
 
 Freundliches Ornament vor weißem Hochglanz und ganz viel Platz. Wahrlich genug Raum zum entspannen und genießen. Futuristische Badobjekte geben einen unvergleichlichen Touch.
+
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1cFU2P0
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1dpThKx
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1MhqiUB
