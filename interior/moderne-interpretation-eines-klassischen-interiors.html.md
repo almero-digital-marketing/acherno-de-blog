@@ -155,6 +155,28 @@ images:
     file: 'moderne-interpretation-eines-klassischen-interiors/einrichtung-gäste-badezimmer.jpg'
     tags: [bathroom]
 tags: [private, modernclassic, livingroom, kitchen, bathroom, bedroom, other, nursery]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1B0oG15
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Kk0ZTB
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1JymWir
 ---
 ## **Warme Nuancen** mit hellen Reflexen
 Was ist ein Leben schon Wert ohne ein schönes Heim?  Hier ist das gelungene Endergebnis einer vollständigen Renovierung eines zwei stöckigen Wohnhauses. Eine klassische Interpretation von gediegenem Wohnambiente in hellen und warmen Tönen. 
@@ -292,26 +314,3 @@ Braunes Mosaik gepaart mit Fliesen in Marmor Optik, optimal ausgeleuchtet dank a
     ![Einrichtung Gäste Badezimmer](moderne-interpretation-eines-klassischen-interiors/einrichtung-gäste-badezimmer.jpg)
 
 Großzügige trendige Dusche, WC und ein praktischer Handtuchheizkörper komplettieren diese Badeinrichtung.
-
-campaigns:
-  -
-    campaign: 'W-24-30' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1B0oG15
-  -
-    campaign: 'W-30-40' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1Kk0ZTB
-  -
-    campaign: 'W-40-65' 
-    source: facebook
-    medium: cpc
-    term: 'Acherno Interior Design'
-    content: 'Von der Planung mit 3D Modell'
-    id: 1JymWir
