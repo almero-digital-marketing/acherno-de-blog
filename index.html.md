@@ -27,4 +27,26 @@ copyright:
   almero: 
     title: '(Online Marketing) und|(Business) Entwicklung'
     url: http://almero.com
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Ql732W
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1FGIenD
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Hmlw98    
 ---
