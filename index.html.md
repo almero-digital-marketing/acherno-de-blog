@@ -15,7 +15,7 @@ web:
       name: 'acherno.at'
       geoip: 'at'
 youtube:
-  title: '(Besuche uns auf YouTube) [YouTube.com]'
+  title: '(Besuche uns auf) [YouTube.com]'
   description: 'Schaue dir die Videos zu unseren Projekten auf unserem YouTube-Channel an.'
   url: 'https://www.youtube.com/channel/UCCtTQNIIg6u5hAQoMm0NMUQ'
 facebook:
