@@ -65,6 +65,28 @@ images:
     file: 'romantisches-und-klassisches-interior/interior-design-badezimmer.jpg'
     tags: [bathroom]
 tags: [private, modern, livingroom, kitchen, bathroom, bedroom, other, nursery]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1dsq94Z
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1SXzamD
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1CEfOJZ
 ---
 ## Zarte Farben in *märchenhaftem Ambiente*
 In den letzten Jahren erfreuen sich  zeitgenössische Interpretationen von klassischem Design immer größerer Beliebtheit. Immer mehr Interior Liebhaber entscheiden sich für zarte Farben, Pastelltöne und klassische Formen. Durch die unzähligen Gestaltungsmöglichkeiten lässt dieses zeitlose Interiordesign  genug Raum für eine individuelle Note.

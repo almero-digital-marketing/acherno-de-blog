@@ -30,6 +30,28 @@ images:
     tags: [contemporary, bathroom]
 tags: [private, modern, modernclassic, contemporary, kitchen, bathroom, bedroom, livingroom, nursery, other]
 featured: true
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1KkfeaB
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1NtoWqk
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1U0n5P7
 ---
 ## **Modernes Interior Design** für alle, die nur das Beste wollen
 Dieses Apartment könnte seine Adresse überall  in der Welt haben –  New York, Berlin, Shanghai oder Tokyo.  
