@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: 'Inneneinrichtung klassisches (Interior Design)'
-description: 'Ein wahrer Sommernachtstraum – natürliche Farben, stimmig kombiniert und doch nicht zu bieder.'
+description: 'Ein klassisches Interior, das den Augen schmeichelt,  wurde mit viel Liebe zum Detail ausgewählt um eine außergewöhnlich harmonische Atmosphäre in dieses Apartment zu zaubern. Eine Idylle in Pastell, getragen von zartem Rosa, frischem Mint und betörendem Pfirsich.'
 date: 2015-07-01
 cover: 'http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-20-h-f.jpg'
 images:
@@ -84,9 +84,7 @@ images:
 tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
 ---
 ## Zarte Nuancen, klare Linien und *harmonische Farben*
-Ein wahrer Sommernachtstraum – natürliche Farben, stimmig kombiniert und doch nicht zu bieder.
-
-Ein klassisches Interior, das den Augen schmeichelt,  wurde mit viel Liebe zum Detail ausgewählt um eine außergewöhnlich harmonische Atmosphäre in dieses Apartment zu zaubern. Eine Idylle in Pastell, getragen von zartem Rosa, frischem Mint und betörendem Pfirsich.
+Ein wahrer Sommernachtstraum – natürliche Farben, stimmig kombiniert und doch nicht zu bieder. Ein klassisches Interior, das den Augen schmeichelt,  wurde mit viel Liebe zum Detail ausgewählt um eine außergewöhnlich harmonische Atmosphäre in dieses Apartment zu zaubern. Eine Idylle in Pastell, getragen von zartem Rosa, frischem Mint und betörendem Pfirsich.
 
 ![Interior Design Wohnzimmer](inneneinrichtung-klassisches-interior-design/interior-design-wohnzimmer.jpg)
 ### Interior Design **Wohnzimmer**
