@@ -62,7 +62,7 @@ Sehr stilvoll und modern eingerichtet, befindet sich dieses Apartment im Einklag
 
 Keine Küche, sondern eine Kochakademie!  Einrichtung und Geräte sind nach allerneusten Standards ausgewählt. Hier wurde großer Wert auf die perfekte Symbiose zwischen Funktionalität und Design gelegt. Die große Kochinsel  lässt sich im Handumdrehen von einer  Arbeitsplatte in eine  Bar umwandeln. Die passende Stimmung wird von den vielen kleinen Spotlights an der Decke erzeugt. 
 
-Те са разположени и по целия таван на голямото помещение и позволяват регулиране на светлината по собствен вкус.
+
 
 ![Inneneinrichtung Wohnzimmer](ultramodern-und-exzentrisch-interior-design/мöbel-und-einrichtung-wohnzimmer.jpg)
 ### Inneneinrichtung **Wohnzimmer**
