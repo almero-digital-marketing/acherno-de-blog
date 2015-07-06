@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: '(Hotel-interior) City Chick'
+title: '(Hotel Interior) City Life'
 description: 'Hotel – nicht nur ein Übernachtungs- und Verpflegungsbetrieb für Gäste gegen Bares, sondern eine Privatsphäre auf Zeit. Einen Ort der Geborgenheit, wie Zuhause.'
 date: 2015-02-23
 cover: 'http://hub.acherno.com/svn/hotel-001/Facebook/2.17-ap-spalnq_f.jpg'
