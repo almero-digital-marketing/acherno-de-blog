@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/bedroom'
-title: 'Schlafzimmer'
+title: 'Wohnideen Schlafzimmer'
 parent: '/home'
-subtitle: 'Inneneinrichtung und Einrichtung Schlafzimmer'
+subtitle: 'Interior Design Schlafzimmer'
 isPaged: true
 pagedCollection: 'bedroomPosts.interiorideen.com'
 pageSize: 9

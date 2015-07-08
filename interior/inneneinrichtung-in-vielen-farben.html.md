@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: 'Inneneinrichtung in (vielen Farben)'
+title: '(Inneneinrichtung) in vielen Farben'
 description: 'Der Traum jedes Interior Designers -  ein großes Apartment mit vielen Gestaltungsmöglichkeiten und Kunden die verzückt ihr neues Traumheim beziehen!'
 date: 2015-06-01
 images:
@@ -57,7 +57,7 @@ campaigns:
     content: 'Von der Planung mit 3D Modell'
     id: 1MhqiUB
 ---
-## **Farbenfroh Interior Design**
+## Farbenfroh **Interior Design**
 Der Traum jedes Interior Designers -  ein großes Apartment mit vielen Gestaltungsmöglichkeiten und Kunden die verzückt ihr neues Traumheim beziehen!
 
 Essen, Wohnen und Genießen:  alles in einem großzügigen Raum vereint. Die weiße Säule, kunstvoll als Regal in Szene gesetzt, trennt und vereint  gleichzeitig die verschiedenen Wohnbereiche.

@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/nursery'
-title: 'Kinderzimmer'
+title: 'Wohnideen Kinderzimmer'
 parent: '/home'
-subtitle: 'Inneneinrichtung Kinderzimmer'
+subtitle: 'Interior Design Kinderzimmer'
 isPaged: true
 pagedCollection: 'nurseryPosts.interiorideen.com'
 pageSize: 9

@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/livingroom'
-title: 'Wohnzimmer'
+title: 'Wohnideen Wohnzimmer '
 parent: '/home'
-subtitle: 'Inneneinrichtung und Einrichtung Wohnzimmer'
+subtitle: 'Interior Design Wohnzimmer'
 isPaged: true
 pagedCollection: 'livingroomPosts.interiorideen.com'
 pageSize: 9

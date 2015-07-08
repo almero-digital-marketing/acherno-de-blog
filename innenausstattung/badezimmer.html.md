@@ -1,9 +1,9 @@
 ---
 layout: blogcategory
 rel: '/home/category/bathroom'
-title: 'Badezimmer'
+title: 'Wohnideen Badezimmer'
 parent: '/home'
-subtitle: 'Innenausstattung von Badezimmer'
+subtitle: 'Interior Design Badezimmer'
 isPaged: true
 pagedCollection: 'bathroomPosts.interiorideen.com'
 pageSize: 9
