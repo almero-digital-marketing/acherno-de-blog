@@ -3,6 +3,7 @@ layout: blogpost
 title: '(Schickes Wohndesign) für ein geräumiges Haus'
 description: 'Ein mehrstöckiges Wohnhaus, das eine umfangreiche Rekonstruktion erfahren hat und in minimalistischem Stil eingerichtet ist. Besonderen Wert wurde auf große, lichtdurchflutete Räume gelegt, die schön hell, luftig und geräumig sein sollten. Trotz einer reduzierten Dekoration wurde  dennoch eine große Individualität hinsichtlich der Einrichtung realisiert.'
 date: 2015-03-30
+firstPage: true
 images:
   -
     url: 'http://hub.acherno.com/svn/prostor/Facebook/01-h_f.jpg'

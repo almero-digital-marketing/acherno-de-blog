@@ -76,7 +76,7 @@ images:
     url: 'http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/19-b_f.jpg'
     file: 'eklektisches-interior-design/innenausstattung-badezimmer.jpg'
     tags: [bathroom]
-tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
+tags: [private, modernclassic, livingroom, kitchen, bathroom, bedroom, other]
 campaigns:
   -
     campaign: 'W-24-30' 

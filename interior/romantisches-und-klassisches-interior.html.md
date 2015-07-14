@@ -3,6 +3,7 @@ layout: blogpost
 title: 'Romantisches und (klassisches Interior)'
 description: 'In den letzten Jahren erfreuen sich  zeitgenössische Interpretationen von klassischem Design immer größerer Beliebtheit. Immer mehr Interior Liebhaber entscheiden sich für zarte Farben, Pastelltöne und klassische Formen.'
 date: 2015-06-23
+firstPage: true
 images:
   -
     url: 'http://hub.acherno.com/svn/gorska-feya/Site/3D/02-h-f.jpg'
@@ -64,7 +65,7 @@ images:
     url: 'http://hub.acherno.com/svn/gorska-feya/Site/3D/18-b-f.bmp'
     file: 'romantisches-und-klassisches-interior/interior-design-badezimmer.jpg'
     tags: [bathroom]
-tags: [private, modern, livingroom, kitchen, bathroom, bedroom, other, nursery]
+tags: [private, classic, livingroom, kitchen, bathroom, bedroom, other, nursery]
 campaigns:
   -
     campaign: 'W-24-30' 

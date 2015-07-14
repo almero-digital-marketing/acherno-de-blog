@@ -3,6 +3,7 @@ layout: blogpost
 title: 'Wohnen im (skandinavischen Design)'
 description: 'Skandinavien mit seinem rauen, kalten Klima hat ein einzigartiges Interior Design geschaffen. Eines, das mit seinen klaren Linien, den natürlichen Materialien und den warmen Tönen eine besonders einladende und warme Stimmung schafft. Ein Interior das Wohlfühlglück verspricht!'
 date: 2015-07-06
+firstPage: true
 images:
   -
     url: 'http://hub.acherno.com/svn/breza/Site/3D/01-h_f.jpg'
@@ -81,6 +82,28 @@ images:
     file: 'wohnen-im-skandinavischen-design/inneneinrichtung-toilette.jpg'
     tags: [bathroom]
 tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1IXrjTj
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1SkuOnp
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1CDOzUY
 ---
 ## **Interior Design** mit Skandinavischen Motive
 Was früher für das Interior Design Mailand war ist heute Kopenhagen, Stockholm oder Helsinki.  Kein Wunder! Skandinavien mit seinem rauen, kalten Klima hat ein einzigartiges Interior Design geschaffen. Eines, das mit seinen klaren Linien, den natürlichen Materialien und den warmen Tönen eine besonders einladende und warme Stimmung schafft. Ein Interior das Wohlfühlglück verspricht!

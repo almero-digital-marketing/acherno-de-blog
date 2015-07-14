@@ -3,6 +3,7 @@ layout: blogpost
 title: 'Inneneinrichtung klassisches (Interior Design)'
 description: 'Ein klassisches Interior, das den Augen schmeichelt,  wurde mit viel Liebe zum Detail ausgewählt um eine außergewöhnlich harmonische Atmosphäre in dieses Apartment zu zaubern. Eine Idylle in Pastell, getragen von zartem Rosa, frischem Mint und betörendem Pfirsich.'
 date: 2015-07-01
+firstPage: true
 cover: 'http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-20-h-f.jpg'
 images:
   -
@@ -81,7 +82,29 @@ images:
     url: 'http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/7-10-t_f.jpg'
     file: 'inneneinrichtung-klassisches-interior-design/innendesign-balkon.jpg'
     tags: [other]
-tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
+tags: [private, modernclassic, livingroom, kitchen, bathroom, bedroom, other]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1CDIUOU
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1gyU3H5
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1LdXiPr
 ---
 ## Zarte Nuancen, klare Linien und *harmonische Farben*
 Ein wahrer Sommernachtstraum – natürliche Farben, stimmig kombiniert und doch nicht zu bieder. Ein klassisches Interior, das den Augen schmeichelt,  wurde mit viel Liebe zum Detail ausgewählt um eine außergewöhnlich harmonische Atmosphäre in dieses Apartment zu zaubern. Eine Idylle in Pastell, getragen von zartem Rosa, frischem Mint und betörendem Pfirsich.

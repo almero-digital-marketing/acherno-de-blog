@@ -3,6 +3,7 @@ layout: blogpost
 title: '(Stilvolles Apartment) in hellen und freundlichen Tönen'
 description: 'Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Interior Design eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen, graphischem Muster, praktischen Möbeln, Pastellfarben, die mit Farbakzenten in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden. '
 date: 2015-01-27
+firstPage: true
 cover: 'http://hub.acherno.com/svn/haus-of-vanity/Site/3D/4.01-h_f.jpg'
 images:
   -
@@ -73,7 +74,7 @@ images:
     url: 'http://hub.acherno.com/svn/haus-of-vanity/Site/3D/3.03-d_f.jpg'
     file: 'stillvolles-apartment-in-hellen-und-freundlichen-tönen/innenaustattung-kinderzimmer.jpg'
     tags: [nursery]
-tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other, nursery]
+tags: [private, modernclassic, livingroom, kitchen, bathroom, bedroom, other, nursery]
 campaigns:
   -
     campaign: 'W-24-30' 

@@ -2,10 +2,9 @@
 layout: blogpost
 title: 'Kraftvolle Kombinationen von (Farben und Formen)'
 description: 'Mutig kombinierte, kraftvolle Farben und markante Formen. Praktische Einrichtung im modernen Design lassen dich dieses Ambiente nicht mehr vergessen.'
-cover: 'http://hub.acherno.com/svn/kaleydoskop/Site/3D/08-h_f.jpg'
 date: 2015-02-24
 firstPage: true
-cover: 'http://hub.acherno.com/svn/kaleydoskop/Facebook/05_h-f_hd.jpg'
+cover: 'http://hub.acherno.com/svn/kaleydoskop/Site/3D/08-h_f.jpg''
 images:
   -
     url: 'http://hub.acherno.com/svn/kaleydoskop/Facebook/05_h-f.jpg'
