@@ -66,6 +66,28 @@ images:
     file: 'modernes-interior-design-pop-art/inneneinrichtung-gästetoillette.jpg'
     tags: [bathroom]
 tags: [private, modern, livingroom, kitchen, bathroom, bedroom, other]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1J21NfB
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1JjHDcU
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1K9FKFn
 ---
 ## **Interior Design** für Superhelden
 Andy Warhol, Roy Lichtenstein, Jeff Koons, Takashi Murakami – das sind die Stars des Pop Arts.  Diese Kunstform hat sich längt aus den Kunstgalerien hinaus entwickelt und  ihren festen Platz in unserem Leben gefunden. Ob als Comic, Merchandising Artikel, Mode oder als Interior Design, noch nie hat eine Kunstrichtung so unseren Alltag so beeinflusst wie Pop Art.  
