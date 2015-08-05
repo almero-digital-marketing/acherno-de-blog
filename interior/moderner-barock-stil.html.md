@@ -132,7 +132,7 @@ images:
     url: 'http://hub.acherno.com/svn/neo-barokova-afera/Facebook/37-wc_f.jpg'
     file: 'moderner-barock-stil/einrichtung-toilette.jpg'
     tags: [bathroom]
-tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, nursery]
+tags: [private, moderclassic, livingroom, kitchen, bathroom, bedroom, nursery]
 campaigns:
   -
     campaign: 'W-24-30' 
