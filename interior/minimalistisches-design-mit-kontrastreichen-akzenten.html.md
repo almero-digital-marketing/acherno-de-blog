@@ -189,6 +189,28 @@ images:
     file: 'minimalistisches-design-mit-kontrastreichen-akzenten/innendesign-penthouse.jpg'
     tags: [other]
 tags: [private, modern, livingroom, kitchen, bathroom, bedroom, other, nursery]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1gDeCll
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1N5qU3z
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Kj8Cpl
 ---
 ## **Geometrie** und Kunst
 Ein Kunstwerk! Anders kann man dieses Design nicht benennen. Bei diesem Wohnkonzept treffen klare Linien und einfachen Formen auf ganz viel Zeitgeist!

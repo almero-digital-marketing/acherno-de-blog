@@ -71,6 +71,28 @@ images:
     tags: [bathroom]
 tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
 featured: true
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1hzxrqo
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1P986hi
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Kj8jLj
 ---
 ## **Interior Design** Puzzle
 Das Leben ist wie ein Puzzle, das sich aus Träumen, Erinnerungen, Erlebtem und Vergangenem zusammensetzt. Diese Wohnung hat alles aufgesammelt und aus den Puzzleteilen des Lebens ein Traumheim geschaffen.
