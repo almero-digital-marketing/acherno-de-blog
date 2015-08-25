@@ -38,6 +38,28 @@ images:
     file: 'relax-you-re-at-home/inneneinrichtung-schlafzimmer.jpg'
     tags: [bedroom]
 tags: [private, modern, livingroom, kitchen, bedroom, other]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Pw3i5W
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1Pw3imB
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1NGc9DJ
 ---
 ## **Interior Design** Sommerhaus
 Sommer, Sonne, Sommerhaus – Dem Bewohner dieses Feriendomizils wird ein fünf Sterne Luxus geboten.  Mithilfe einer eklektischen Einrichtung wurde hier ein kleines Stück Heimat verwirklicht.

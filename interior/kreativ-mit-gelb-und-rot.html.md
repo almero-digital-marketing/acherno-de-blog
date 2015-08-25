@@ -34,6 +34,28 @@ images:
     file: 'kreativ-mit-gelb-und-rot/interior-design-arbeitsplatz.jpg'
     tags: [other]
 tags: [private, contemporary, livingroom, other,]
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1MKpWZ2
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1MQsRkG
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1JwA9HD
 ---
 ## **Interior Design** Spielplatz für Erwachsene
 Auf die Plätze, fertig los! Spielen, das heißt mit dem Zufall zu experimentieren! Diese Wohnung ist so konzipiert, dass nie Langweile aufkommen kann. Alles ist aufregend, fordert dich auf mitzuspielen und deine Wohnung neuzugestalten. Ein kreativer Spielplatz für Erwachsene.

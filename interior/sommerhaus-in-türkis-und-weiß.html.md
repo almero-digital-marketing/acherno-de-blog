@@ -71,6 +71,28 @@ images:
     tags: [other]
 tags: [private, contemporary, livingroom, kitchen, bedroom, other]
 featured: true
+campaigns:
+  -
+    campaign: 'W-24-30' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1hYsRlI
+  -
+    campaign: 'W-30-40' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1JTynCw
+  -
+    campaign: 'W-40-65' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno Interior Design'
+    content: 'Von der Planung mit 3D Modell'
+    id: 1hDNJij
 ---
 ## **Interior Design** Ferienhaus
 Der Traum von der Strandvilla – ein Ferienhaus, am Strand mit romantischem Flair. Das ist der perfekte Ort für herrlich warme und entspannende  Sommertage.
