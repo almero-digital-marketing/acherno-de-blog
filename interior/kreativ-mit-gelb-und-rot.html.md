@@ -76,9 +76,8 @@ Die Regalwand ist eine clevere Designerlösung. Die Rundhölzer sind individuell
 ![Innendesign Wohnbereich](kreativ-mit-gelb-und-rot/innendesign-wohnbereich.jpg)
 ### Innendesign **Wohnbereich**
 
-Kochen, Wohnen und Relaxen verschmelzen zu einer funktionalen Einheit. Der dezente Hintergrund in Grafit verhilft dem roten Relaxstuhl zum großen Auftritt. Die kleinen Wohnobjekte in leuchtendem Rot und grellem Gelb lockern die Atmosphäre auf und bringen mehr Lebendigkeit im Raum. 
+Kochen, Wohnen und Relaxen verschmelzen zu einer funktionalen Einheit. Die Küche ist klassisch in Weiß und Schwarz eingerichtet.  Perfekt für Kochexperimente ausgestattet schaut sie souverän Richtung Wohnzimmer.  Der dezente Hintergrund in Grafit verhilft dem roten Relaxstuhl zum großen Auftritt. Die kleinen Wohnobjekte in leuchtendem Rot und grellem Gelb lockern die Atmosphäre auf und bringen mehr Lebendigkeit im Raum. 
 
-Die Küche ist klassisch in Weiß und Schwarz eingerichtet.  Perfekt für Kochexperimente ausgestattet schaut sie souverän Richtung Wohnzimmer. 
 
 -   ### Interior Design **Eingangsbereich**
     ![Interior Design Eingangsbereich](kreativ-mit-gelb-und-rot/interior-design-eingangsbereich.jpg)
