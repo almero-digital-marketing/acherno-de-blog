@@ -64,11 +64,12 @@ Auf die Plätze, fertig los! Spielen, das heißt mit dem Zufall zu experimentier
 ### Interior Design **Wohnzimmer**
 
 Der Wohnbereich ist geräumig. Die Basisfarben sind Grafit und Weiß. Zwei, die sich gut vertragen und sich exzellent als Leinenwand für grelle Akzente eignen. Die Einrichtung ist avantgardistisch  und dynamisch gestaltet. Das perfekte Heim für den kreativen Kopf.
+Die Lounge Area ist auf einen Podest platziert und passend zum Rest in stilvollen Grafit gehalten.  Die dunklen Vorhänge sorgen für eine ruhige Atmosphäre und gute Lichtverhältnisse im Raum.
 
 ![Inneneinrichtung Wohnzimmer](kreativ-mit-gelb-und-rot/inneneinrichtung-wohnzimmer.jpg)
 ### Inneneinrichtung **Wohnzimmer**
 
-Die Lounge Area ist auf einen Podest platziert und passend zum Rest in stilvollen Grafit gehalten.  Die dunklen Vorhänge sorgen für eine ruhige Atmosphäre und gute Lichtverhältnisse im Raum.  Nicht zu übersehen sind die farbigen Akzente in grell Gelb und feurigem Rot. Mit Bedacht dosiert wirken sie wie kleine Kunststücke.
+Nicht zu übersehen sind die farbigen Akzente in grell Gelb und feurigem Rot. Mit Bedacht dosiert wirken sie wie kleine Kunststücke.
 
 Die Regalwand ist eine clevere Designerlösung. Die Rundhölzer sind individuell verstellbar und somit perfekt zum mitgestalten geeignet. Lass deine Phantasie fliegen!
 
