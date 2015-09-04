@@ -94,3 +94,4 @@ Willkommen im Reich der Kreativen! Kreise aus Metall bilden einen originellen Wa
 ![Interior Design Arbeitsplatz](kreativ-mit-gelb-und-rot/interior-design-arbeitsplatz.jpg)
 ### Interior Design **Arbeitsplatz**
 
+Für die Funktionalität sind zahlreiche kleine Regale und Schränke eingebaut. Sie bewahren alle deine Sammelordner und Ideenskizzen gut auf. So wird aus Arbeit ein einziger Spaß.
