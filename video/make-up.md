@@ -1,8 +1,0 @@
----
-title: 'Make Up – auffällig, ein bisschen schrill und total abgefahren!'
-description: 'Smokey Eyes, die erwartungsvoll die Nacht herbeisehnen, ein Lidschatten in grellem Gelb und knallig rote Lippen.'
-cover: '/de/videos/make-up.jpg'
-video: 'https://youtu.be/DxxQjaX_oo4'
-tags: [private, contemporary, kitchen, livingroom, bedroom, bathroom]
-date: 2015-04-20
----

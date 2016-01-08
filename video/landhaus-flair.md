@@ -1,8 +1,0 @@
----
-title: 'Landhaus Flair - Unübliche Formen mit Landhausaustrahlung'
-description: 'Eine Wohnung, die sehr unübliche Formen hat. Die Klienten gaben diesem Projekt den netten Namen „ Die zwei rechten Winkel“ vollkommen zu Recht.'
-cover: '/de/videos/landhaus-flair.jpg'
-video: 'https://youtu.be/Rdj6qJERZ-0'
-tags: [private, contemporary, kitchen, livingroom, bedroom, bathroom, nursery]
-date: 2014-10-16
----
