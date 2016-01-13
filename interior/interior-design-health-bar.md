@@ -5,7 +5,6 @@ description: 'Shaken, Mixen, Snacken – warum sollte man beim Shopping auf eine
 date: 2015-03-23
 firstPage: true
 cover: 'http://hub.acherno.com/svn/freshhealth/Site/3D/01-Fresh_Health_F.jpg'
-firstPage: true
 images:
   -
     url: 'http://hub.acherno.com/svn/freshhealth/Site/3D/01-Fresh_Health_F.jpg'
@@ -40,7 +39,6 @@ images:
     file: 'interior-design-bar/inneneinrichtung-bar.jpg'
     tags: [other]
 tags: [public, contemporary, other]
-featured: true
 ---
 ## Beispiel einen **Health Drink**
 Shaken, Mixen, Snacken – warum sollte man beim Shopping auf eine gesunde Ernährungsweise, wie zum Beispiel einen Health Drink und leckere Salate, verzichten?  
