@@ -9,7 +9,7 @@ images:
     file: 'einrichtung-in-vielen-farben/interior-design-küche.jpg'
     tags: [modern, kitchen]
   -
-    url: 'http://hub.acherno.com/svn/paun/Site/Finalni/KEA_Boryana_Bikova_Hol_FINAL_05.jpg'
+    url: 'http://hub.acherno.com/svn/paun/Site/Finalni/KEA_Boryana_Bikova_Hol_FINAL_05a.jpg'
     file: 'einrichtung-in-vielen-farben/innenausstattung-wohnzimmer.jpg'
     tags: [contemporary, livingroom]
   -
