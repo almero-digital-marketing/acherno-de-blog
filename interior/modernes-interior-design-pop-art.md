@@ -4,6 +4,7 @@ title: '(Modernes Interior Design) Pop Art'
 description: 'Andy Warhol, Roy Lichtenstein, Jeff Koons, Takashi Murakami – das sind die Stars des Pop Arts.  Diese Kunstform hat sich längt aus den Kunstgalerien hinaus entwickelt und  ihren festen Platz in unserem Leben gefunden. Ob als Comic, Merchandising Artikel, Mode oder als Interior Design, noch nie hat eine Kunstrichtung so unseren Alltag so beeinflusst wie Pop Art.'
 date: 2015-07-14
 firstPage: true
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/komiks/Site/3D/01-h_F.jpg'

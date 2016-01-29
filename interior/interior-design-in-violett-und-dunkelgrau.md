@@ -5,6 +5,7 @@ description: 'Der Champagner ist kalt gestellt! Ein Wohnzimmer, das dich an eine
 date: 2015-03-30
 firstPage: true
 cover: 'http://hub.acherno.com/svn/gradski/Site/3D/2.02-h_f.jpg'
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/gradski/Site/3D/2.02-h_f.jpg'

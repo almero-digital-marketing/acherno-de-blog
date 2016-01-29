@@ -3,6 +3,7 @@ layout: /blog/post.ect
 title: 'Eklektisches (Interior Design)'
 description: 'Authentizität bewahren! Eine Wohnungseinrichtung, die das Beste aus vielen Wohndesigns in sich vereint,  aber doch sehr schlüssig und ästhetisch wirkt. Befreie dich von Konventionen und kreiere dein eigenes Traumheim!'
 date: 2015-04-14
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/01-h_f.jpg'

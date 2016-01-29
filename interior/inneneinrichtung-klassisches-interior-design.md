@@ -5,6 +5,7 @@ description: 'Ein klassisches Interior, das den Augen schmeichelt,  wurde mit vi
 date: 2015-07-01
 firstPage: true
 cover: 'http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-20-h-f.jpg'
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-20-h-f.jpg'

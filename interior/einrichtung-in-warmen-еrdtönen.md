@@ -5,6 +5,7 @@ description: 'Eine Wohnung die jedermanns Geschmack trifft! Eine Farbauswahl wie
 date: 2015-03-06
 firstPage: true
 cover: 'http://hub.acherno.com/svn/horizont/Site/3D/1.01-h_f.jpg'
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/horizont/Site/3D/1.02-h_f.jpg'

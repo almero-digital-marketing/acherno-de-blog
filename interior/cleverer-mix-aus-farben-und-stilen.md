@@ -5,6 +5,7 @@ description: 'Eine erstklassige Wohnkombination von verschiedenen Stilen, Formen
 date: 2015-03-30
 firstPage: true
 cover: 'http://hub.acherno.com/svn/alhimika/Facebook/06-h_f_hd.jpg'
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/alhimika/Facebook/06-h_f.jpg'

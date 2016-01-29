@@ -4,6 +4,7 @@ title: '(Puzzle aus Erinnerungen) und Träumen'
 description: 'Das Leben ist wie ein Puzzle, das sich aus Träumen, Erinnerungen, Erlebtem und Vergangenem zusammensetzt. Diese Wohnung hat alles aufgesammelt und aus den Puzzleteilen des Lebens ein Traumheim geschaffen. '
 date: 2015-08-05
 firstPage: true
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/01-h-f.bmp'

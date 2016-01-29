@@ -5,6 +5,7 @@ description: 'Was ist ein Leben schon Wert ohne ein schönes Heim?  Hier ist das
 date: 2015-02-26
 cover: 'http://hub.acherno.com/svn/klasika-v-janra/Facebook/04-h_f_hd.jpg'
 firstPage: true
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/klasika-v-janra/Facebook/04-h_f.jpg'

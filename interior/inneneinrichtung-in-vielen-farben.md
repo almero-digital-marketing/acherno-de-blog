@@ -3,6 +3,7 @@ layout: /blog/post.ect
 title: '(Inneneinrichtung) in vielen Farben'
 description: 'Der Traum jedes Interior Designers -  ein großes Apartment mit vielen Gestaltungsmöglichkeiten und Kunden die verzückt ihr neues Traumheim beziehen!'
 date: 2015-06-01
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/paun/Facebook/08-h.jpg'

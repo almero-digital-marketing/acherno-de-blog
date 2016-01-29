@@ -5,6 +5,7 @@ description: 'Zeitlos und elegant – ein Interior Design, das gut ankommt. Die 
 date: 2015-03-30
 firstPage: true
 cover: 'http://hub.acherno.com/svn/roza-bez-bodli/Facebook/1.17-h_f-HD.jpg'
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/roza-bez-bodli/Facebook/1.17-h_f.jpg'

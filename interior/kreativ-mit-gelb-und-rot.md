@@ -4,6 +4,7 @@ title: 'Kreativ mit (Gelb und Rot)'
 description: 'Auf die Plätze, fertig los! Spielen, das heißt mit dem Zufall zu experimentieren! Diese Wohnung ist so konzipiert, dass nie Langweile aufkommen kann. Alles ist aufregend, fordert dich auf mitzuspielen und deine Wohnung neuzugestalten. Ein kreativer Spielplatz für Erwachsene.'
 date: 2015-08-24
 firstPage: true
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/game-on/Site/3D/01-op_F.jpg'

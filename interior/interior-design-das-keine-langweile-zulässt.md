@@ -4,6 +4,7 @@ title: '(Interior Design,) das keine Langweile zulässt'
 description: 'Das Leben in der Stadt ist vielseitig und facettenreich. Als Stadtmensch wünscht du dir eine Wohnung, die genau das transportiert. Ein Heim, das zwar bunt und inspirierend ist, aber gleichzeitig einen ruhigen Zufluchtsort  vor der geschäftigen Großstadt bietet - das geliebte Zuhause eben!'
 date: 2015-08-26
 firstPage: true
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/gradski-legendi/Site/3D/03-h-F.jpg'

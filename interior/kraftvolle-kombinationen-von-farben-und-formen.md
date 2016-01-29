@@ -5,6 +5,7 @@ description: 'Mutig kombinierte, kraftvolle Farben und markante Formen. Praktisc
 date: 2015-02-24
 firstPage: true
 cover: 'http://hub.acherno.com/svn/kaleydoskop/Site/3D/08-h_f.jpg'
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/kaleydoskop/Facebook/05_h-f.jpg'

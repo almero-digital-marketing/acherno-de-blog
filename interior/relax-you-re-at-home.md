@@ -4,6 +4,7 @@ title: '(Relax) you´re at home'
 description: 'Sommer, Sonne, Sommerhaus – Dem Bewohner dieses Feriendomizils wird ein fünf Sterne Luxus geboten.  Mithilfe einer eklektischen Einrichtung wurde hier ein kleines Stück Heimat verwirklicht.'
 date: 2015-08-24
 firstPage: true
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/morski-relaks/Site/3D/03-h-F.jpg'

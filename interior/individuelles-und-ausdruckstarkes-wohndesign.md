@@ -3,6 +3,7 @@ layout: /blog/post.ect
 title: 'Individuelles und ausdruckstarkes (Wohndesign)'
 description: 'Ein Haus wird gebaut, aber ein Zuhause wird geformt. Diese Weisheit trifft perfekt auf diese Wohnung zu. Hier ist jede Ecke, jedes Detail, jede auch so unbedeutende Kleinigkeit nach individuellem Geschmack und Bedürfnis eingerichtet. '
 date: 2015-04-14
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Facebook/2.23-h_f.jpg'

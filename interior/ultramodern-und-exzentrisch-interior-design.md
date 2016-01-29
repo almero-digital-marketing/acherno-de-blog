@@ -3,6 +3,7 @@ layout: /blog/post.ect
 title: 'Ultramodern und exzentrisch (Interior Design)'
 description: 'Dieses Apartment könnte seine Adresse überall  in der Welt haben –  New York, Berlin, Shanghai oder Tokyo. Sehr stilvoll und modern eingerichtet, befindet sich dieses Apartment im Einklag mit den neuesten Interiortrends und ist ein klares Statement für jeden der im Leben nur das Beste haben will.'
 date: 2015-06-23
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/new-york/Facebook/12.1-h.jpg'

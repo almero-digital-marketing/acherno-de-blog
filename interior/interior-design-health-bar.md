@@ -5,6 +5,7 @@ description: 'Shaken, Mixen, Snacken – warum sollte man beim Shopping auf eine
 date: 2015-03-23
 firstPage: true
 cover: 'http://hub.acherno.com/svn/freshhealth/Site/3D/01-Fresh_Health_F.jpg'
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/freshhealth/Site/3D/01-Fresh_Health_F.jpg'

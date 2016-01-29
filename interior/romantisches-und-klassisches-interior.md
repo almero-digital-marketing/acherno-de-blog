@@ -4,6 +4,7 @@ title: 'Romantisches und (klassisches Interior)'
 description: 'In den letzten Jahren erfreuen sich  zeitgenössische Interpretationen von klassischem Design immer größerer Beliebtheit. Immer mehr Interior Liebhaber entscheiden sich für zarte Farben, Pastelltöne und klassische Formen.'
 date: 2015-06-23
 firstPage: true
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/gorska-feya/Site/3D/02-h-f.jpg'

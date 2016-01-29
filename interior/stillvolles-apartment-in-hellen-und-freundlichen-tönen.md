@@ -5,6 +5,7 @@ description: 'Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen 
 date: 2015-01-27
 firstPage: true
 cover: 'http://hub.acherno.com/svn/haus-of-vanity/Site/3D/4.01-h_f.jpg'
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/haus-of-vanity/Site/3D/4.01-h_f.jpg'

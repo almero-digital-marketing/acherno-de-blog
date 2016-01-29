@@ -3,6 +3,7 @@ layout: /blog/post.ect
 title: '(Modernes Apartment Design) in dezenten Farben'
 description: 'Hell, offen, freundlich. In zarten Pastellfarben präsentiert sich dieses City Apartment im neuen modernen Design.'
 date: 2015-03-30
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/slantse-i-zemya/Facebook/05-hol_f.jpg'

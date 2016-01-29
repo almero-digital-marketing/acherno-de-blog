@@ -3,6 +3,7 @@ layout: /blog/post.ect
 title: '(Minimalistisches Design) mit kontrastreichen Akzenten'
 description: 'Ein Kunstwerk! Anders kann man dieses Design nicht benennen. Bei diesem Wohnkonzept treffen klare Linien und einfachen Formen auf ganz viel Zeitgeist!'
 date: 2015-08-05
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/vienski-vals/Facebook/02-h_f.jpg'

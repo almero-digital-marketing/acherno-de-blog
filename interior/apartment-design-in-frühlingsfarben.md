@@ -3,6 +3,7 @@ layout: /blog/post.ect
 title: '(Apartment Design) in Frühlingsfarben'
 description: 'Wie eine Oase in Mitten des stressigen und schnellen Stadtlebens. Hier kannst du aufatmen und Energie für neue Taten tanken.'
 date: 2015-03-30
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/prolet/Facebook/01-h_f.jpg'

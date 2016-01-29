@@ -4,6 +4,7 @@ title: 'Wohnen im (skandinavischen Design)'
 description: 'Skandinavien mit seinem rauen, kalten Klima hat ein einzigartiges Interior Design geschaffen. Eines, das mit seinen klaren Linien, den natürlichen Materialien und den warmen Tönen eine besonders einladende und warme Stimmung schafft. Ein Interior das Wohlfühlglück verspricht!'
 date: 2015-07-06
 firstPage: true
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/breza/Site/3D/01-h_f.jpg'

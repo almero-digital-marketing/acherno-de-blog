@@ -3,6 +3,7 @@ layout: /blog/post.ect
 title: 'Moderner (Barock Stil)'
 description: 'Grenzenloser Luxus, dramatischer Moment, dynamische Architektur und eine Vorliebe zum Detail  - das ist der Barock Stil von heute.'
 date: 2014-04-01
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/neo-barokova-afera/Facebook/01-hol_f.jpg'

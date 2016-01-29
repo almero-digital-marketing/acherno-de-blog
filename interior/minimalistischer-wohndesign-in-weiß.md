@@ -5,6 +5,7 @@ description: 'Minimalistisch, aber nicht clean! Dieses Wohndesign eignet sich mi
 date: 2015-03-30
 cover: 'http://hub.acherno.com/svn/bqlata-kyshta/Facebook/02-h_f_hd.jpg'
 firstPage: true
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/bqlata-kyshta/Facebook/02-h_f.jpg'

@@ -4,6 +4,7 @@ title: 'Sommerhaus in (Türkis und Weiß)'
 description: 'Der Traum von der Strandvilla – ein Ferienhaus, am Strand mit romantischem Flair. Das ist der perfekte Ort für herrlich warme und entspannende  Sommertage.'
 date: 2015-08-24
 firstPage: true
+author: Vasilena Habermann
 images:
   -
     url: 'http://hub.acherno.com/svn/letni-mechti/Site/3D/01-h.jpg'
