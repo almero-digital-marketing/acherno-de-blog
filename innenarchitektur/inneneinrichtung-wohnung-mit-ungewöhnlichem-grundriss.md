@@ -5,7 +5,7 @@ description: 'Ein Innendesign für eine Wohnung mit außergewöhnlichem Grundris
 date: 2015-06-01
 cover: 'http://hub.acherno.com/svn/kod-cherveno/Facebook/09.1-b.jpg'
 author: Vasilena Habermann
-legacy:'/interior/inneneinrichtung-wohnung-mit-ungewöhnlichem-grundriss.html'
+legacy: '/interior/inneneinrichtung-wohnung-mit-ungewöhnlichem-grundriss.html'
 images:
   -
     url: 'http://hub.acherno.com/svn/kod-cherveno/Facebook/09.1-b.jpg'
