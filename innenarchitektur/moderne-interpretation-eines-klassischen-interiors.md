@@ -274,12 +274,12 @@ Ihre Gäste werden sich hier wie in einem fünf Sterne Hotel fühlen.  Hier hat 
 
 -   ### Interior **Gästezimmer**
     ![Interior Gästezimmer](moderne-interpretation-eines-klassischen-interiors/interior-gästezimmer.jpg)
--   ### ВInterior Design **Gästezimmer**
+-   ### Interior Design **Gästezimmer**
     ![Interior Design Gästezimmer](moderne-interpretation-eines-klassischen-interiors/interior-design-gästezimmer.jpg)
 -   ### Inneneinrichtung **Gästezimmer**
     ![Inneneinrichtung Gästezimmer](moderne-interpretation-eines-klassischen-interiors/inneneinrichtung-gästezimmer.jpg)
 -   ### Einrichtung **Gästezimmer**
-    ![Einrichtung Gästezimmer](moderne-interpretation-eines-klassischen-interiors/einrichtung-gästezimmer.jpg)    
+    ![Einrichtung Gästezimmer](moderne-interpretation-eines-klassischen-interiors/einrichtung-gästezimmer.jpg)
 
 Eine Farbkomposition, die von warmen Brauntönen bestimmt ist, mit Wänden, die in königlichen Marmor- und Goldnuancen erstrahlen. 
 
