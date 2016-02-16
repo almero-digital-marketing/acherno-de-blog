@@ -221,8 +221,8 @@ Ein Hauch von Vanille und Dunkelblau – eine Farbkombination, die angenehme Ass
 
 -   ### Inneneinrichtung **Gästetoilette**
     ![Inneneinrichtung Gästetoilette](modernes-interior-design-in-frischen-farben/inneneinrichtung-gästetoilette.jpg)
--   ### Interior design на **Gästetoilette**
-    ![Interior design на Gästetoilette](modernes-interior-design-in-frischen-farben/interior-design-gästetoilette.jpg)
+-   ### Interior Design **Gästetoilette**
+    ![Interior Design Gästetoilette](modernes-interior-design-in-frischen-farben/interior-design-gästetoilette.jpg)
 -   ### Einrichtung **Gästetoilette**
     ![Einrichtung Gästetoilette](modernes-interior-design-in-frischen-farben/einrichtung-gästetoilette.jpg)
 -   ### Innenausstattung **Gästetoilette**
