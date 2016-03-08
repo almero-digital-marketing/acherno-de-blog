@@ -7,181 +7,88 @@ firstPage: true
 cover: 'http://hub.acherno.com/svn/alhimika/Facebook/06-h_f_hd.jpg'
 author: Vasilena Habermann
 legacy: '/interior/cleverer-mix-aus-farben-und-stilen.html'
-images:
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/06-h_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/einrichtung-küche.jpg'
-    tags: [kitchen]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/01-h_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/interior-design-wohnzimmer.jpg'
-    tags: [livingroom]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/03-h_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/einrichtung-wohnzimmer.jpg'
-    tags: [livingroom]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/04-h_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/innedesign-wohnzimmer.jpg'
-    tags: [livingroom]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/02-h_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/innendesign-küche.jpg'
-    tags: [kitchen]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/05-h_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/interior-design-küche.jpg'
-    tags: [kitchen]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/09-s_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/inneneinrichtung-schlafzimmer.jpg'
-    tags: [bedroom]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/08-s_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/einrichtung-schlafzimmer.jpg'
-    tags: [bedroom]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/07-s_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/innenausstattung-schlafzimmer.jpg'
-    tags: [bedroom]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/10-s_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/interior-design-schlafzimmer.jpg'
-    tags: [bedroom]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/12-k_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/interior-design-wohn-und-arbeitsraum.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/11-k_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/einrichtung-wohn-und-arbeitsraum.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/14-k_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/innendesign-wohn-und-arbeitsraum.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/13-k_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/innenausstattung-wohn-und-arbeitsraum.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/16-a_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/einrichtung-eingangsbereich.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/20-t_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/interior-design-terrasse.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/19-t_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/einrichtung-terrasse.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/21-t_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/innenausstattung-terrasse.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/22-t_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/ausstattung-terrasse.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/24-b_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/innendesign-badezimmer.jpg'
-    tags: [bathroom]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/23-b_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/einrichtung-badezimmer.jpg'
-    tags: [bathroom]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/26-b_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/inneneinrichtung-badezimmer.jpg'
-    tags: [bathroom]
-  -
-    url: 'http://hub.acherno.com/svn/alhimika/Facebook/25-b_f.jpg'
-    file: 'cleverer-mix-aus-farben-und-stilen/interior-design-badezimmer.jpg'
-    tags: [bathroom]
-tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
+tags: [private, contemporary]
 featured: true
 ---
 ## Pastell mit **Tupfern in Hellgrün und Türkis**
 Eine erstklassige Wohnkombination von verschiedenen Stilen, Formen und Farben, die östliche und westliche Kulturelemente gekonnt in sich vereint. Feiner Sand als Grundton mit Akzenten in frischem Grün und kaltem Türkis - eine einheitliche Farbepalette, die sich durch das ganze Wohnkonzept zieht, lässt dieses Interior besonders ausgeglichen und behaglich wirken.
 
-![Interior Design Wohnzimmer](cleverer-mix-aus-farben-und-stilen/interior-design-wohnzimmer.jpg)
+[image url="http://hub.acherno.com/svn/alhimika/Facebook/01-h_f.jpg" tags="livingroom" title="Interior Design Wohnzimmer"]
 ### Interior Design **Wohnzimmer**
 
-Bitte recht freundlich! Ein offenes Wohnzimmer, das durch ihr modernes Design sehr luftig und hell wirkt.  Schöne gestreifte, bodenlange Vorhänge in Türkis und Sand perfekt in Szene gesetzt durch Stuckelemente mit integrierter Beleuchtung. Ein wertiger Bodenbelag im dezentem hellgrau harmoniert mit den weißen Möbel und den sandfarbenen Wänden perfekt. Die Farben der Wohntextilien orientieren sich nach der obigen Farbpalette.
+Bitte recht freundlich! Ein offenes Wohnzimmer, das durch ihr modernes Design sehr luftig und hell wirkt.  Schöne gestreifte, bodenlange Vorhänge in Türkis und Sand perfekt in Szene gesetzt durch Stuckelemente mit integrierter Beleuchtung. Ein wertiger Bodenbelag im dezentem hellgrau harmoniert mit den weißen maßangefertigten Möbeln und den sandfarbenen Wänden perfekt. Die Farben der Wohntextilien orientieren sich nach der obigen Farbpalette. Unsere Möbelmanufaktur hat sich hier an die neuesten Trends orientiert.
 
--   ### Einrichtung **Wohnzimmer**
-    ![Möbel und Einrichtung Wohnzimmer](cleverer-mix-aus-farben-und-stilen/einrichtung-wohnzimmer.jpg)
--   ### Innedesign **Wohnzimmer**
-    ![Innedesign Wohnzimmer](cleverer-mix-aus-farben-und-stilen/innedesign-wohnzimmer.jpg)
+-   ### Raumgestaltung **Wohnzimmer**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/03-h_f.jpg" tags="livingroom" title="Raumgestaltung Wohnzimmer"]
+-   ### Innendesign Ideen **Wohnzimmer**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/04-h_f.jpg" tags="livingroom" title="Innendesign Ideen Wohnzimmer"]
 
-Salonfähig! Diese Landhaustileinrichtung in Weiß verzaubert. Ein edler Kamin, weiß lackierte Wohnmöbel, eine auffällige antike Wanduhr und klassische Deckenleuchten machen dieses Zimmer durch sein Design zu einem kleinen englischen Salon. 
+Salonfähig! Diese Landhaustileinrichtung in Weiß verzaubert. Ein edler Kamin, weiß lackierte Qualitätsmöbel aus dem Hause Acherno, eine auffällige antike Wanduhr und klassische Deckenleuchten machen dieses Zimmer durch sein Design zu einem kleinen englischen Salon.
 
-![Einrichtung Küche](cleverer-mix-aus-farben-und-stilen/einrichtung-küche.jpg)
-### Einrichtung **Küche**
+[image url="http://hub.acherno.com/svn/alhimika/Facebook/02-h_f.jpg" tags="kitchen" title="Raumgestaltung Küche"]
+### Raumgestaltung **Küche**
 
 Eine klassische Küche in Weiß und Türkis. Die besonders schönen Deckenelemente sind auch hier präsent und beleuchten die Arbeitsfläche perfekt. 
 
--   ### Innendesign **Küche**
-    ![Innendesign Küche](cleverer-mix-aus-farben-und-stilen/innendesign-küche.jpg)
--   ### Interior Design **Küche**
-    ![Interior Design Küche](cleverer-mix-aus-farben-und-stilen/interior-design-küche.jpg)
+-   ### Innenarchitektur Projekt **Küche**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/06-h_f.jpg" tags="kitchen" title="Innenarchitektur Projekt Küche"]
+-   ### Raumdesign **Küche**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/05-h_f.jpg" tags="kitchen" title="Raumdesign Küche"]
 
 Tauche ein in einen Traum aus Türkis und Weiß! Die U-förmige Küche in strahlendem Türkis ist funktional eingerichtet, mit vielen Aufbewahrungsmöglichkeiten und einer trendigen Theke in Weiß. 
 
-![Inneneinrichtung Schlafzimmer](cleverer-mix-aus-farben-und-stilen/inneneinrichtung-schlafzimmer.jpg)
-###Inneneinrichtung **Schlafzimmer**
+[image url="http://hub.acherno.com/svn/alhimika/Facebook/09-s_f.jpg" tags="bedroom" title="Inneneinrichtung Schlafzimmer"]
+### Inneneinrichtung **Schlafzimmer**
 
 Hier punktet man mit Design! Ein ovales Bett, zentral aufgestellt und eine Wand mit offenem Mauerwerk. Eine Farbgebung in schlichtem Weiß wird nur durch kleine Dekorationen in Sand und Türkis unterbrochen.
 
--   ### Einrichtung **Schlafzimmer**
-    ![Einrichtung Schlafzimmer](cleverer-mix-aus-farben-und-stilen/einrichtung-schlafzimmer.jpg)
--   ### Innenausstattung **Schlafzimmer**
-    ![Innenausstattung Schlafzimmer](cleverer-mix-aus-farben-und-stilen/innenausstattung-schlafzimmer.jpg)
--   ### Interior Design **Schlafzimmer**
-    ![Interior Design Schlafzimmer](cleverer-mix-aus-farben-und-stilen/interior-design-schlafzimmer.jpg)    
+-   ### Wohnideen **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/08-s_f.jpg" tags="bedroom" title="Wohnideen Schlafzimmer"]
+-   ### Raumgestaltung **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/07-s_f.jpg" tags="bedroom" title="Raumgestaltung Schlafzimmer"]
+-   ### Einrichtungsideen **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/10-s_f.jpg" tags="bedroom" title="Einrichtungsideen Schlafzimmer"]
  
 Türkise Fensterläden im Shabby Look verdecken den Spiegel und lassen ihn optisch zu einem Durchgang werden -  ein absoluter Hingucker!
 
-![Interior Design Wohn und Arbeitsraum](cleverer-mix-aus-farben-und-stilen/interior-design-wohn-und-arbeitsraum.jpg)
+[image url="http://hub.acherno.com/svn/alhimika/Facebook/12-k_f.jpg" tags="livingroom" title="Interior Design Wohn und Arbeitsraum"]
 ### Interior Design **Wohn und Arbeitsraum**
 
 Ob zum Ausruhen oder Arbeiten – dieser Raum bietet beides.
 
--   ### Einrichtung **Wohn und Arbeitsraum**
-    ![Einrichtung Wohn und Arbeitsraum](cleverer-mix-aus-farben-und-stilen/einrichtung-wohn-und-arbeitsraum.jpg)
+-   ### Raumgestaltung **Wohn und Arbeitsraum**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/11-k_f.jpg" tags="other" title="Raumgestaltung Wohnzimmer"]
 -   ### Innendesign **Wohn und Arbeitsraum**
-    ![Innendesign Wohn und Arbeitsraum](cleverer-mix-aus-farben-und-stilen/innendesign-wohn-und-arbeitsraum.jpg)
--   ### Innenausstattung **Wohn und Arbeitsraum**
-    ![Innenausstattung Wohn und Arbeitsraum](cleverer-mix-aus-farben-und-stilen/innenausstattung-wohn-und-arbeitsraum.jpg)
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/14-k_f.jpg" tags="other" title="Innendesign Wohnzimmer"]
+-   ### Innenarchitektur **Wohn und Arbeitsraum**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/13-k_f.jpg" tags="other" title="Innenarchitektur Wohnzimmer"]
 
-Ein kleiner Design Sekretär mit Chefsessel, eine  bequeme Couch und ein großer hellblauer Schrank sorgen für viel Funktionalität und Komfort in diesem Zimmer.
+Mit dem kleinen Design Sekretär inklusiv Chefsessel, eine bequeme Couch und ein großer hellblauer Schrank aus unserer Fertigung, sorgen wir für viel Funktionalität und Komfort in diesem Zimmer.
 
-![Einrichtung Eingangsbereich](cleverer-mix-aus-farben-und-stilen/einrichtung-eingangsbereich.jpg)
-### Einrichtung **Eingangsbereich**
+[image url="http://hub.acherno.com/svn/alhimika/Facebook/16-a_f.jpg" tags="other" title="Raumgestaltung Eingangsbereich"]
+### Raumgestaltung **Eingangsbereich**
 
 Klassisch – viel Stauraum hinter weißen Schranktüren, große Spiegelwände und ein weicher Teppich in Sand, lässt diesen Eingangsbereich sehr einladend wirken.
 
-![Interior Design Terrasse](cleverer-mix-aus-farben-und-stilen/interior-design-terrasse.jpg)
+[image url="http://hub.acherno.com/svn/alhimika/Facebook/20-t_f.jpg" tags="other" title="Interior Design Terrasse"]
 ### Interior Design **Terrasse**
 
 Irrashaimase... so klingt Willkommen auf Japanisch. Hier wurde ein kleines Stück Asien auf dieser Terrasse verwirklicht.  Weiße Fensterfronten, viel Transparenz und dezenter Bambuston. Mit diesen Stilelementen fühlst du dich wie in einem typischen japanischen Teehaus. 
 
--   ### Einrichtung **Terrasse**
-    ![Einrichtung Terrasse](cleverer-mix-aus-farben-und-stilen/einrichtung-terrasse.jpg)
--   ### Innenausstattung **Terrasse**
-    ![Innenausstattung Terrasse](cleverer-mix-aus-farben-und-stilen/innenausstattung-terrasse.jpg)
--   ### Ausstattung **Terrasse**
-    ![Ausstattung Terrasse](cleverer-mix-aus-farben-und-stilen/ausstattung-terrasse.jpg)
+-   ### Innendesign **Terrasse**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/19-t_f.jpg" tags="other" title="Innendesign Terrasse"]
+-   ### Raumgestaltung **Terrasse**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/21-t_f.jpg" tags="other" title="Raumgestaltung Terrasse"]
+-   ### Wohnideen **Terrasse**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/22-t_f.jpg" tags="other" title="Wohnideen Terrasse"]
 
 Ein flacher Teetisch mit Sitzkissen in Bambusgrün, ein asiatischer Fächerschrank und kleine Tatamimatten machen aus diesem Raum eine Harmoniezone.
 
--   ### Innendesign **Badezimmer**
-    ![Innendesign Badezimmer](cleverer-mix-aus-farben-und-stilen/innendesign-badezimmer.jpg)
--   ### Inneneinrichtung **Badezimmer**
-    ![Inneneinrichtung Badezimmer](cleverer-mix-aus-farben-und-stilen/inneneinrichtung-badezimmer.jpg)
--   ### Einrichtung **Badezimmer**
-    ![Einrichtung Badezimmer](cleverer-mix-aus-farben-und-stilen/einrichtung-badezimmer.jpg)
+-   ### Innendesign Ideen **Badezimmer**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/24-b_f.jpg" tags="bathroom" title="Innendesign Ideen Badezimmer"]
+-   ### Raumgestaltung **Badezimmer**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/26-b_f.jpg" tags="bathroom" title="Raumgestaltung Badezimmer"]
+-   ### Innenarchitektur **Badezimmer**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/23-b_f.jpg" tags="bathroom" title="Innenarchitektur Badezimmer"]
 
 Märchenhaft! Dieses schicke Bad in glänzendem Weiß mit Fliesen, die an Kieselsteine erinnern, ist einzigartig! Florale Dekoprints beleben das Design und eine hochwertige Sanitäreinrichtung sorgt für den nötigen Komfort.
