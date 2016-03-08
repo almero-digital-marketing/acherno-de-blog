@@ -1,5 +1,5 @@
 ---
 href: /blog/posts/paging
-title: 'Innenarchitektur Blog'
+title: 'Raumgestaltung Blog'
 layout: /blog/posts.ect
 ---
