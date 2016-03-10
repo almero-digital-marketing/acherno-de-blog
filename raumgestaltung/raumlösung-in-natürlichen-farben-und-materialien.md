@@ -63,7 +63,7 @@ Die zarten Blüten der Orchidee peppen das Ganze auf.
 Was macht ein gutes Schlafzimmer aus? Siehe einfach her. Ein großes komfortables Bett aus unserer Möbelmanufaktur, natürliche Farben und Materialien und ein modernes Design. Das ist eine Wohlfühloase für Körper und Seele.
 
 -   ### Interior Design **Schlafzimmer**
-    [image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/08-s-F.jpg" tags="bedroom" title="Interior Design Schlafzimmer" cover=1]
+    [image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/08-s-F.jpg" tags="bedroom" title="Interior Design Schlafzimmer"]
 -   ### Raumgestaltung **Schlafzimmer**
     [image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/10-s-F.jpg" tags="bedroom" title="Raumgestaltung Schlafzimmer"]
 

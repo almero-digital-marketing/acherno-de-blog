@@ -24,7 +24,7 @@ Ein Schritt weiter und schon stehst im Mitten im Familienleben. Das Wohnzimmer h
 -   ### Raumgestaltung **Küche**
     [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/03-h-F.jpg" tags="kitchen" title="Raumgestaltung Küche"]
 -   ### Raumdesign **Essbereich**
-    [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/02-h-F.jpg" tags="kitchen" title="Raumdesign Essbereich"]
+    [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/02-h-F.jpg" tags="kitchen" title="Raumdesign Essbereich" cover=1]
 
 Du kochst gerne mit deinen Freunden zusammen? Das können wir gut verstehen. In dieser schönen Küche kannst du im Handumdrehen etwas Schmackhaftes zaubern.
 
