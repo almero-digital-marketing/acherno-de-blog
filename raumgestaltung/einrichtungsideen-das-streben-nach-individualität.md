@@ -3,6 +3,7 @@ layout: /blog/post.ect
 title: 'Einrichtungsideen (Das Streben nach Individualität)'
 description: 'Dein Zuhause – das bist du! Wir haben die Ehre Sie bei der Neuerfindung ihres Heims mit professionellem Rat zur Seite zu stehen. Unsere Mission - die visuelle Transformation und funktionale Gestaltung Ihres Hauses um mehr Lebensqualität für ihr Zuhause zu generieren.'
 date: 2016-02-01
+cover: 'http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/02-h-F.jpg'
 author: Vasilena Habermann
 legacy: '/interior/interior-design-das-streben-nach-individualität.html'
 tags: [private, contemporary]
@@ -24,7 +25,7 @@ Ein Schritt weiter und schon stehst im Mitten im Familienleben. Das Wohnzimmer h
 -   ### Raumgestaltung **Küche**
     [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/03-h-F.jpg" tags="kitchen" title="Raumgestaltung Küche"]
 -   ### Raumdesign **Essbereich**
-    [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/02-h-F.jpg" tags="kitchen" title="Raumdesign Essbereich" cover=1]
+    [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/02-h-F.jpg" tags="kitchen" title="Raumdesign Essbereich"]
 
 Du kochst gerne mit deinen Freunden zusammen? Das können wir gut verstehen. In dieser schönen Küche kannst du im Handumdrehen etwas Schmackhaftes zaubern.
 
