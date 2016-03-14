@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: '(Raumdesign) in Violett und Dunkelgrau'
+title: '(Wohndesign) in Violett und Dunkelgrau'
 description: 'Der Champagner ist kalt gestellt! Ein Wohnzimmer, das dich an eine stylische Bar in New York erinnert. Dank unserer kreativen Interior- und Möbelesigner haben wir auf kleinem Raum ein originelles Interior Design kreiert, das keine Wünsche offen lässt.'
 date: 2015-03-30
 firstPage: true
@@ -61,8 +61,8 @@ Weiße Möbel und eine Deckenumrahmung in Flieder lassen dich hier vom Frühling
 Das Bett ist extra hoch, besonders bequem und gepolstert in edlem Ökoleder. Markante weiße Leuchten in graphischem Design werden eins mit der Umgebung.
 Wandbotschaften erinnern dich an die wichtigen Dinge des Lebens.
 
-[image url="http://hub.acherno.com/svn/gradski/Site/3D/1.02-b_f.jpg" tags="bathroom" title="Raumdesign Badezimmer"]
-### Raumdesign **Badezimmer**
+[image url="http://hub.acherno.com/svn/gradski/Site/3D/1.02-b_f.jpg" tags="bathroom" title="Wohndesign Badezimmer"]
+### Wohndesign **Badezimmer**
 
 Bitte Ruhe, hier wird relaxt! Windkerzen, Seesterne, Sand und Kiesel - das sind nicht deine vergangenen Urlaubserinnerungen, sondern die originellen Motive der Badfliesen.  Viel Glas und silberne Armaturen harmonieren perfekt mit dem Farbspiel in Schokobraun und Sandbeige.
 

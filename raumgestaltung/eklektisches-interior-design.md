@@ -10,8 +10,8 @@ tags: [private, modernclassic]
 ## Klassisch, modern mit **petrolblauen Akzenten**
 Authentizität bewahren! Eine Raumgestaltung, die das Beste aus vielen Wohndesigns in sich vereint, aber doch sehr schlüssig und ästhetisch wirkt. Befreie dich von Konventionen und kreiere dein eigenes Traumheim!
 
-[image url="http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/01-h_f.jpg" tags="livingroom" title="Innendesign Wohnzimmer"]
-### Innendesign **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/01-h_f.jpg" tags="livingroom" title="Wohndesign Wohnzimmer"]
+### Wohndesign **Wohnzimmer**
 
 Ein offenes Wohnzimmer, das von den Farben Weiß und Hellgrau dominiert wird. Eine der Wände ist mit dekorativem Putz in samtigem Grau angestrichen und mit Holzrahmen versehen. Zwei klassische Deckenleuchten in Weiß sind nicht nur zeitlos dekorativ, sondern weisen auch den Blick auf den Wohn - Essbereich.
 
@@ -56,8 +56,8 @@ Ein Hauch Klassizismus – zeitloses Schwarz und Weis. Fliesen im Schachbrett Lo
     [image url="http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/14-a_f.jpg" tags="other" title="Innendesign Ideen Eingangsbereich"]
 -   ### Innenarchitektur Projekt **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/10-a_f.jpg" tags="other" title="Innenarchitektur Projekt Eingangsbereich"]
--   ### Inneneinrichtung **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/12-a_f.jpg" tags="other" title="Inneneinrichtung Eingangsbereich"]
+-   ### Wohndesign **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/12-a_f.jpg" tags="other" title="Wohndesign Eingangsbereich"]
 -   ### Raumdesign **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/13-a_f.jpg" tags="other" title="Raumdesign Eingangsbereich"]
 

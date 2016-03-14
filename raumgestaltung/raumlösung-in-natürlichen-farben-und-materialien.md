@@ -40,8 +40,8 @@ Eine Küche, die mit höchstem Anspruch an Design und Technik eingerichtet ist. 
 
 Der Flur ist stilvoll eingerichtet und Unison zu dem Einrichtungsstil der Wohnung. Die große Spiegelwand verleiht dem Raum eine zusätzliche Breite.
 
--   ### Innendesign **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/07-k-F.jpg" tags="other" title="Innendesign Eingangsbereich"]
+-   ### Wohndesign **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/07-k-F.jpg" tags="other" title="Wohndesign Eingangsbereich"]
 -   ### Innenarchitektur Projekt **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/05-k-F.jpg" tags="other" title="Innenarchitektur Projekt Eingangsbereich"]
 
@@ -87,8 +87,8 @@ Ein Kinderzimmer, das nicht nur auf praktische Einrichtungsmöbel angelegt ist, 
 
 -   ### Raumgestaltung **Kinderzimmer**
     [image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/13-d-F.jpg" tags="nursery" title="Raumgestaltung Kinderzimmer"]
--   ### Innendesign **Kinderzimmer**
-    [image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/11-d-F.jpg" tags="nursery" title="Innendesign Kinderzimmer"]
+-   ### Wohndesign **Kinderzimmer**
+    [image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/11-d-F.jpg" tags="nursery" title="Wohndesign Kinderzimmer"]
 
 Natürliche Lichtquellen und natürliche Farben als Basis mit ausgewählten Farbakzenten und Motiven machen aus dem Kinderzimmer ein Ort der Entdeckung, Spiel und Spaß!
 
@@ -109,7 +109,7 @@ Hier wird mehr als der Standard geboten. Raumhöhe und Tiefe sind klug ausgenutz
 
 Eine Gästetoilette in edlem Design, die dank kleinen dekorativen Mustern sehr frisch und fröhlich herüberkommt.
 
-[image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/22-t-F.jpg" tags="bathroom" title="Raumdesign Ideen Gästetoilette"]
-### Raumdesign Ideen **Gästetoilette**
+[image url="http://hub.acherno.com/svn/s-misal-za-denya/Site/3D/22-t-F.jpg" tags="bathroom" title="Wohndesign Ideen Gästetoilette"]
+### Wohndesign Ideen **Gästetoilette**
 
 Die drei eingerahmten mallorquinischen Mosaikfliesen lassen die kleine Toilette noch lebendiger wirken.

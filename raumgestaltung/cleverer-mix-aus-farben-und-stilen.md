@@ -20,8 +20,8 @@ Bitte recht freundlich! Ein offenes Wohnzimmer, das durch ihr modernes Design se
 
 -   ### Raumgestaltung **Wohnzimmer**
     [image url="http://hub.acherno.com/svn/alhimika/Facebook/03-h_f.jpg" tags="livingroom" title="Raumgestaltung Wohnzimmer"]
--   ### Innendesign Ideen **Wohnzimmer**
-    [image url="http://hub.acherno.com/svn/alhimika/Facebook/04-h_f.jpg" tags="livingroom" title="Innendesign Ideen Wohnzimmer"]
+-   ### Wohndesign Ideen **Wohnzimmer**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/04-h_f.jpg" tags="livingroom" title="Wohndesign Ideen Wohnzimmer"]
 
 Salonfähig! Diese Landhaustileinrichtung in Weiß verzaubert. Ein edler Kamin, weiß lackierte Qualitätsmöbel aus dem Hause Acherno, eine auffällige antike Wanduhr und klassische Deckenleuchten machen dieses Zimmer durch sein Design zu einem kleinen englischen Salon.
 
@@ -75,8 +75,8 @@ Klassisch – viel Stauraum hinter weißen Schranktüren, große Spiegelwände u
 
 Irrashaimase... so klingt Willkommen auf Japanisch. Hier wurde ein kleines Stück Asien auf dieser Terrasse verwirklicht.  Weiße Fensterfronten, viel Transparenz und dezenter Bambuston. Mit diesen Stilelementen fühlst du dich wie in einem typischen japanischen Teehaus. 
 
--   ### Innendesign **Terrasse**
-    [image url="http://hub.acherno.com/svn/alhimika/Facebook/19-t_f.jpg" tags="other" title="Innendesign Terrasse"]
+-   ### Wohndesign **Terrasse**
+    [image url="http://hub.acherno.com/svn/alhimika/Facebook/19-t_f.jpg" tags="other" title="Wohndesign Terrasse"]
 -   ### Raumgestaltung **Terrasse**
     [image url="http://hub.acherno.com/svn/alhimika/Facebook/21-t_f.jpg" tags="other" title="Raumgestaltung Terrasse"]
 -   ### Wohnideen **Terrasse**

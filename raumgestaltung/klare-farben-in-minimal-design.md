@@ -12,8 +12,8 @@ featured: true
 ## Klare Farben in **Minimal Design**
 Hotel – nicht nur ein Übernachtungs- und Verpflegungsbetrieb für Gäste gegen Geld, sondern eine Privatsphäre auf Zeit. Einen Ort der Geborgenheit, wie Zuhause.
 
-[image url="http://hub.acherno.com/svn/hotel-001/Facebook/1.10-ap-hol_f.jpg" tags="livingroom" title="Innendesign Apartment Wohnbereich"]
-### Innendesign **Apartment Wohnbereich**
+[image url="http://hub.acherno.com/svn/hotel-001/Facebook/1.10-ap-hol_f.jpg" tags="livingroom" title="Wohndesign Apartment Wohnbereich"]
+### Wohndesign **Apartment Wohnbereich**
 
 Klare Linien und Farben, reduzierte Einrichtung – Minimalismus in seiner schönsten Form. Einzig die roten Wohnaccessoires setzten Akzente.
 
@@ -51,8 +51,8 @@ Dieses Design gefällt uns! Die Farbpallete ist in den gleichen Farben gehalten.
  
 Ein handgefertigtes Zweiersofa in Grafit aus robustem Kunstleder, ein z-förmiger Beistelltisch und ein praktischer Arbeitsplatz lassen keine Gästewünsche offen.
 
-[image url="http://hub.acherno.com/svn/hotel-001/Facebook/4.16-hol_et1_f.jpg" tags="other" title="Raumdesign Hotel Lobby"]
-### Raumdesign Hotel **Lobby**
+[image url="http://hub.acherno.com/svn/hotel-001/Facebook/4.16-hol_et1_f.jpg" tags="other" title="Wohndesign Hotel Lobby"]
+### Wohndesign Hotel **Lobby**
 
 Im ersten Stock des Hotels befindet sich dieser stylische Lobbybereich. Drei geteilt in Wohnzimmer, Essbereich und Event-Küche ist diese Lobby ein Place to be. Ideal für Businessdates, Meetings oder Firmenevents.
 

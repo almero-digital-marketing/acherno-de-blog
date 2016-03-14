@@ -28,8 +28,8 @@ Die Sitzgruppe im Essbereich ist passend zum restlichen Küchendesign in klassis
 
 Von Kopenhagener Design inspiriert erstrahlt diese Wohnwand in puristischem black&white. Eine Wohnzimmerwand wie ein modernes Kunstwerk gibt dem  Home Cinema System ein perfektes Zuhause. Und als Clou ist auch noch ein futuristischer Kamin in dieses Arrangement integriert. 
 
-[image url="http://hub.acherno.com/svn/paun/Facebook/41-d.jpg" tags="nursery" title="Raumdesign Kinderzimmer"]
-### Raumdesign **Kinderzimmer**
+[image url="http://hub.acherno.com/svn/paun/Facebook/41-d.jpg" tags="nursery" title="Wohndesign Kinderzimmer"]
+### Wohndesign **Kinderzimmer**
 
  Auf zur großen  Safari! Wilde Giraffen ziehen unter der gleisenden afrikanischen Sonne vorüber. Wir wünschen ihren Kleinen einen unvergesslichen Aufenthalt in der faszinierenden Serengeti.
 

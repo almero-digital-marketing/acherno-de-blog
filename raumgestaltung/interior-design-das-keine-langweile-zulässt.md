@@ -21,10 +21,10 @@ Hell, geräumig und modern - die bodentiefen Fenster sorgen für das passende na
 
 Die Glastreppe hält sich dezent im Hintergrund, wirkt aber mit seiner Transparenz und Leichtigkeit sehr elegant. Die moderne Deckenverkleidung besticht mit ihrem dynamischen Design. Die eingereihten Holzpaneelen sind mit ihrem natürlichen Look voll im Trend. Sie sind nicht nur dekorativ, sondern sehr praktisch und sorgen für eine angenehme Akustik im Innenraum.  So wird aus jedem Filmabend eine kleine Kinoprämiere.
 
-[image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/02-h-F.jpg" tags="livingroom" title="Einrichtungsideen Wohnzimmer"]
-### Einrichtungsideen **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/02-h-F.jpg" tags="livingroom" title="Wohndesign Wohnzimmer"]
+### Wohndesign **Wohnzimmer**
 
-Sie sind nicht nur dekorativ, sondern sehr praktisch und sorgen für eine angenehme Akustik im Innenraum.  So wird aus jedem Filmabend eine kleine Kinoprämiere.
+Sie sind nicht nur dekorativ, sondern sehr praktisch und sorgen für eine angenehme Akustik im Innenraum. So wird aus jedem Filmabend eine kleine Kinoprämiere.
 
 [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/04-h-F.jpg" tags="kitchen" title="Raumgestaltung Esszimmer"]
 ### Raumgestaltung **Esszimmer**
@@ -83,8 +83,8 @@ Sehnsucht nach Natur! Dieses kleine Bad mit seinen kleinen weißen Flusssteinen 
 
 Auch dieses Arbeitszimmer punktet mit einem schicken Design. Hier wurde großer Wert auf die warme Ausstrahlung des Zimmers gelegt.
 
--   ### Innendesign **Arbeitszimmer**
-    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/12-k-F.jpg" tags="other" title="Innendesign Arbeitszimmer"]
+-   ### Wohndesign **Arbeitszimmer**
+    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/12-k-F.jpg" tags="other" title="Wohndesign Arbeitszimmer"]
 -   ### Möbel und Raumdesign **Arbeitszimmer**
     [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/13-k-F.jpg" tags="other" title="Möbel und Raumdesign Arbeitszimmer"]
 

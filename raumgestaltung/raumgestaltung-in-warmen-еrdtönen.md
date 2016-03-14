@@ -34,8 +34,8 @@ Wir sind Spezialisten in Sachen Kochkomfort und Aufbewahrung! Die massiven dunke
 
 Praktisch mit klaren Linien – das ist der moderne Essplatz von heute. Einen Tisch aus dunklem Massivholz, ausgewählte Tafeldeteils in Terrakottabraun und vier Polsterstühle in hellgrau harmonieren perfekt. Ob morgens oder abends, hier schmeckt es immer!
 
-[image url="http://hub.acherno.com/svn/horizont/Site/3D/2.03-k_f.bmp" tags="other" title="Innendesign Ideen Eingangsbereich"]
-### Innendesign Ideen **Eingangsbereich**
+[image url="http://hub.acherno.com/svn/horizont/Site/3D/2.03-k_f.bmp" tags="other" title="Wohndesign Ideen Eingangsbereich"]
+### Wohndesign Ideen **Eingangsbereich**
 
 Der Eingangsbereich ist das Portfolio des Interior Designs einer Wohnung. Helle beige Fliesen in Holzoptik, Wände in freundlichen Farben und Ertönen ergänzen sich perfekt. 
 
@@ -82,7 +82,7 @@ Modern gelöst! Badezimmer und WC wurden voneinander getrennt. Edle Fliesen in b
 
 Die Dusche ist in dem gleichen Design gehalten, sodass beide sich gut ergänzen und eine Perfektion von Ästhetik und Funktionalität bilden.
 
--   ### Einrichtungsideen **Badezimmer**
-    [image url="http://hub.acherno.com/svn/horizont/Site/3D/7.01-b_f.bmp" tags="bathroom" title="Einrichtungsideen Wohnzimmer"]
+-   ### Wohndesign **Badezimmer**
+    [image url="http://hub.acherno.com/svn/horizont/Site/3D/7.01-b_f.bmp" tags="bathroom" title="Wohndesign Wohnzimmer"]
 -   ### Raumgestaltung **Badezimmer**
     [image url="http://hub.acherno.com/svn/horizont/Site/3D/7.02-b_f.bmp" tags="bathroom" title="Raumgestaltung Badezimmer"]

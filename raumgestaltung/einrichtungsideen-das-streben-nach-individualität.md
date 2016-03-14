@@ -24,8 +24,8 @@ Ein Schritt weiter und schon stehst im Mitten im Familienleben. Das Wohnzimmer h
 
 -   ### Raumgestaltung **Küche**
     [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/03-h-F.jpg" tags="kitchen" title="Raumgestaltung Küche"]
--   ### Raumdesign **Essbereich**
-    [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/02-h-F.jpg" tags="kitchen" title="Raumdesign Essbereich"]
+-   ### Wohndesign **Essbereich**
+    [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/02-h-F.jpg" tags="kitchen" title="Wohndesign Essbereich"]
 
 Du kochst gerne mit deinen Freunden zusammen? Das können wir gut verstehen. In dieser schönen Küche kannst du im Handumdrehen etwas Schmackhaftes zaubern.
 
@@ -58,8 +58,8 @@ Klare Linien, monotone Farben. Hier haben Arbeit und Konzentration Priorität. N
 
 Spielen fördert die Kreativität! Mit dieser Zockerecke steht dem Spaß nichts im Weg!
 
--   ### Innendesign **Zweite Badezimmer**
-    [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/12-bk-F.jpg" tags="bathroom" title="Innendesign Zweite Badezimmer"]
+-   ### Wohndesign **Zweite Badezimmer**
+    [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/12-bk-F.jpg" tags="bathroom" title="Wohndesign Zweite Badezimmer"]
 -   ### Raumgestaltung **Zweite Badezimmer**
     [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/13-bk-F.jpg" tags="bathroom" title="Raumgestaltung Zweite Badezimmer"]
 

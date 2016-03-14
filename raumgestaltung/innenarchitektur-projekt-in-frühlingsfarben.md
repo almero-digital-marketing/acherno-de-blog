@@ -32,8 +32,8 @@ Die Sideboards, die Regalwand und der Beistelltisch sind in klassischem Weiß un
 
 Charmant! Der weiße Esstisch ist in unmittelbarer Nähe des Sofas platziert. Drei Hängelampen in Weiß sorgen für eine stimmungsvolle Atmosphäre.
 
--   ### Einrichtungsideen **Essbereich**
-    [image url="http://hub.acherno.com/svn/prolet/Facebook/05-h_f.jpg" tags="kitchen" title="Einrichtungsideen Essbereich"]
+-   ### Wohndesign **Essbereich**
+    [image url="http://hub.acherno.com/svn/prolet/Facebook/05-h_f.jpg" tags="kitchen" title="Wohndesign Essbereich"]
 -   ### Raumgestaltung **Essbereich**
     [image url="http://hub.acherno.com/svn/prolet/Facebook/07-h_f.jpg" tags="kitchen" title="Raumgestaltung Essbereich"]
 
@@ -89,8 +89,8 @@ Bühne frei! Dieses kleine Badezimmer in Lemongelb ist eindeutig die Frühlingse
 
 Eine Duschabtrennung mit floralem Ornament verzaubert dich. 
 
-[image url="http://hub.acherno.com/svn/prolet/Facebook/25-sm_f.jpg" tags="bedroom" title="Inneneinrichtung Gästeschlafzimmer"]
-### Inneneinrichtung **Gästeschlafzimmer**
+[image url="http://hub.acherno.com/svn/prolet/Facebook/25-sm_f.jpg" tags="bedroom" title="Wohndesign Gästeschlafzimmer"]
+### Wohndesign **Gästeschlafzimmer**
 
 Ein Schlafzimmer in dem sich besonders die Herren der Schöpfung sehr wohl fühlen werden. Trotz violetter Wände wirkt der Raum nicht feminin dank der satten Wohntextilien in dunkelgrau und Silber. 
 
