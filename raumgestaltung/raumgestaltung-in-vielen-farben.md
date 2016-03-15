@@ -1,20 +1,20 @@
 ---
 layout: /blog/post.ect
 title: '(Raumgestaltung) in vielen Farben'
-description: 'Der Traum jedes Interior Designers -  ein großes Apartment mit vielen Gestaltungsmöglichkeiten und Kunden die verzückt ihr neues Traumheim beziehen!'
+description: 'Der Traum jedes Wohnung Designers - ein großes Apartment mit vielen Gestaltungsmöglichkeiten und Kunden die verzückt ihr neues Traumheim beziehen!'
 date: 2015-06-01
 author: Vasilena Habermann
 legacy: '/interior/inneneinrichtung-in-vielen-farben.html'
 tags: [private, modern, contemporary]
 featured: true
 ---
-## Farbenfroh **Interior Design**
-Der Traum jedes Interior Designers -  ein großes Apartment mit vielen Gestaltungsmöglichkeiten und Kunden die verzückt ihr neues Traumheim beziehen!
+## Farbenfroh **Wohnung Design**
+Der Traum jedes Wohnung Designers -  ein großes Apartment mit vielen Gestaltungsmöglichkeiten und Kunden die verzückt ihr neues Traumheim beziehen!
 
 Essen, Wohnen und Genießen:  alles in einem großzügigen Raum vereint. Die weiße Säule, kunstvoll als Regal in Szene gesetzt, trennt und vereint  gleichzeitig die verschiedenen Wohnbereiche.
 
-[image url="http://hub.acherno.com/svn/paun/Facebook/08-h.jpg" tags="kitchen" title="Interior Design Küche"]
-### Interior Design **Küche**
+[image url="http://hub.acherno.com/svn/paun/Facebook/08-h.jpg" tags="kitchen" title="Innenarchitektur Küche"]
+### Innenarchitektur **Küche**
 
 Alles grünt! Wie eine saftige Frühlingswiese im Mai präsentiert sich diese Küche mit floralem Ornamenten und weißem Hochglanz, von seiner besten Seite. 
 
@@ -33,8 +33,8 @@ Von Kopenhagener Design inspiriert erstrahlt diese Wohnwand in puristischem blac
 
  Auf zur großen  Safari! Wilde Giraffen ziehen unter der gleisenden afrikanischen Sonne vorüber. Wir wünschen ihren Kleinen einen unvergesslichen Aufenthalt in der faszinierenden Serengeti.
 
-[image url="http://hub.acherno.com/svn/paun/Facebook/45-b.jpg" tags="bathroom" title="Raumlösungen Kinderbadezimmer"]
-### Raumlösungen **Kinderbadezimmer**
+[image url="http://hub.acherno.com/svn/paun/Facebook/45-b.jpg" tags="bathroom" title="Innenarchitektur Kinderbadezimmer"]
+### Innenarchitektur **Kinderbadezimmer**
 
 Kunterbunt wie der große, weite Ozean, inspiriert und verzückt dieses wunderschöne Kinderbad.
 

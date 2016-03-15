@@ -13,8 +13,8 @@ featured: true
 ## Pastell mit **Tupfern in Hellgrün und Türkis**
 Eine erstklassige Wohnkombination von verschiedenen Stilen, Formen und Farben, die östliche und westliche Kulturelemente gekonnt in sich vereint. Feiner Sand als Grundton mit Akzenten in frischem Grün und kaltem Türkis - eine einheitliche Farbepalette, die sich durch das ganze Wohnkonzept zieht, lässt dieses Interior besonders ausgeglichen und behaglich wirken.
 
-[image url="http://hub.acherno.com/svn/alhimika/Facebook/01-h_f.jpg" tags="livingroom" title="Interior Design Wohnzimmer"]
-### Interior Design **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/alhimika/Facebook/01-h_f.jpg" tags="livingroom" title="Wohnung Design Wohnzimmer"]
+### Wohnung Design **Wohnzimmer**
 
 Bitte recht freundlich! Ein offenes Wohnzimmer, das durch ihr modernes Design sehr luftig und hell wirkt.  Schöne gestreifte, bodenlange Vorhänge in Türkis und Sand perfekt in Szene gesetzt durch Stuckelemente mit integrierter Beleuchtung. Ein wertiger Bodenbelag im dezentem hellgrau harmoniert mit den weißen maßangefertigten Möbeln und den sandfarbenen Wänden perfekt. Die Farben der Wohntextilien orientieren sich nach der obigen Farbpalette. Unsere Möbelmanufaktur hat sich hier an die neuesten Trends orientiert.
 
@@ -51,8 +51,8 @@ Hier punktet man mit Design! Ein ovales Bett, zentral aufgestellt und eine Wand 
  
 Türkise Fensterläden im Shabby Look verdecken den Spiegel und lassen ihn optisch zu einem Durchgang werden -  ein absoluter Hingucker!
 
-[image url="http://hub.acherno.com/svn/alhimika/Facebook/12-k_f.jpg" tags="livingroom" title="Interior Design Wohn und Arbeitsraum"]
-### Interior Design **Wohn und Arbeitsraum**
+[image url="http://hub.acherno.com/svn/alhimika/Facebook/12-k_f.jpg" tags="livingroom" title="Innenarchitektur Wohn und Arbeitsraum"]
+### Innenarchitektur **Wohn und Arbeitsraum**
 
 Ob zum Ausruhen oder Arbeiten – dieser Raum bietet beides.
 
@@ -70,8 +70,8 @@ Mit dem kleinen Design Sekretär inklusiv Chefsessel, eine bequeme Couch und ein
 
 Klassisch – viel Stauraum hinter weißen Schranktüren, große Spiegelwände und ein weicher Teppich in Sand, lässt diesen Eingangsbereich sehr einladend wirken.
 
-[image url="http://hub.acherno.com/svn/alhimika/Facebook/20-t_f.jpg" tags="other" title="Interior Design Terrasse"]
-### Interior Design **Terrasse**
+[image url="http://hub.acherno.com/svn/alhimika/Facebook/20-t_f.jpg" tags="other" title="Wohnung Design Terrasse"]
+### Wohnung Design **Terrasse**
 
 Irrashaimase... so klingt Willkommen auf Japanisch. Hier wurde ein kleines Stück Asien auf dieser Terrasse verwirklicht.  Weiße Fensterfronten, viel Transparenz und dezenter Bambuston. Mit diesen Stilelementen fühlst du dich wie in einem typischen japanischen Teehaus. 
 

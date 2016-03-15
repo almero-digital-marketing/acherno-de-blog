@@ -1,7 +1,7 @@
 ---
 layout: /blog/post.ect
 title: '(Klassisches Wohndesign) mit romantischem Flair'
-description: 'Das klassische Interior Design zeichnet sich durch seine universelle Ästhetik aus. Ein Raumgestaltungsstil, der in gewisser Hinsicht zeitlos geblieben ist. Mit kleinen verspielten Elementen wirkt er unverwechselbar und einladend.'
+description: 'Das klassische Wohnung Design zeichnet sich durch seine universelle Ästhetik aus. Ein Raumgestaltungsstil, der in gewisser Hinsicht zeitlos geblieben ist. Mit kleinen verspielten Elementen wirkt er unverwechselbar und einladend.'
 date: 2015-04-14
 cover: 'http://hub.acherno.com/svn/prispivna-pesen/Facebook/03-h_f.jpg'
 featured: true
@@ -10,17 +10,17 @@ legacy: '/interior/klassisches-wohndesign-mit-romantischem-flair.html'
 tags: [private, modernclassic]
 ---
 ## **Landhausstill** auch **ohne Land**
-Das klassische Interior Design zeichnet sich durch seine universelle Ästhetik aus. Ein Raumgestaltungsstil, der in gewisser Hinsicht zeitlos geblieben ist. Mit kleinen verspielten Elementen wirkt er unverwechselbar und einladend.
+Das klassische Wohnung Design zeichnet sich durch seine universelle Ästhetik aus. Ein Raumgestaltungsstil, der in gewisser Hinsicht zeitlos geblieben ist. Mit kleinen verspielten Elementen wirkt er unverwechselbar und einladend.
 
-[image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/03-h_f.jpg" tags="livingroom" title="Raumgestaltung Wohnzimmer"]
-### Raumgestaltung **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/03-h_f.jpg" tags="livingroom" title="Raumgestaltung Ideen Wohnzimmer"]
+### Raumgestaltung Ideen **Wohnzimmer**
 
 Dieses Wohnzimmer vereint Üppigkeit und Luxus mit sachlicher Schlichtheit. Die großen bodenlangen Fenster werden von zwei Vorhängen mit lieblichen Blumenprints in hellblau umrandet.So eröffnen sie  einen Panoramablick in die Umgebung. Helle Wände und abgehängte Decken mit Beleuchtung stimmen freundlich und laden zum Verweilen ein.
 
--   ### Wohndesign **Wohnzimmer**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/02-h_f.jpg" tags="livingroom" title="Wohndesign Wohnzimmer"]
--   ### Interior Design **Wohnzimmer**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/04-h_f.jpg" tags="livingroom" title="Interior Design Wohnzimmer"]
+-   ### Wohndesign Ideen **Wohnzimmer**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/02-h_f.jpg" tags="livingroom" title="Wohndesign Ideen Wohnzimmer"]
+-   ### Wohnung Design **Wohnzimmer**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/04-h_f.jpg" tags="livingroom" title="Wohnung Design Wohnzimmer"]
 
 Helle Wände und abgehängte Decken mit Beleuchtung stimmen freundlich und laden zum Verweilen ein.    
 
@@ -34,8 +34,8 @@ Dieser maßgefertigte Essbereich besticht durch edle klassische Einrichtungsdeta
 
 Ein Hauch von Nostalgie und Behaglichkeit zieht durch diese wunderschöne Küche - offen, freundlich und komplett ausgestattet.
 
--   ### Raumgestaltung **Küche**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/07-k_f.jpg" tags="kitchen" title="Raumgestaltung Küche"]
+-   ### Raumgestaltung Ideen **Küche**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/07-k_f.jpg" tags="kitchen" title="Raumgestaltung Ideen Küche"]
 -   ### Innenarchitektur Projekt **Küche**
     [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/08-k_f.jpg" tags="kitchen" title="Innenarchitektur Projekt Küche"]
 
@@ -46,22 +46,22 @@ Weiße Möbel im klassischen Design und Fließenornamente wie zu Großmutters Ze
 
 Auch hier ist Weiß die beherrschende Farbe.
 
--   ### Raumlösungen **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/11-k_f.jpg" tags="other" title="Raumlösungen Eingangsbereich"]
--   ### Interior Design **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/09-k_f.jpg" tags="other" title="Interior Design Eingangsbereich"]
+-   ### Raumgestaltung Ideen **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/11-k_f.jpg" tags="other" title="Raumgestaltung Ideen Eingangsbereich"]
+-   ### Wohnung Design **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/09-k_f.jpg" tags="other" title="Wohnung Design Eingangsbereich"]
 -   ### Einrichtung **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/10-k_f.jpg" tags="other" title="Einrichtung Eingangsbereich"]
 
 Weiße Wände und stilvolle, individuell gefertigte Möbel in Kombination mit Fliesen in Erdtönen laden ein zum Eintritt.
 
-[image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/14-s_f.jpg" tags="bedroom" title="Wohndesign Schlafzimmer"]
-### Wohndesign **Schlafzimmer**
+[image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/14-s_f.jpg" tags="bedroom" title="Wohndesign Ideen Schlafzimmer"]
+### Wohndesign Ideen **Schlafzimmer**
 
 Romantisches Blau setzt in diesem Schlafzimmer die Akzente ohne aufdringlich zu wirken. In Kombination mit den charmanten Möbeln im Landhausstil ist dieses Arrangement erfrischend und beruhigend zugleich.
 
--   ### Raumdesign **Schlafzimmer**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/15-s_f.jpg" tags="bedroom" title="Raumdesign Schlafzimmer"]
+-   ### Raumdesign Ideen **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/15-s_f.jpg" tags="bedroom" title="Raumdesign Ideen Schlafzimmer"]
 -   ### Raumgestaltung **Schlafzimmer**
     [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/13-s_f.jpg" tags="bedroom" title="Raumgestaltung Schlafzimmer"]
 -   ### Inneneinrichtung **Schlafzimmer**
@@ -71,14 +71,14 @@ Das kuschelige französische Acherno Bett lässt an Schlafkomfort nichts zu wün
 
 Ein märchenhaftes Bad in zartem Altrosa verzaubert deine Sinne. Die marmorierte Tapete mit floralem Muster in Verbindung mit den weißen Möbeln wirken verspielt und nostalgisch. Dank unseren maßgefertigten Möbel muss selbstverständlich nicht fuf modernsten Badkomfort verzichtet werden. Einfach entzückend!
 
--   ### Raumlösungen **Badezimmer**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/18-b_f.jpg" tags="bathroom" title="Raumlösungen Badezimmer"]
+-   ### Innenarchitektur **Badezimmer**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/18-b_f.jpg" tags="bathroom" title="Innenarchitektur Badezimmer"]
 -   ### Raumgestaltung **Badezimmer**
     [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/19-b_f.jpg" tags="bathroom" title="Raumgestaltung Badezimmer"]
--   ### Interior Design **Badezimmer**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/20-b_f.jpg" tags="bathroom" title="Interior Design Badezimmer"]
--   ### Wohndesign **Badezimmer**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/17-b_f.jpg" tags="bathroom" title="Wohndesign Badezimmer"]
+-   ### Wohnung Design **Badezimmer**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/20-b_f.jpg" tags="bathroom" title="Wohnung Design Badezimmer"]
+-   ### Wohndesign Ideen **Badezimmer**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/17-b_f.jpg" tags="bathroom" title="Wohndesign Ideen Badezimmer"]
 
 Und zu guter Letzt eine kleine Ruheinsel in Form eines schmucken Balkons für die lauen Sommernächte zu zweit. Acherno eben!
 

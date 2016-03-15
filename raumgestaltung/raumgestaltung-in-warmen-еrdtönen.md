@@ -12,8 +12,8 @@ tags: [private, contemporary]
 ## **Moderner Stilmix** in Natur - und Erdtönen
 Eine Raumgestaltung, die jedermanns Geschmack trifft! Eine Farbauswahl wie ein Sonnenuntergang in warmen Erd- und Naturtönen. Akzente in Maisgelb, Grün und Flieder lockern das Raumkonzept auf und lassen keine Monotonie aufkommen. 
 
-[image url="http://hub.acherno.com/svn/horizont/Site/3D/1.02-h_f.jpg" tags="livingroom" title="Interior Design Wohnzimmer"]
-### Interior Design **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/horizont/Site/3D/1.02-h_f.jpg" tags="livingroom" title="Wohnung Design Wohnzimmer"]
+### Wohnung Design **Wohnzimmer**
 
 Eine königliche Sitzlandschaft in hellem Graphit, markiert den Wohnbereich und bietet dir höchstes Niveau an Komfort. Die integrierten Deckenleuchten sorgen für eine stimmungsvolle Atmosphäre.
 
@@ -37,7 +37,7 @@ Praktisch mit klaren Linien – das ist der moderne Essplatz von heute. Einen Ti
 [image url="http://hub.acherno.com/svn/horizont/Site/3D/2.03-k_f.bmp" tags="other" title="Wohndesign Ideen Eingangsbereich"]
 ### Wohndesign Ideen **Eingangsbereich**
 
-Der Eingangsbereich ist das Portfolio des Interior Designs einer Wohnung. Helle beige Fliesen in Holzoptik, Wände in freundlichen Farben und Ertönen ergänzen sich perfekt. 
+Der Eingangsbereich ist das Portfolio des Innendesigns einer Wohnung. Helle beige Fliesen in Holzoptik, Wände in freundlichen Farben und Ertönen ergänzen sich perfekt. 
 
 -   ### Raumgestaltung **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/horizont/Site/3D/2.01-k_f.bmp" tags="other" title="Raumgestaltung Eingangsbereich"]
@@ -66,8 +66,8 @@ Die Möbel sind in schlichtem Weiß gehalten.
 
 Altrosa und Lila setzten die Akzente in zweitem Schlafzimmer. Vor einem Hintergrund vom Hellgrau und Beige wirkt diese Kombination von Rosatönen besonders brilliant. Durch künstliches Volumen haben wir das Zimmer vergrößert und ein einzigartiges Design geschaffen.
 
--   ### Interior Design **Gästeschlafzimmer**
-    [image url="http://hub.acherno.com/svn/horizont/Site/3D/4.01-sR_f.jpg" tags="bedroom" title="Interior Design Gästeschlafzimmer"]
+-   ### Wohnung Design **Gästeschlafzimmer**
+    [image url="http://hub.acherno.com/svn/horizont/Site/3D/4.01-sR_f.jpg" tags="bedroom" title="Wohnung Design Gästeschlafzimmer"]
 -   ### Innenarchitektur **Gästeschlafzimmer**
     [image url="http://hub.acherno.com/svn/horizont/Site/3D/4.03-sR_f.jpg" tags="bedroom" title="Innenarchitektur Gästeschlafzimmer"]
 

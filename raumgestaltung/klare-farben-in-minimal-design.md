@@ -51,8 +51,8 @@ Dieses Design gefällt uns! Die Farbpallete ist in den gleichen Farben gehalten.
  
 Ein handgefertigtes Zweiersofa in Grafit aus robustem Kunstleder, ein z-förmiger Beistelltisch und ein praktischer Arbeitsplatz lassen keine Gästewünsche offen.
 
-[image url="http://hub.acherno.com/svn/hotel-001/Facebook/4.16-hol_et1_f.jpg" tags="other" title="Wohndesign Hotel Lobby"]
-### Wohndesign Hotel **Lobby**
+[image url="http://hub.acherno.com/svn/hotel-001/Facebook/4.16-hol_et1_f.jpg" tags="other" title="Raumdesign Hotel Lobby"]
+### Raumdesign Hotel **Lobby**
 
 Im ersten Stock des Hotels befindet sich dieser stylische Lobbybereich. Drei geteilt in Wohnzimmer, Essbereich und Event-Küche ist diese Lobby ein Place to be. Ideal für Businessdates, Meetings oder Firmenevents.
 
@@ -68,8 +68,8 @@ Ausgewählte Leuchten, die an aufsteigende Bubbles erinnern schmücken das Zentr
 
 Der Speiseraum besticht durch seinen offenen Charakter und lädt bis zu sechszehn Gäste zum Genießen ein. Schwarze Stühle und eine weiße Tafel vervollständigen den minimalistisch Look.
 
-[image url="http://hub.acherno.com/svn/hotel-001/Facebook/4.15-hol_et1.jpg" tags="kitchen" title="Raumlösungen Event-Küche"]
-### Raumlösungen **Event-Küche**
+[image url="http://hub.acherno.com/svn/hotel-001/Facebook/4.15-hol_et1.jpg" tags="kitchen" title="Innendesign Event-Küche"]
+### Innendesign **Event-Küche**
 
 Wo kann man sich besser näher kommen als in der Küche? 
 Klare Linien, glänzende Flächen, strahlendes Weiß.  Diese Küche nimmt sich zurück und lässt den Gästen die Initiative ohne etwas vermissen zu lassen.

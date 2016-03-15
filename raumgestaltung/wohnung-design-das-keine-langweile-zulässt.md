@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: '(Interior Design,) das keine Langweile zulässt'
+title: '(Wohnung Design,) das keine Langweile zulässt'
 description: 'Das Leben in der Stadt ist vielseitig und facettenreich. Als Stadtmensch wünschst du dir eine Wohnung, die genau das transportiert. Ein Heim, das zwar bunt und inspirierend ist, aber gleichzeitig einen ruhigen Zufluchtsort  vor der geschäftigen Großstadt bietet - das geliebte Zuhause eben!'
 date: 2015-08-26
 firstPage: true
@@ -8,7 +8,7 @@ author: Vasilena Habermann
 legacy: '/interior/interior-design-das-keine-langweile-zulässt.html'
 tags: [private, contemporary]
 ---
-## **Interior Design** Stadtleben
+## **Wohnung Design** Stadtleben
 Das Leben in der Stadt ist vielseitig und facettenreich. Als Stadtmensch wünschst du dir eine Wohnung, die genau das transportiert. Ein Heim, das zwar bunt und inspirierend ist, aber gleichzeitig einen ruhigen Zufluchtsort  vor der geschäftigen Großstadt bietet - das geliebte Zuhause eben!
 
 [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/03-h-F.jpg" tags="livingroom" title="Raumgestaltung Wohnzimmer"]
@@ -90,9 +90,9 @@ Auch dieses Arbeitszimmer punktet mit einem schicken Design. Hier wurde großer 
 
 Dank rustikaler Wandverkleidung und hellen Möbeln in skandinavischem Design, wirkt das Zimmer sehr einladend.
 
--   ### Interior Design **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/14-kr-F.jpg" tags="other" title="Raumgestaltung Eingangsbereich"]
--   ### Raumlösungen **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/15-kr-F.jpg" tags="other" title="Raumlösungen Eingangsbereich"]
+-   ### Wohnung Design **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/14-kr-F.jpg" tags="other" title="Wohnung Design Eingangsbereich"]
+-   ### Raumgestaltung **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/15-kr-F.jpg" tags="other" title="Raumgestaltung Eingangsbereich"]
 
 Eleganter weißer Marmor und schwarze Fotografien – sie betreten die Wohnung eines Menschen, der mit viel Verständnis für Kultur, Design und Stil mitten in der Stadt lebt.

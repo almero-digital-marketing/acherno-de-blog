@@ -14,8 +14,8 @@ Shaken, Mixen, Snacken – warum sollte man beim Shopping auf eine gesunde Ernä
 Eine hippe Health Bar in mitten einer Shoppingmall . Eine wahre Energietankstelle für Smoothies und Co. 
 Gesundes Essen und Trinken war noch nie so IN wie jetzt! 
 
-[image url="http://hub.acherno.com/svn/freshhealth/Site/3D/01-Fresh_Health_F.jpg" tags="other" title="Interior Design Bar"]
-### Interior Design **Bar**
+[image url="http://hub.acherno.com/svn/freshhealth/Site/3D/01-Fresh_Health_F.jpg" tags="other" title="Design Bar"]
+### Design **Bar**
 
 Ein auffälliges Design, das die volle Aufmerksamkeit der Gäste in der Shoppingmall gewinnt. 
 Frisches Grün und knalliges Rot, die dich an einen Apfelbaum erinnern, finden sich nicht nur im Firmen Logo, sondern in dem gesamten Interior der Bar. 

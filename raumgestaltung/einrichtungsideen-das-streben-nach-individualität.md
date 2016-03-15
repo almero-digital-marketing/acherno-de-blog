@@ -11,7 +11,7 @@ tags: [private, contemporary]
 ## **Ein neuer Platz** für viele unbezahlbare Momente, Emotionen und Erinnerungen
 Dein Zuhause – das bist du! Wir haben die Ehre Sie bei der Neuerfindung ihres Heims mit professionellem Rat zur Seite zu stehen. Unsere Mission - die visuelle Transformation und funktionale Gestaltung Ihres Hauses um mehr Lebensqualität für ihr Zuhause zu generieren.
 
-Dieses Interior Design sagt alles über die Auftraggeber. Eine angenehme Zurückhaltung in den Gemeinschaftsräumen, weiche natürliche Farbnuancen, Naturmaterialien und mehr individuelle Energie in den privaten Räumen.
+Dieses Wohnung Design sagt alles über die Auftraggeber. Eine angenehme Zurückhaltung in den Gemeinschaftsräumen, weiche natürliche Farbnuancen, Naturmaterialien und mehr individuelle Energie in den privaten Räumen.
 
 -   ### Inneneinrichtung **Eingangsbereich and Wohnzimmer**
     [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/01-h-F.jpg" tags="livingroom" title="Inneneinrichtung Wohnzimmer"]
@@ -43,8 +43,8 @@ Typisch Acherno - Abgehängte Decken und indirekte Beleuchtung stimmen dich ruhi
 
 -   ### Raumgestaltung **Badezimmer**
     [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/08-b-F.jpg" tags="bathroom" title="Raumgestaltung Badezimmer"]
--   ### Interior Design **Badezimmer**
-    [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/11-b-F.jpg" tags="bathroom" title="Interior Design Badezimmer"]
+-   ### Wohnung Design **Badezimmer**
+    [image url="http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/11-b-F.jpg" tags="bathroom" title="Wohnung Design Badezimmer"]
 
 Das Bad – ein Pendant zum Schlafzimmer. Zierliche Blüten und softe Farben versprechen dir, dass die Alltagssorgen schnell vergessen werden und du mit viel Ruhe und Gelassenheit den Tag beginnen kannst.
 

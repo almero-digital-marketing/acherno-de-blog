@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: 'Eklektisches (Interior Design)'
+title: 'Eklektisches (Wohnung Design)'
 description: 'Authentizität bewahren! Eine Raumgestaltung, die das Beste aus vielen Wohndesigns in sich vereint,  aber doch sehr schlüssig und ästhetisch wirkt. Befreie dich von Konventionen und kreiere dein eigenes Traumheim!'
 date: 2015-04-14
 author: Vasilena Habermann
@@ -35,8 +35,8 @@ Luxuriös und komfortabel – dieser Essbereich lässt keine Wünsche offen! Die
 
 Lass deine Fantasie fliegen – deine Küche als Bühne für ein kulinarisches Feuerwerk! Die Schränke sind Weiß mit gefrästen Türen und originellen Metalltürgriffen. Die Arbeitsflächen haben wie aus schwarzem Naturstein gefertigt. Eine moderne und funktionale Kücheninsel, die mit Barhockern kombiniert wurde, bildet eine dezente Trennung zwischen Koch - und Essbereich.
 
-[image url="http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/07-s_f.jpg" tags="bedroom" title="Interior Design Schlafzimmer"]
-### Interior Design **Schlafzimmer**
+[image url="http://hub.acherno.com/svn/vino-ot-gluharcheta/Facebook/07-s_f.jpg" tags="bedroom" title="Wohnung Design Schlafzimmer"]
+### Wohnung Design **Schlafzimmer**
 
 Filmreif – Wunderschöne Hängedecken in hellem Grau werden durch die gläsernen Deckenleuchten zusätzlich in Szene gesetzt. Ein prachtvolles Mosaik aus Mustern in schwarz-grau, steht hinter dem großzügigen Bett.  Dazu steht noch ein schwarzer Konsolentisch mit einem stilvollen Spiegel an der Ecke bereit. Alles in liebevolle Handarbeit von Acherno gefertigt.
 

@@ -14,8 +14,8 @@ Ein Haus wird gebaut, aber ein Zuhause wird geformt. Diese Weisheit trifft perfe
 
 Hier wirken moderne, unüblichen Formen in Kombination mit ausdrucksstarken Farben wie mystischem Lila, frischem Grün und leidenschaftlichem Rot zusammen.
 
-[image url="http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Facebook/2.23-h_f.jpg" tags="livingroom" title="Innendesign Wohnzimmer"]
-### Innendesign **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Facebook/2.23-h_f.jpg" tags="livingroom" title="Wohnung Design Wohnzimmer"]
+### Wohnung Design **Wohnzimmer**
 
 Ein Wohnzimmer so großzügig und luftig wie ein Salon. Ihre dankbare Größe und der extravagante Schnitt erlauben ein Spiel von Formen und Farben. Wohnzimmer, Esszimmer und Küche sind vereint, aber doch auf verschiedenen Niveaus platziert und einzeln gegliedert. Oben befinden sich Küche - und Essbereich und im unteren Bereich ist eine gemütliche Wohnloft eingerichtet, die mit einem Kamin für mehr Behaglichkeit ausgestattet ist. Zwei verschiedene Bodenbeläge markieren die zwei Wohnbereiche. Oben ein edler weißer Marmor und unten ein hochwertiges dunkles Laminat. Die Grundfarben im Raum sind ein softes Champagne und ein warmes Schokobraun.
 

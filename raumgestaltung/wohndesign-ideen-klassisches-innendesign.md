@@ -1,7 +1,7 @@
 ---
 layout: /blog/post.ect
-title: 'Wohndesign Ideen klassisches (Interior Design)'
-description: 'Ein klassisches Interior, das den Augen schmeichelt,  wurde mit viel Liebe zum Detail ausgewählt um eine außergewöhnlich harmonische Atmosphäre in dieses Apartment zu zaubern. Eine Idylle in Pastell, getragen von zartem Rosa, frischem Mint und betörendem Pfirsich.'
+title: 'Wohndesign Ideen (klassisches Innendesign)'
+description: 'Ein klassisches Wohndesign, das den Augen schmeichelt, wurde mit viel Liebe zum Detail ausgewählt um eine außergewöhnlich harmonische Atmosphäre in dieses Apartment zu zaubern. Eine Idylle in Pastell, getragen von zartem Rosa, frischem Mint und betörendem Pfirsich.'
 date: 2015-07-01
 firstPage: true
 cover: 'http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-20-h-f.jpg'
@@ -12,8 +12,8 @@ tags: [private, modernclassic]
 ## Zarte Nuancen, klare Linien und *harmonische Farben*
 Ein wahrer Sommernachtstraum – natürliche Farben, stimmig kombiniert und doch nicht zu bieder. Eine klassische Inneneinrichtung, die den Augen schmeichelt, wurde mit viel Liebe zum Detail angefertigt um eine außergewöhnlich harmonische Atmosphäre in dieses Apartment zu zaubern. Eine Idylle in Pastell, getragen von zartem Rosa, frischem Mint und betörendem Pfirsich.
 
-[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-20-h-f.jpg" tags="livingroom" title="Innenarchitektur Wohnzimmer"]
-### Innenarchitektur **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-20-h-f.jpg" tags="livingroom" title="Innenarchitektur Ideen Wohnzimmer"]
+### Innenarchitektur Ideen **Wohnzimmer**
 
 Fruchtiger Pfirsich trifft auf zartes Mint – eine gelungene Kombination die sehr ruhig und doch inspirierend wirkt. Dazu eine perlweiße Einrichtung in klassischen Formen, die Schönheit und Behaglichkeit gelungen in sich vereint.
 
@@ -22,38 +22,33 @@ Fruchtiger Pfirsich trifft auf zartes Mint – eine gelungene Kombination die se
 
 Ein Ethanol Kamin, der nicht nur  behagliche Wärme spendet, sondern auch unglaublich dekorativ ist. Schwere antike Kronleuchter aus Kupfer erleuchten Festtafel und Wohnbereich.
 
-[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Site/3D/02-h_f.jpg" tags="livingroom" title="Wohndesign Wohnzimmer"]
-### Wohndesign **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Site/3D/02-h_f.jpg" tags="livingroom" title="Wohndesign Ideen Wohnzimmer"]
+### Wohndesign Ideen **Wohnzimmer**
 
 Zwei Poufs in Pfirsichrosa und zartem Grün sind die Blickfänger des Zimmers. Mit ihren verspielten Design locken sie dich zum kuscheln. 
 Im Gegensatz dazu kommt das klassische hellbeige Sofa  sehr erwachsen  und elegant daher.
 
-[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-21-h-f.jpg" tags="kitchen" title="Wohnideen Esszimmer"]
-### Wohnideen **Esszimmer**
-   
-Das Speisezimmer in klassischem Design mit Landhaus Flair sieht nicht nur einladend aus, sondern genügt auch hinsichtlich Ausstattung und Stil den aller höchsten Ansprüchen.
-
-[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Site/3D/03-h_f.jpg" tags="kitchen" title="Raumgestaltung Esszimmer"]
+[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-21-h-f.jpg" tags="kitchen" title="Raumgestaltung Esszimmer"]
 ### Raumgestaltung **Esszimmer**
+   
+Das Speisezimmer in klassischem Design mit Landhaus Flair sieht nicht nur einladend aus, sondern genügt auch hinsichtlich Ausstattung und Stil den aller höchsten Ansprüchen. Feines Mint zaubert Frische und gute Laune in diese festliche Tafel.  Auch die Wohntextilien in floralem Dessin sind hier mit größter Sorgfalt ausgewählt
 
-Feines Mint zaubert Frische und gute Laune in diese festliche Tafel.  Auch die Wohntextilien in floralem Dessin sind hier mit größter Sorgfalt ausgewählt
-
--   ### Interior Design **Küche**
-    [image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/5-11-k-ya_f.jpg" tags="kitchen" title="Interior Design Küche"]
--   ### Raumgestaltung **Küche**
-    [image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Site/3D/07-k-ya_f.jpg" tags="kitchen" title="Raumgestaltung Küche"]
+-   ### Wohnung Design **Küche**
+    [image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/5-11-k-ya_f.jpg" tags="kitchen" title="Wohnung Design Küche"]
+-   ### Raumgestaltung Ideen **Küche**
+    [image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Site/3D/07-k-ya_f.jpg" tags="kitchen" title="Raumgestaltung Ideen Küche"]
 
 Auch die Küche folgt der klassischen Vorgabe des Wohn- und Essbereichs und ist in zeitlosem Weiß sehr geschmackvoll eingerichtet. Aber lassen Sie sich nicht täuschen, hier haben wir ,Acherno, aller neueste Technik perfekt in klassischem Design integriert.  So macht Kochen wirklich Freude!
 
-[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/6-15-s_f.bmp" tags="bedroom" title="Raumdesign Schlafzimmer"]
-### Raumdesign **Schlafzimmer**
+[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/6-15-s_f.bmp" tags="bedroom" title="Raumdesign Ideen Schlafzimmer"]
+### Raumdesign Ideen **Schlafzimmer**
 
 Ein harmonisches Intermezzo vom Mint und Beige sorgt hier für unvergessliche Träume. Die romantische Bettwäsche mit feinem Spitzen Muster lässt dich schlummern wie in Großmutters Zeiten.
 
 -   ### Inneneinrichtung **Schlafzimmer**
     [image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/6-16-s_f.bmp" tags="bedroom" title="Inneneinrichtung Schlafzimmer"]
--   ### Wohndesign **Schlafzimmer**
-    [image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Site/3D/09-s_f.bmp" tags="bedroom" title="Wohndesign Schlafzimmer"]
+-   ### Wohndesign Ideen **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Site/3D/09-s_f.bmp" tags="bedroom" title="Wohndesign Ideen Schlafzimmer"]
 
 Und welch ein Interior!  Komfortable Einrichtung, ein prachtvolles Bett mit samtiger Rückwand und eine klassische Schminkkonsole aus unserer Fertigung erzeugen ein wahrlich royales Ambiente.
 
@@ -69,15 +64,15 @@ Eule, Fuchs und Reh sagen sich hier gute Nacht.  Zarte Pastelltöne in leckerem 
 
 Sanftes Licht und natürliche Farben sorgen für eine idyllische Stimmung, in der jeder Kindertraum wahr werden kann.
 
-[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/2-09-k-f.png" tags="other" title="Raumgestaltung Eingangsbereich"]
-### Raumgestaltung **Eingangsbereich**
+[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/2-09-k-f.png" tags="other" title="Raumgestaltung Ideen Eingangsbereich"]
+### Raumgestaltung Ideen **Eingangsbereich**
 
 Hell und einladend kommt auch der Eingangsbereich daher. 
 
 -   ### Innenarchitektur Projekt **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Site/3D/15-k_f.png" tags="other" title="Innenarchitektur Projekt Eingangsbereich"]
--   ### Raumdesign **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/2-10-k-f.png" tags="other" title="Raumdesign Eingangsbereich"]
+-   ### Raumdesign Ideen **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/2-10-k-f.png" tags="other" title="Raumdesign Ideen Eingangsbereich"]
 
 Pastell, Weiß und Holz geleiten den Gast durch die Vernissage im Eingangsbereich. 
 
