@@ -1,144 +1,80 @@
 ---
 layout: /blog/post.ect
 title: '(Puzzle aus Erinnerungen) und Träumen'
-description: 'Das Leben ist wie ein Puzzle, das sich aus Träumen, Erinnerungen, Erlebtem und Vergangenem zusammensetzt. Diese Wohnung hat alles aufgesammelt und aus den Puzzleteilen des Lebens ein Traumheim geschaffen. '
+description: 'Das Leben ist wie ein Puzzle, das sich aus Träumen, Erinnerungen, Erlebtem und Vergangenem zusammensetzt. Diese Wohnung hat alles aufgesammelt und aus den Puzzleteilen des Lebens ein Traumheim geschaffen. Und wir von Acherno haben alles entworfen.'
 date: 2015-08-05
+cover: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/01-h-f.bmp'
 firstPage: true
 author: Vasilena Habermann
 legacy: '/interior/puzzle-aus-erinnerungen-und-träumen.html'
-images:
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/01-h-f.bmp'
-    file: 'puzzle-aus-erinnerungen-und-träumen/interior-design-wohnzimmer.jpg'
-    tags: [livingroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/02-h-f.bmp'
-    file: 'puzzle-aus-erinnerungen-und-träumen/möbel-und-einrichtung-wohnzimmer.jpg'
-    tags: [livingroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/03-h-f.bmp'
-    file: 'puzzle-aus-erinnerungen-und-träumen/inneneinrichtung-wohnzimmer.jpg'
-    tags: [livingroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/04-k-f.bmp'
-    file: 'puzzle-aus-erinnerungen-und-träumen/innendesign-küche.jpg'
-    tags: [kitchen]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/05-a-f.bmp'
-    file: 'puzzle-aus-erinnerungen-und-träumen/interior-design-eingangsbereich.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/06-s-f.jpg'
-    file: 'puzzle-aus-erinnerungen-und-träumen/möbel-und-einrichtung-schlafzimmer.jpg'
-    tags: [bedroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/08-s-f.jpg'
-    file: 'puzzle-aus-erinnerungen-und-träumen/innendesign-schlafzimmer.jpg'
-    tags: [bedroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/10-s-f.jpg'
-    file: 'puzzle-aus-erinnerungen-und-träumen/interior-design-schlafzimmer.jpg'
-    tags: [bedroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/07-s-f.jpg'
-    file: 'puzzle-aus-erinnerungen-und-träumen/einrichtung-schlafzimmer.jpg'
-    tags: [bedroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/09-s-f.jpg'
-    file: 'puzzle-aus-erinnerungen-und-träumen/inneneinrichtung-schlafzimmer.jpg'
-    tags: [bedroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/15-t-f.bmp'
-    file: 'puzzle-aus-erinnerungen-und-träumen/interior-design-balkon.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/14-t-f.bmp'
-    file: 'puzzle-aus-erinnerungen-und-träumen/innendesign-balkon.jpg'
-    tags: [other]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/11-b-f.jpg'
-    file: 'puzzle-aus-erinnerungen-und-träumen/interior-design-badezimmer.jpg'
-    tags: [bathroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/12-b-f.jpg'
-    file: 'puzzle-aus-erinnerungen-und-träumen/einrichtung-badezimmer.jpg'
-    tags: [bathroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/13-b-f.jpg'
-    file: 'puzzle-aus-erinnerungen-und-träumen/inneneinrichtung-badezimmer.jpg'
-    tags: [bathroom]
-  -
-    url: 'http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/16-m-f.jpg'
-    file: 'puzzle-aus-erinnerungen-und-träumen/inneneinrichtung-abstellraum.jpg'
-    tags: [bathroom]
-tags: [private, contemporary, livingroom, kitchen, bathroom, bedroom, other]
+tags: [private, contemporary]
 featured: true
 ---
-## **Interior Design** Puzzle
-Das Leben ist wie ein Puzzle, das sich aus Träumen, Erinnerungen, Erlebtem und Vergangenem zusammensetzt. Diese Wohnung hat alles aufgesammelt und aus den Puzzleteilen des Lebens ein Traumheim geschaffen.
+## **Raumgestaltung Ideen** Puzzle
+Das Leben ist wie ein Puzzle, das sich aus Träumen, Erinnerungen, Erlebtem und Vergangenem zusammensetzt. Diese Wohnung hat alles aufgesammelt und aus den Puzzleteilen des Lebens ein Traumheim geschaffen. Und wir von Acherno haben alles entworfen.
 
-![Interior Design Wohnzimmer](puzzle-aus-erinnerungen-und-träumen/interior-design-wohnzimmer.jpg)
-### Interior Design **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/01-h-f.bmp" tags="livingroom" title="Wohnung Design Wohnzimmer"]
+### Wohnung Design **Wohnzimmer**
 
 Die neutrale Farbgebung in Weiß, Grau und Nude verleiht der Wohnung eine moderne und stillvolle Ausstrahlung. Interessante Deckensegmente in kontrastreichem Grafit und eine Wand in trendy Fließen Optik sorgen für die nötige Kontur.
 
--   ### Möbel und Einrichtung **Wohnzimmer**
-    ![Möbel und Einrichtung Wohnzimmer](puzzle-aus-erinnerungen-und-träumen/möbel-und-einrichtung-wohnzimmer.jpg)
+-   ### Raumgestaltung Ideen **Wohnzimmer**
+    [image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/02-h-f.bmp" tags="livingroom" title="Raumgestaltung Ideen Wohnzimmer"]
 -   ### Inneneinrichtung **Wohnzimmer**
-    ![Inneneinrichtung Wohnzimmer](puzzle-aus-erinnerungen-und-träumen/inneneinrichtung-wohnzimmer.jpg)
+    [image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/03-h-f.bmp" tags="livingroom" title="Inneneinrichtung Wohnzimmer"]
 
 Die schlichte Möblierung ist eine repräsentative Bühne für die pfiffigen Designer Stücke.
 
-![Innendesign Küche](puzzle-aus-erinnerungen-und-träumen/innendesign-küche.jpg)
-### Innendesign **Küche**
+[image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/04-k-f.bmp" tags="kitchen" title="Innendesign Ideen Küche"]
+### Innendesign Ideen **Küche**
 
-Die offene Eckküche ist perfekt in das gesamte Interior Konzept integriert. Das cleane Design lässt dich vergessen, dass du dich ein einer Küche befindest - viel mehr in einem Labor aus der Zukunft. Alles schön eingeräumt und exzellent geordnet. Allein die Kücheninsel aus schwarzem Stein setzt einen  Kontrast zum Rest des Küchendesigns.
+Die offene Eckküche, nach Maß gefertigt von Acherno, ist perfekt in das gesamte Interior Konzept integriert. Die cleane Raumgestaltung lässt dich vergessen, dass du dich ein einer Küche befindest - viel mehr in einem Labor aus der Zukunft. Alles schön eingeräumt und exzellent geordnet. Allein die Kücheninsel aus schwarzem Stein setzt einen  Kontrast zum Rest des Küchendesigns.
 
-![Interior Design Eingangsbereich](puzzle-aus-erinnerungen-und-träumen/interior-design-eingangsbereich.jpg)
-### Interior Design **Eingangsbereich**
+[image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/05-a-f.bmp" tags="other" title="Raumgestaltung Ideen Eingangsbereich"]
+### Raumgestaltung Ideen **Eingangsbereich**
 
-Der Eingangsbereich ist das passende Puzzleteil zum Ess- und Wohnbereich. Stil und Einrichtung komplettieren das Wohndesign perfekt.
+Der Eingangsbereich ist das passende Puzzleteil zum Ess- und Wohnbereich. Die stillvollen Qualitätsmöbel aus der hauseigenen Schreinerei komplettieren die Raumgestaltung perfekt.
 
-![Möbel und Einrichtung Schlafzimmer](puzzle-aus-erinnerungen-und-träumen/möbel-und-einrichtung-schlafzimmer.jpg)
-### Möbel und Einrichtung **Schlafzimmer**
+[image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/06-s-f.jpg" tags="bedroom" title="Einrichtungsideen Schlafzimmer"]
+### Einrichtungsideen **Schlafzimmer**
 
 Einzig das Himmelblau setzt sich hier ab. Für das moderne Schlafprogramm wird hier auf neutrale Töne und Trendmaterialien gesetzt.  Der Komfort und die Entspannung stehen ganz klar an erster Stelle!
 
--   ### Innendesign **Schlafzimmer**
-    ![Innendesign Schlafzimmer](puzzle-aus-erinnerungen-und-träumen/innendesign-schlafzimmer.jpg)
--   ### Interior Design **Schlafzimmer**
-    ![Interior Design Schlafzimmer](puzzle-aus-erinnerungen-und-träumen/interior-design-schlafzimmer.jpg)
--   ### Einrichtung **Schlafzimmer**
-    ![Einrichtung Schlafzimmer](puzzle-aus-erinnerungen-und-träumen/einrichtung-schlafzimmer.jpg)
--   ### Inneneinrichtung **Schlafzimmer**
-    ![Inneneinrichtung Schlafzimmer](puzzle-aus-erinnerungen-und-träumen/inneneinrichtung-schlafzimmer.jpg)    
+-   ### Innenarchitektur Projekt **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/08-s-f.jpg" tags="bedroom" title="Innenarchitektur Projekt Schlafzimmer"]
+-   ### Raumgestaltung Ideen **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/10-s-f.jpg" tags="bedroom" title="Raumgestaltung Ideen Schlafzimmer"]
+-   ### Wohnideen **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/07-s-f.jpg" tags="bedroom" title="Wohnideen Schlafzimmer"]
+-   ### Wohnung Design **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/09-s-f.jpg" tags="bedroom" title="Wohnung Design Schlafzimmer"]
 
-Ein Schlafzimmer mit separatem Ankleideraum - wer wünscht sich das nicht! Der große Kleiderschrank ist nicht nur ein Platzwunder, sondern fungiert auch als Raumteiler. So wird aus einem Raum zwei und der Stauraum verdoppelt sich. In Fester nähe sind ein kleiner Sekretär und ein Polsterstuhl platziert um dir das morgendliche E-Mails checken noch angenehmer zu machen.
+Ein Schlafzimmer mit separatem Ankleideraum - wer wünscht sich das nicht! Der große Kleiderschrank ist nicht nur ein Platzwunder, sondern fungiert auch als Raumteiler. So wird aus einem Raum zwei und der Stauraum verdoppelt sich. In Fester nähe sind ein kleiner Sekretär und ein Polsterstuhl platziert um dir das morgendliche E-Mails checken noch angenehmer zu machen. Alles mit viel Liebe zum Detail von Acherno designt und angefertigt.
 
-![Interior Design Balkon](puzzle-aus-erinnerungen-und-träumen/interior-design-balkon.jpg)
-### Interior Design **Balkon**
+[image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/15-t-f.bmp" tags="other" title="Raumdesign Ideen Balkon"]
+### Raumdesign Ideen **Balkon**
 
 Frischer Luft schnappen, den Blick in die Ferne schweifen lassen. Dieser Balkon ist genau das richtige für den Stadtmensch. Ein privater Garten mit großem Wohlfühlfaktor. Der Panoramablick lässt dich alle Sorgen des Alltags im Nu vergessen.
 
-![Innendesign Balkon](puzzle-aus-erinnerungen-und-träumen/innendesign-balkon.jpg)
-### Innendesign **Balkon**
+[image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/14-t-f.bmp" tags="other" title="Innendesign Ideen Balkon"]
+### Innendesign Ideen **Balkon**
 
 Robuste Rattan Möbel und ein robuster Holzboden eignen sich perfekt für deine nächste Grillparty. Für den Schutz vor heißen Tagen oder den neugierigen Blicken der Nachbarn, sorgt die hochwertige Markise in klassischer Optik.
 
-![Interior Design Badezimmer](puzzle-aus-erinnerungen-und-träumen/interior-design-badezimmer.jpg)
-### Interior Design **Badezimmer**
+[image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/11-b-f.jpg" tags="bathroom" title="Raumgestaltung Badezimmer"]
+### Raumgestaltung **Badezimmer**
 
 Pure White -  dieses Badezimmer ist für die Liebhaber des klassischen, minimalistischen Wohndesigns gedacht. Es wirkt hell, einladend und vor allem rein.
 Eine Mosaikwand und verschiedene Oberflächen lockern das Weiß auf.
 
--   ### Einrichtung **Badezimmer**
-    ![Einrichtung Badezimmer](puzzle-aus-erinnerungen-und-träumen/einrichtung-badezimmer.jpg)
--   ### Inneneinrichtung **Badezimmer**
-    ![Inneneinrichtung Badezimmer](puzzle-aus-erinnerungen-und-träumen/inneneinrichtung-badezimmer.jpg)
+-   ### Innenarchitektur Projekt **Badezimmer**
+    [image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/12-b-f.jpg" tags="bathroom" title="Innenarchitektur Projekt Badezimmer"]
+-   ### Raumgestaltung Ideen **Badezimmer**
+    [image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/13-b-f.jpg" tags="bathroom" title="Raumgestaltung Ideen Badezimmer"]
 
 Noch ein  Teil, dann ist der Puzzle fertig – die Wand hinter der Toilette in Straßenpflaster Optik ist ein absoluter Hingucker. 
 
-![Inneneinrichtung Abstellraum](puzzle-aus-erinnerungen-und-träumen/inneneinrichtung-abstellraum.jpg)
-### Inneneinrichtung **Abstellraum**
+[image url="http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/16-m-f.jpg" tags="other" title="Wohnideen Abstellraum"]
+### Wohnideen **Abstellraum**
 
 Praktisch, unverzichtbar und bei der ganzen Familie sehr beliebt. Dieser Abstellraum bietet genügend Platz für alles was in der Wohnung nichts zu suchen hat.
