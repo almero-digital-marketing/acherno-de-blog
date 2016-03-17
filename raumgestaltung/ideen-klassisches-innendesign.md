@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: 'Wohndesign Ideen (klassisches Innendesign)'
+title: 'Ideen (klassisches Innendesign)'
 description: 'Ein klassisches Wohndesign, das den Augen schmeichelt, wurde mit viel Liebe zum Detail ausgewählt um eine außergewöhnlich harmonische Atmosphäre in dieses Apartment zu zaubern. Eine Idylle in Pastell, getragen von zartem Rosa, frischem Mint und betörendem Pfirsich.'
 date: 2015-07-01
 firstPage: true
@@ -28,8 +28,8 @@ Ein Ethanol Kamin, der nicht nur  behagliche Wärme spendet, sondern auch unglau
 Zwei Poufs in Pfirsichrosa und zartem Grün sind die Blickfänger des Zimmers. Mit ihren verspielten Design locken sie dich zum kuscheln. 
 Im Gegensatz dazu kommt das klassische hellbeige Sofa  sehr erwachsen  und elegant daher.
 
-[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-21-h-f.jpg" tags="kitchen" title="Raumgestaltung Esszimmer"]
-### Raumgestaltung **Esszimmer**
+[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/3-21-h-f.jpg" tags="kitchen" title="Raumgestaltung Ideen Esszimmer"]
+### Raumgestaltung Ideen **Esszimmer**
    
 Das Speisezimmer in klassischem Design mit Landhaus Flair sieht nicht nur einladend aus, sondern genügt auch hinsichtlich Ausstattung und Stil den aller höchsten Ansprüchen. Feines Mint zaubert Frische und gute Laune in diese festliche Tafel.  Auch die Wohntextilien in floralem Dessin sind hier mit größter Sorgfalt ausgewählt
 
@@ -52,8 +52,8 @@ Ein harmonisches Intermezzo vom Mint und Beige sorgt hier für unvergessliche Tr
 
 Und welch ein Interior!  Komfortable Einrichtung, ein prachtvolles Bett mit samtiger Rückwand und eine klassische Schminkkonsole aus unserer Fertigung erzeugen ein wahrlich royales Ambiente.
 
-[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/4-14-d-f.bmp" tags="nursery" title="Raumgestaltung Kinderzimmer"]
-### Raumgestaltung **Kinderzimmer**
+[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/4-14-d-f.bmp" tags="nursery" title="Raumgestaltung Ideen Kinderzimmer"]
+### Raumgestaltung Ideen **Kinderzimmer**
 
 Eule, Fuchs und Reh sagen sich hier gute Nacht.  Zarte Pastelltöne in leckerem Mint, Pfirsich und Himbeere bringen Fröhlichkeit ins Kindezimmer.
 
@@ -81,8 +81,8 @@ Pastell, Weiß und Holz geleiten den Gast durch die Vernissage im Eingangsbereic
 
 Hier bekommt die neugierige Giraffe wirklich ein außergewöhnlich schönes Badezimmer zu Gesicht. Sympathisch, funktional und mit einer persönlichen Handschrift, ist dieses Badezimmer der Favorit der ganzen Familie.
 
-[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/7-09-t_f.jpg" tags="other" title="Wohndesign Balkon"]
-### Wohndesign **Balkon**
+[image url="http://hub.acherno.com/svn/sun-v-lqtna-nosht/Facebook/7-09-t_f.jpg" tags="other" title="Wohndesign Ideen Balkon"]
+### Wohndesign Ideen **Balkon**
 
 Auch auf kleinstem Raum hast du hier deinen heißgeliebten privaten Wintergarten verwirklicht.
 

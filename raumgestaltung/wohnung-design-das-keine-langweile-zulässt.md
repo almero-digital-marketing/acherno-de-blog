@@ -4,6 +4,7 @@ title: '(Wohnung Design,) das keine Langweile zulässt'
 description: 'Das Leben in der Stadt ist vielseitig und facettenreich. Als Stadtmensch wünschst du dir eine Wohnung, die genau das transportiert. Ein Heim, das zwar bunt und inspirierend ist, aber gleichzeitig einen ruhigen Zufluchtsort  vor der geschäftigen Großstadt bietet - das geliebte Zuhause eben!'
 date: 2015-08-26
 firstPage: true
+cover: 'http://hub.acherno.com/svn/gradski-legendi/Site/3D/03-h-F.jpg'
 author: Vasilena Habermann
 legacy: '/interior/interior-design-das-keine-langweile-zulässt.html'
 tags: [private, contemporary]
@@ -11,8 +12,8 @@ tags: [private, contemporary]
 ## **Wohnung Design** Stadtleben
 Das Leben in der Stadt ist vielseitig und facettenreich. Als Stadtmensch wünschst du dir eine Wohnung, die genau das transportiert. Ein Heim, das zwar bunt und inspirierend ist, aber gleichzeitig einen ruhigen Zufluchtsort  vor der geschäftigen Großstadt bietet - das geliebte Zuhause eben!
 
-[image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/03-h-F.jpg" tags="livingroom" title="Raumgestaltung Wohnzimmer"]
-### Raumgestaltung **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/03-h-F.jpg" tags="livingroom" title="Raumgestaltung Ideen Wohnzimmer"]
+### Raumgestaltung Ideen **Wohnzimmer**
 
 Hell, geräumig und modern - die bodentiefen Fenster sorgen für das passende natürliche Licht im Wohnzimmer. Die Farbpalette ist sehr klassisch und auf zwei Farben reduziert. Elegantes Beige und warmes Braun schaffen ein ruhiges und stimmiges Gesamtbild. Das große gemütliche Sofa ist optimal platziert und bildet den Mittelpunkt des Familienlebens. Die kleinen farbigen Wohnaccessoires runden das ganze ab und machen das Wohnzimmer zu einem Platz zum Wohlfühlen. 
 
@@ -21,8 +22,8 @@ Hell, geräumig und modern - die bodentiefen Fenster sorgen für das passende na
 
 Die Glastreppe hält sich dezent im Hintergrund, wirkt aber mit seiner Transparenz und Leichtigkeit sehr elegant. Die moderne Deckenverkleidung besticht mit ihrem dynamischen Design. Die eingereihten Holzpaneelen sind mit ihrem natürlichen Look voll im Trend. Sie sind nicht nur dekorativ, sondern sehr praktisch und sorgen für eine angenehme Akustik im Innenraum.  So wird aus jedem Filmabend eine kleine Kinoprämiere.
 
-[image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/02-h-F.jpg" tags="livingroom" title="Wohndesign Wohnzimmer"]
-### Wohndesign **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/02-h-F.jpg" tags="livingroom" title="Wohndesign Ideen Wohnzimmer"]
+### Wohndesign Ideen **Wohnzimmer**
 
 Sie sind nicht nur dekorativ, sondern sehr praktisch und sorgen für eine angenehme Akustik im Innenraum. So wird aus jedem Filmabend eine kleine Kinoprämiere.
 
@@ -47,20 +48,20 @@ In der Ruhe liegt die Kraft –  ein Schlafzimmer, das mit seinem einfachen Stil
 
 -   ### Einrichtungsideen **Schlafzimmer**
     [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/07-s-F.jpg" tags="bedroom" title="Einrichtungsideen Schlafzimmer"]
--   ### Raumdesign **Schlafzimmer**
-    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/06-s-F.jpg" tags="bedroom" title="Raumdesign Schlafzimmer"]
+-   ### Raumdesign Ideen **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/06-s-F.jpg" tags="bedroom" title="Raumdesign Ideen Schlafzimmer"]
 
 Klassische Linien und Verzicht auf alles Unnötige sind hier die Maxime. Hier kannst du ganz ungestört neue Energie für den Alltag tanken. 
 
 -   ### Raumgestaltung **zweites Bad**
     [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/20-bs1-F.jpg" tags="bathroom" title="Raumgestaltung zweites Bad"]
--   ### Innendesign **zweites Bad**
-    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/21-bs1-F.jpg" tags="bathroom" title="Innendesign zweites Bad"]
+-   ### Innendesign Ideen **zweites Bad**
+    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/21-bs1-F.jpg" tags="bathroom" title="Innendesign Ideen zweites Bad"]
 
 Klare Sache! Ein kleines Badezimmer, dass alle Ansprüche eines guten Gastgebers erfüllt. Noch dazu ist es ein Schmankerl fürs Auge!
 
-[image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/08-at-F.jpg" tags="other" title="Raumgestaltung Arbeitszimmer"]
-### Raumgestaltung **Arbeitszimmer**
+[image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/08-at-F.jpg" tags="other" title="Raumgestaltung Ideen Arbeitszimmer"]
+### Raumgestaltung Ideen **Arbeitszimmer**
 
 Perfekte Lichtverhältnisse, ein bequemer Arbeitstisch und viel Stauraum, das schafft Ordnung.
 
@@ -71,8 +72,8 @@ Perfekte Lichtverhältnisse, ein bequemer Arbeitstisch und viel Stauraum, das sc
 
 Hier sind alle Regeln für die Realisierung eines gelungenen Homeoffices erfüllt.
 
--   ### Innenarchitektur **kleine Badezimmer**
-    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/16-ba-F.jpg" tags="bathroom" title="Innenarchitektur kleine Badezimmer"]
+-   ### Innenarchitektur Projekt **kleine Badezimmer**
+    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/16-ba-F.jpg" tags="bathroom" title="Innenarchitektur Projekt kleine Badezimmer"]
 -   ### Raumgestaltung **kleine Badezimmer**
     [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/17-ba-F.jpg" tags="bathroom" title="Raumgestaltung kleine Badezimmer"]
 
@@ -83,8 +84,8 @@ Sehnsucht nach Natur! Dieses kleine Bad mit seinen kleinen weißen Flusssteinen 
 
 Auch dieses Arbeitszimmer punktet mit einem schicken Design. Hier wurde großer Wert auf die warme Ausstrahlung des Zimmers gelegt.
 
--   ### Wohndesign **Arbeitszimmer**
-    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/12-k-F.jpg" tags="other" title="Wohndesign Arbeitszimmer"]
+-   ### Wohndesign Ideen **Arbeitszimmer**
+    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/12-k-F.jpg" tags="other" title="Wohndesign Ideen Arbeitszimmer"]
 -   ### Möbel und Raumdesign **Arbeitszimmer**
     [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/13-k-F.jpg" tags="other" title="Möbel und Raumdesign Arbeitszimmer"]
 
@@ -92,7 +93,7 @@ Dank rustikaler Wandverkleidung und hellen Möbeln in skandinavischem Design, wi
 
 -   ### Wohnung Design **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/14-kr-F.jpg" tags="other" title="Wohnung Design Eingangsbereich"]
--   ### Raumgestaltung **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/15-kr-F.jpg" tags="other" title="Raumgestaltung Eingangsbereich"]
+-   ### Raumgestaltung Ideen **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/gradski-legendi/Site/3D/15-kr-F.jpg" tags="other" title="Raumgestaltung Ideen Eingangsbereich"]
 
 Eleganter weißer Marmor und schwarze Fotografien – sie betreten die Wohnung eines Menschen, der mit viel Verständnis für Kultur, Design und Stil mitten in der Stadt lebt.

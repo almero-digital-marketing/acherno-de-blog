@@ -40,8 +40,8 @@ Einbauküchengeräte und viele Aufbewahrungmöglichkeiten lassen die Küche sehr
 
 Stilvoll in taupe, grau und weiß eingerichtet ist dieses Schlafzimmer das beste Beispiel dafür, dass gut kombinierte kalte Töne, sehr wohl warm wirken können. Ein großes Bett Mitten im Raum, eine Spiegelwand hinter dem Bett, drei Deckenleuchten in Laternendesign und Bettwäsche mit reduziertem Design haben uns von diesem Schlafzimmer überzeugt und es  zu einem unserer Favoriten werden lassen.
 
--   ### Raumgestaltung **Schlafzimmer**
-    [image url="http://hub.acherno.com/svn/bqlata-kyshta/Facebook/09-s_f.jpg" tags="bedroom" title="Raumgestaltung Schlafzimmer"]
+-   ### Raumgestaltung Ideen **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/bqlata-kyshta/Facebook/09-s_f.jpg" tags="bedroom" title="Raumgestaltung Ideen Schlafzimmer"]
 -   ### Wohnung Design **Schlafzimmer**
     [image url="http://hub.acherno.com/svn/bqlata-kyshta/Facebook/11-s_f.jpg" tags="bedroom" title="Wohnung Design Schlafzimmer"]
 -   ### Innenarchitektur Ideen **Schlafzimmer**
@@ -54,8 +54,8 @@ Die Wände sind großflächig in trendigem dunklem Taupe angestrichen.  Kleine k
 
 Vorhang auf! Wenn du die Eingangstür aufmachst betrittst du direkt das Zentrum der Wohnung. Es gibt keinen separaten Eingansgbereich. Du befindest dich unmittelbar im Wohn- und Essbereich. Deswegen haben wir hier besonderen Wert auf eine gute Ausleuchtung gelegt. Als Blickfang haben wir einen Wandspiegel mit einem Skyline Print in Schwarzweiß angebracht. 
 
--   ### Wohndesign **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/bqlata-kyshta/Facebook/06-h_f.jpg" tags="other" title="Wohndesign Wohndesign"]
+-   ### Wohndesign Ideen **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/bqlata-kyshta/Facebook/06-h_f.jpg" tags="other" title="Wohndesign Ideen Wohndesign"]
 -   ### Raumgestaltung **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/bqlata-kyshta/Facebook/08-h_f.jpg" tags="other" title="Raumgestaltung Eingangsbereich"]
 
@@ -64,7 +64,7 @@ Akzente haben wir an der Wand gegenüber der Eingangstür mit Hilfe einer kleine
 [image url="http://hub.acherno.com/svn/bqlata-kyshta/Facebook/18-b_f.jpg" tags="bathroom" title="Innendesign Ideen Badezimmer"]
 ### Innendesign Ideen **Badezimmer**
 
-Ein Unikat! Ein Badezimmer in Grau Melange und Weiß. Ein Waschtisch der keinen Vergleich scheuen muss. Das Waschbecken ist mit einem New Yorker Skyline Print bedeckt und an einer schwarzen Steinplate moniert. Eine große Fototapete mit einem urbanen Fliesenprint verstärkt dieses Gefühl.  
+Ein Unikat! Ein Badezimmer in Grau Melange und Weiß. Ein Waschtisch der keinen Vergleich scheuen muss. Das Waschbecken ist mit einem New Yorker Skyline Print bedeckt und an einer schwarzen Steinplate moniert. Eine große Fototapete mit einem urbanen Fliesenprint verstärkt dieses Gefühl.
 
 -   ### Raumgestaltung **Badezimmer**
     [image url="http://hub.acherno.com/svn/bqlata-kyshta/Facebook/17-b_f.jpg" tags="bathroom" title="Raumgestaltung Badezimmer"]

@@ -50,8 +50,8 @@ Auch hier ist Weiß die beherrschende Farbe.
     [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/11-k_f.jpg" tags="other" title="Raumgestaltung Ideen Eingangsbereich"]
 -   ### Wohnung Design **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/09-k_f.jpg" tags="other" title="Wohnung Design Eingangsbereich"]
--   ### Einrichtung **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/10-k_f.jpg" tags="other" title="Einrichtung Eingangsbereich"]
+-   ### Inneneinrichtung **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/10-k_f.jpg" tags="other" title="Inneneinrichtung Eingangsbereich"]
 
 Weiße Wände und stilvolle, individuell gefertigte Möbel in Kombination mit Fliesen in Erdtönen laden ein zum Eintritt.
 
@@ -71,10 +71,10 @@ Das kuschelige französische Acherno Bett lässt an Schlafkomfort nichts zu wün
 
 Ein märchenhaftes Bad in zartem Altrosa verzaubert deine Sinne. Die marmorierte Tapete mit floralem Muster in Verbindung mit den weißen Möbeln wirken verspielt und nostalgisch. Dank unseren maßgefertigten Möbel muss selbstverständlich nicht fuf modernsten Badkomfort verzichtet werden. Einfach entzückend!
 
--   ### Innenarchitektur **Badezimmer**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/18-b_f.jpg" tags="bathroom" title="Innenarchitektur Badezimmer"]
--   ### Raumgestaltung **Badezimmer**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/19-b_f.jpg" tags="bathroom" title="Raumgestaltung Badezimmer"]
+-   ### Innenarchitektur Projekt **Badezimmer**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/18-b_f.jpg" tags="bathroom" title="Innenarchitektur Projekt  Badezimmer"]
+-   ### Raumgestaltung Ideen **Badezimmer**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/19-b_f.jpg" tags="bathroom" title="Raumgestaltung Ideen Badezimmer"]
 -   ### Wohnung Design **Badezimmer**
     [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/20-b_f.jpg" tags="bathroom" title="Wohnung Design Badezimmer"]
 -   ### Wohndesign Ideen **Badezimmer**
@@ -82,11 +82,11 @@ Ein märchenhaftes Bad in zartem Altrosa verzaubert deine Sinne. Die marmorierte
 
 Und zu guter Letzt eine kleine Ruheinsel in Form eines schmucken Balkons für die lauen Sommernächte zu zweit. Acherno eben!
 
--   ### Raumgestaltung **Der Balkon**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/22-t_f.jpg" tags="other" title="Raumgestaltung Der Balkon"]
+-   ### Raumgestaltung Ideen **Der Balkon**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/22-t_f.jpg" tags="other" title="Raumgestaltung Ideen Der Balkon"]
 -   ### Innenarchitektur Projekt **Der Balkon**
     [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/23-t_f.jpg" tags="other" title="Innenarchitektur Projekt Der Balkon"]
--   ### Raumdesign **Der Balkon**
-    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/21-t_f.jpg" tags="other" title="Raumdesign Der Balkon"]
+-   ### Raumdesign Ideen **Der Balkon**
+    [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/21-t_f.jpg" tags="other" title="Raumdesign Ideen Der Balkon"]
 
 Bei einem Sonnenuntergang ein Glas Rosé - was kann schöner sein?

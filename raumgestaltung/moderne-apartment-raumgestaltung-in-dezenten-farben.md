@@ -39,8 +39,8 @@ Ein Korpus in Teakholz Optik und weiße Arbeitsflächen gepaart mit modernstem K
 
 Auch vom Wohnzimmer aus betrachtet ist diese Küche unser Liebling!
 
-[image url="http://hub.acherno.com/svn/slantse-i-zemya/Facebook/07-koridor_f.jpg" tags="other" title="Raumgestaltung Eingangsbereich"]
-### Raumgestaltung **Eingangsbereich**
+[image url="http://hub.acherno.com/svn/slantse-i-zemya/Facebook/07-koridor_f.jpg" tags="other" title="Raumgestaltung Ideen Eingangsbereich"]
+### Raumgestaltung Ideen **Eingangsbereich**
 
 Der Eingang - ein großzügiger Schuhschrank in Creme und Schoko eignet sich nicht nur für die Aufbewahrung von Schuhen, sondern ist auch eine wunderbare Dekofläche für die neusten Wohnaccessoires. Gerade die Auswahl von Qualitätsmöbeln und ein passendes Farbkonzept schaffen den Rahmen für eine gelungene Raumgestaltung.
 

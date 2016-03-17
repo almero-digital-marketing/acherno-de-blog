@@ -15,6 +15,7 @@ Der Minimalismus hat sich zu einem der angesagtesten Wohnstile der Gegenwart eta
 Ein mehrstöckiges Wohnhaus, das eine umfangreiche Rekonstruktion erfahren hat und in minimalistischem Stil eingerichtet ist. Besonderen Wert haben wir auf große, lichtdurchflutete Räume gelegt, die schön hell, luftig und geräumig sein sollten. Trotz einer reduzierten Dekoration haben wir eine große Individualität hinsichtlich der Raumgestaltung realisiert!
 
 [image url="http://hub.acherno.com/svn/prostor/Facebook/01-h_f.jpg" tags="livingroom" title="Wohnung Design Wohnzimmer"]
+
 ### Wohnung Design **Wohnzimmer**
 
 Im ersten Stock befindet sich ein großer, heller und geräumiger  Raum der Wohnen, Essen und Kochen in sich vereint! Die Farben sind perfekt ausbalanciert. Klares Schwarz und Weiß wird hier mit zartem Beige kombiniert. Der Boden ist mit einem hochwertigen Laminat in natürlicher Erlenoptik belegt. Die Decken sind clever abgehängt und mit gut platzierten Spotlights ausgestattet.
@@ -128,8 +129,8 @@ Die zweite Küche ist dezent vom Wohnzimmer getrennt. Die Raumhöhe und Breite s
 
 Das Arbeitszimmer – ein Ort der Inspiration und Konzentration. Dieses Home Office hat alle Voraussetzungen um dein Lieblingsarbeitsplatz zu werden. Die Farben sind hell und sonnig.
 
-[image url="http://hub.acherno.com/svn/prostor/Facebook/25-13-et3-k_F.jpg" tags="other" title="Raumgestaltung Arbeitszimmer"]
-### Raumgestaltung **Arbeitszimmer**
+[image url="http://hub.acherno.com/svn/prostor/Facebook/25-13-et3-k_F.jpg" tags="other" title="Raumgestaltung Ideen Arbeitszimmer"]
+### Raumgestaltung Ideen **Arbeitszimmer**
 
 Designklassiker wie ein Polstersofa, ein großer Bürotisch und ein wertiger Chefsessel. Eine Wand ist zu einem riesen Archiv umfunktioniert. Dadurch wirkt der Raum aufgeräumt und ruhig.
 

@@ -3,6 +3,7 @@ layout: /blog/post.ect
 title: '(Raumgestaltung) mit Naturholz'
 description: 'Edel, schlicht, zeitlos... Das sind Adjektive die auf diesen Empfangsbereich exakt zutreffen. Angelehnt an den klassischen, englischen Stil haben wir hier einen Empfangsbereich kreiert, der das nötige Vertrauen, Professionalität und Behaglichkeit transportiert.'
 date: 2015-03-20
+cover: 'http://hub.acherno.com/svn/priemna/Facebook/01-p_f.jpg'
 author: Vasilena Habermann
 legacy: '/interior/interior-mit-naturholz.html'
 tags: [public, classic]

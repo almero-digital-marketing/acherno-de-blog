@@ -1,7 +1,7 @@
 ---
 layout: /blog/post.ect
 title: '(Stilvolles Apartment) in hellen und freundlichen Tönen'
-description: 'Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Interior Design eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen, graphischem Muster, praktischen Möbeln, Pastellfarben, die mit Farbakzenten in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden. '
+description: 'Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Raumdesign eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen, graphischem Muster, praktischen Möbeln, Pastellfarben, die mit Farbakzenten in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden. '
 date: 2015-01-27
 firstPage: true
 cover: 'http://hub.acherno.com/svn/haus-of-vanity/Site/3D/4.01-h_f.jpg'
@@ -10,7 +10,7 @@ legacy: '/interior/stillvolles-apartment-in-hellen-und-freundlichen-tönen.html'
 tags: [private, modernclassic]
 ---
 ## **Wohnen** wie in **Skandinavien**
-Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Interior Design eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen, graphischem Muster, praktischen Möbeln, Pastellfarben, die mit Farbakzenten in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden.
+Vor dir steht eine Wohnung, die wir im angesagten Skandinavischen Raumdesign eingerichtet haben. Ungezwungene Schlichtheit und Komfort, sowie klare Linien und Formen, graphischem Muster, praktischen Möbeln, Pastellfarben, die mit Farbakzenten in heiteren Farben kombiniert sind – das alles macht diesen Einrichtungsstil aus und lässt ihn immer beliebter werden.
 
 [image url="http://hub.acherno.com/svn/haus-of-vanity/Site/3D/4.01-h_f.jpg" tags="livingroom" title="Raumgestaltung Ideen Wohnzimmer"]
 ### Raumgestaltung Ideen **Wohnzimmer**

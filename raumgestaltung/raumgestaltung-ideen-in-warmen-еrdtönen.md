@@ -17,15 +17,15 @@ Eine Raumgestaltung, die jedermanns Geschmack trifft! Eine Farbauswahl wie ein S
 
 Eine königliche Sitzlandschaft in hellem Graphit, markiert den Wohnbereich und bietet dir höchstes Niveau an Komfort. Die integrierten Deckenleuchten sorgen für eine stimmungsvolle Atmosphäre.
 
--   ### Raumgestaltung **Wohnzimmer**
-    [image url="http://hub.acherno.com/svn/horizont/Site/3D/1.03-h_f2.jpg" tags="livingroom" title="Raumgestaltung Wohnzimmer"]
+-   ### Raumgestaltung Ideen **Wohnzimmer**
+    [image url="http://hub.acherno.com/svn/horizont/Site/3D/1.03-h_f2.jpg" tags="livingroom" title="Raumgestaltung Ideen Wohnzimmer"]
 -   ### Einrichtungsideen **Wohnzimmer**
     [image url="http://hub.acherno.com/svn/horizont/Site/3D/1.01-h_f.jpg" tags="livingroom" title="Einrichtungsideen Wohnzimmer"]
 
 Deckenelemente, Vorhänge und Dekokissen in Terrakotta bilden einen perfekten Rahmen und lassen das Maisgelb der Wandgemälde noch heller erstrahlen. Der dunkle Bodenbelag beruhigt und rundet das Design stilvoll ab.
 
-[image url="http://hub.acherno.com/svn/horizont/Site/3D/1.05-h_f.jpg" tags="kitchen" title="Raumgestaltung Küche und Esszimmer"]
-### Raumgestaltung **Küche und Esszimmer**
+[image url="http://hub.acherno.com/svn/horizont/Site/3D/1.05-h_f.jpg" tags="kitchen" title="Raumgestaltung Ideen Küche und Esszimmer"]
+### Raumgestaltung Ideen **Küche und Esszimmer**
 
 Wir sind Spezialisten in Sachen Kochkomfort und Aufbewahrung! Die massiven dunkelblauen Küchenschränke aus dem Hause Acherno wirken nicht schwer, sondern erhaben und edel. Das verspielte Wandmosaik ist nicht nur praktisch beim Kochen, sondern wirkt sehr dekorativ und nimmt die Strenge aus der Küche.
 
@@ -41,8 +41,8 @@ Der Eingangsbereich ist das Portfolio des Innendesigns einer Wohnung. Helle beig
 
 -   ### Raumgestaltung **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/horizont/Site/3D/2.01-k_f.bmp" tags="other" title="Raumgestaltung Eingangsbereich"]
--   ### Raumdesign **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/horizont/Site/3D/2.02-k_f.bmp" tags="other" title="Raumdesign Eingangsbereich"]
+-   ### Raumdesign Ideen **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/horizont/Site/3D/2.02-k_f.bmp" tags="other" title="Raumdesign Ideen Eingangsbereich"]
  
 Ein großer Schuhschrank bietet nicht nur den nötigen Stauraum, sondern er ist auch die perfekte Ablage für die Dekoration.
 
@@ -51,8 +51,8 @@ Ein großer Schuhschrank bietet nicht nur den nötigen Stauraum, sondern er ist 
 
 Girls best friend! Ein begehbarer Kleiderschrank, das ist längst nicht mehr nur ein Must Have für exzentrische Ladies. Heute gehört er in jede moderne Wohnung. Dieser maßangefertigte Schrank ist zwar nicht der größte, aber sehr funktional, mit mehreren Regalen und viele Platz für ihre neuesten Kollektionen.
 
-[image url="http://hub.acherno.com/svn/horizont/Site/3D/3.01-sL_f.jpg" tags="bedroom" title="Raumgestaltung Schlafzimmer"]
-### Raumgestaltung **Schlafzimmer**
+[image url="http://hub.acherno.com/svn/horizont/Site/3D/3.01-sL_f.jpg" tags="bedroom" title="Raumgestaltung Ideen Schlafzimmer"]
+### Raumgestaltung Ideen **Schlafzimmer**
 
 Ein Ruhepol – dieses Zimmer ist eine Hommage an die Natur. Helle und dunklere Erdtöne umranden das Schlafzimmerbett. Ein Lindengrün macht das Zimmer sehr freundlich und sorgt für himmlische Träume.
 
@@ -68,8 +68,8 @@ Altrosa und Lila setzten die Akzente in zweitem Schlafzimmer. Vor einem Hintergr
 
 -   ### Wohnung Design **Gästeschlafzimmer**
     [image url="http://hub.acherno.com/svn/horizont/Site/3D/4.01-sR_f.jpg" tags="bedroom" title="Wohnung Design Gästeschlafzimmer"]
--   ### Innenarchitektur **Gästeschlafzimmer**
-    [image url="http://hub.acherno.com/svn/horizont/Site/3D/4.03-sR_f.jpg" tags="bedroom" title="Innenarchitektur Gästeschlafzimmer"]
+-   ### Innenarchitektur Ideen **Gästeschlafzimmer**
+    [image url="http://hub.acherno.com/svn/horizont/Site/3D/4.03-sR_f.jpg" tags="bedroom" title="Innenarchitektur Ideen Gästeschlafzimmer"]
 
 Auch hier sind die Möbel in purem, mattem Weiß gehalten und natürlich von uns handgefertigt.
 
@@ -77,12 +77,12 @@ Modern gelöst! Badezimmer und WC wurden voneinander getrennt. Edle Fliesen in b
 
 -   ### Wohnideen **Toilette**
     [image url="http://hub.acherno.com/svn/horizont/Site/3D/5.02-t_f.bmp" tags="bathroom" title="Wohnideen Toilette"]
--   ### Raumgestaltung **Toilette**
-    [image url="http://hub.acherno.com/svn/horizont/Site/3D/5.01-t_f.bmp" tags="bathroom" title="Raumgestaltung Toilette"]
+-   ### Raumgestaltung Ideen **Toilette**
+    [image url="http://hub.acherno.com/svn/horizont/Site/3D/5.01-t_f.bmp" tags="bathroom" title="Raumgestaltung Ideen Toilette"]
 
 Die Dusche ist in dem gleichen Design gehalten, sodass beide sich gut ergänzen und eine Perfektion von Ästhetik und Funktionalität bilden.
 
--   ### Wohndesign **Badezimmer**
-    [image url="http://hub.acherno.com/svn/horizont/Site/3D/7.01-b_f.bmp" tags="bathroom" title="Wohndesign Wohnzimmer"]
+-   ### Wohndesign Ideen **Badezimmer**
+    [image url="http://hub.acherno.com/svn/horizont/Site/3D/7.01-b_f.bmp" tags="bathroom" title="Wohndesign Ideen Wohnzimmer"]
 -   ### Raumgestaltung **Badezimmer**
     [image url="http://hub.acherno.com/svn/horizont/Site/3D/7.02-b_f.bmp" tags="bathroom" title="Raumgestaltung Badezimmer"]

@@ -37,8 +37,8 @@ Gute Bücher und gutes Essen gehören immer zusammen! Eine Bibliothek teilt deze
 
 Das Zentrum des Familienlebens - Der Essbereich ist zweckmäßig in der Küche platziert.  Die handgefertigten Schränke sind in schlichtem Weiß gehalten, mit vielen Nischen und Regalen zum Aufbewahren des guten Geschirrs und der schönen Gläser. So kann der Gastgeber sofort auf die Wünsche der Gäste eingehen. Ein Glas Weißwein oder doch den guten alten Roten, oder doch einen Espresso zuerst? Alles Nötige befindet sich griffbereit in der Nähe!
 
-[image url="http://hub.acherno.com/svn/roza-bez-bodli/Facebook/3.07-kq_f.jpg" tags="kitchen" title="Wohnideen Küche"]
-### Wohnideen **Küche**
+[image url="http://hub.acherno.com/svn/roza-bez-bodli/Facebook/3.07-kq_f.jpg" tags="kitchen" title="Wohndesign Ideen Küche"]
+### Wohndesign Ideen **Küche**
 
 Gut gelöst! Die eigentliche Küche ist in einem eigenen Raum durch eine transparente Tür vom Essbereich separiert. Der Koch kann in Ruhe zaubern und die Gerüche bleiben in der Küche.
 

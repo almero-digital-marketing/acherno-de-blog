@@ -1,7 +1,7 @@
 ---
 layout: /blog/post.ect
 title: 'Wohnen im (skandinavischen Raumdesign)'
-description: 'Skandinavien mit seinem rauen, kalten Klima hat ein einzigartiges Interior Design geschaffen. Eines, das mit seinen klaren Linien, den natürlichen Materialien und den warmen Tönen eine besonders einladende und warme Stimmung schafft. Ein Wohnung Design das Wohlfühlglück verspricht!'
+description: 'Skandinavien mit seinem rauen, kalten Klima hat ein einzigartiges Raumdesign geschaffen. Eines, das mit seinen klaren Linien, den natürlichen Materialien und den warmen Tönen eine besonders einladende und warme Stimmung schafft. Ein Wohnung Design das Wohlfühlglück verspricht!'
 date: 2015-07-06
 firstPage: true
 cover: 'http://hub.acherno.com/svn/breza/Site/3D/01-h_f.jpg'
@@ -10,7 +10,7 @@ legacy: '/interior/wohnen-im-skandinavischen-design.html'
 tags: [private, contemporary]
 ---
 ## **Wohnung Design** mit Skandinavischen Motive
-Was früher für das Interior Design Mailand war ist heute Kopenhagen, Stockholm oder Helsinki.  Kein Wunder! Skandinavien mit seinem rauen, kalten Klima hat ein einzigartiges Interior Design geschaffen. Eines, das mit seinen klaren Linien, den natürlichen Materialien und den warmen Tönen eine besonders einladende und warme Stimmung schafft. Ein Wohnung Design das Wohlfühlglück verspricht!
+Was früher für das Wohnung Design Mailand war ist heute Kopenhagen, Stockholm oder Helsinki.  Kein Wunder! Skandinavien mit seinem rauen, kalten Klima hat ein einzigartiges Raumdesign geschaffen. Eines, das mit seinen klaren Linien, den natürlichen Materialien und den warmen Tönen eine besonders einladende und warme Stimmung schafft. Ein Wohnung Design das Wohlfühlglück verspricht!
 
 [image url="http://hub.acherno.com/svn/breza/Site/3D/01-h_f.jpg" tags="livingroom" title="Raumgestaltung Ideen Wohnzimmer"]
 ### Raumgestaltung Ideen **Wohnzimmer**

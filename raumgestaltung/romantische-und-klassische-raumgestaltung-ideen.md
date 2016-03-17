@@ -26,8 +26,8 @@ Als interessante Akzente  fungieren hier die Randverzierungen aus edlem Stuck, d
 
 Ein Platz zum Relaxen! Der wundervoll gestaltete Platz mit Polstersessel vor dem  Kamin eignet sich perfekt zum entspannen. Sogar moderne Flachbild TVs fügen sich stilsicher in das klassische Design ein.
 
-[image url="http://hub.acherno.com/svn/gorska-feya/Site/3D/02-h-f.jpg" tags="kitchen" title="Raumgestaltung Küche und Esszimmer"]
-### Raumgestaltung **Küche und Esszimmer**
+[image url="http://hub.acherno.com/svn/gorska-feya/Site/3D/02-h-f.jpg" tags="kitchen" title="Raumgestaltung Ideen Küche und Esszimmer"]
+### Raumgestaltung Ideen **Küche und Esszimmer**
 
 Der ganze Stolz der Gastgeber! Ein Esszimmer, das durch sein schlichtes Design und die hellen Farben sehr aufgeräumt und unheimlich einladend wirkt!
 Die große Tafel aus Achernos Möbelmanufaktur lädt die ganze Familie ein an ihr zu verweilen. Hier findet jeder seinen Lieblingsplatz.

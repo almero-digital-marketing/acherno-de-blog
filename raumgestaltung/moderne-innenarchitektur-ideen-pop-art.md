@@ -1,7 +1,7 @@
 ---
 layout: /blog/post.ect
 title: '(Moderne Innenarchitektur Ideen) Pop Art'
-description: 'Andy Warhol, Roy Lichtenstein, Jeff Koons, Takashi Murakami – das sind die Stars des Pop Arts.  Diese Kunstform hat sich längt aus den Kunstgalerien hinaus entwickelt und  ihren festen Platz in unserem Leben gefunden. Ob als Comic, Merchandising Artikel, Mode oder als Interior Design, noch nie hat eine Kunstrichtung so unseren Alltag so beeinflusst wie Pop Art.'
+description: 'Andy Warhol, Roy Lichtenstein, Jeff Koons, Takashi Murakami – das sind die Stars des Pop Arts.  Diese Kunstform hat sich längt aus den Kunstgalerien hinaus entwickelt und  ihren festen Platz in unserem Leben gefunden. Ob als Comic, Merchandising Artikel, Mode oder als Raumdesign, noch nie hat eine Kunstrichtung so unseren Alltag so beeinflusst wie Pop Art.'
 date: 2015-07-14
 cover: 'http://hub.acherno.com/svn/komiks/Site/3D/01-h_F.jpg'
 firstPage: true
@@ -10,7 +10,7 @@ legacy: '/interior/modernes-interior-design-pop-art.html'
 tags: [private, modern]
 ---
 ## **Raumgestaltung** für Superhelden
-Andy Warhol, Roy Lichtenstein, Jeff Koons, Takashi Murakami – das sind die Stars des Pop Arts.  Diese Kunstform hat sich längt aus den Kunstgalerien hinaus entwickelt und  ihren festen Platz in unserem Leben gefunden. Ob als Comic, Merchandising Artikel, Mode oder als Interior Design, noch nie hat eine Kunstrichtung so unseren Alltag so beeinflusst wie Pop Art.  
+Andy Warhol, Roy Lichtenstein, Jeff Koons, Takashi Murakami – das sind die Stars des Pop Arts.  Diese Kunstform hat sich längt aus den Kunstgalerien hinaus entwickelt und  ihren festen Platz in unserem Leben gefunden. Ob als Comic, Merchandising Artikel, Mode oder als Raumdesign, noch nie hat eine Kunstrichtung so unseren Alltag so beeinflusst wie Pop Art.
 
 [image url="http://hub.acherno.com/svn/komiks/Site/3D/01-h_F.jpg" tags="livingroom" title="Wohnung Design Wohnzimmer"]
 ### Wohnung Design **Wohnzimmer**

@@ -93,8 +93,8 @@ Ein Bett am Strand – noch nie war ein Schlafzimmer so nah am Horizont. Palmen,
     [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/24-s_f.jpg" tags="bedroom" title="Raumgestaltung Schlafzimmer"]
 -   ### Wohnideen **Schlafzimmer**
     [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/25-s_f.jpg" tags="bedroom" title="Wohnideen Schlafzimmer"]
--   ### Innendesign **Schlafzimmer**
-    [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/23-s_f.jpg" tags="bedroom" title="Innendesign Schlafzimmer"]
+-   ### Innendesign Ideen **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/23-s_f.jpg" tags="bedroom" title="Innendesign Ideen Schlafzimmer"]
 
 Deine private Superior Suite! Alles für deine Erholung perfekt von Acherno designt und angefertigt.
 
@@ -128,8 +128,8 @@ Eine Gamer Zone für Spiel Nachmittage mit Freunden oder eine Kinoecke für die 
 
 -   ### Wohnung Design **Kinderzimmer**
     [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/35-d3_f.jpg" tags="nursery" title="Wohnung Design Kinderzimmer"]
--   ### Raumgestaltung **Kinderzimmer**
-    [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/37-d3_f.jpg" tags="nursery" title="Raumgestaltung Kinderzimmer"]
+-   ### Raumgestaltung Ideen **Kinderzimmer**
+    [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/37-d3_f.jpg" tags="nursery" title="Raumgestaltung Ideen Kinderzimmer"]
 -   ### Inneneinrichtung **Kinderzimmer**
     [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/38-d3_f.jpg" tags="nursery" title="Inneneinrichtung Kinderzimmer"]
 
@@ -144,15 +144,15 @@ Bunt, Pfiffig und anregend, so muss ein Kinderzimmer aussehen. Dieses hier hat s
 
 Teakholz, Bambus und schlichtes Design – das ist eindeutig der Geist Asiens. Das Bad erfüllt mit seinen zwei Waschbecken, den vielen Aufbewahrungsmöglichkeiten, alle Anforderungen, die große Familien stellen.
 
--   ### Wohndesign **Kinderbad**
-    [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/46-bd_f.jpg" tags="bathroom" title="Wohndesign Kinderbad"]
+-   ### Wohndesign Ideen **Kinderbad**
+    [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/46-bd_f.jpg" tags="bathroom" title="Wohndesign Ideen Kinderbad"]
 -   ### Einrichtungsideen **Kinderbad**
     [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/45-bd_f.jpg" tags="bathroom" title="Einrichtungsideen Kinderbad"]
 
 Findet Nemo - Ein Badezimmer für Wasserraten! Hier kann der Kleinste spielerisch das Waschen lernen.
 
--   ### Raumgestaltung **Penthouse**
-    [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/54-r_f.jpg" tags="other" title="Raumgestaltung Penthouse"]
+-   ### Raumgestaltung Ideen **Penthouse**
+    [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/54-r_f.jpg" tags="other" title="Raumgestaltung Ideen Penthouse"]
 -   ### Innendesign Ideen **Penthouse**
     [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/56-r_f.jpg" tags="other" title="Innendesign Ideen Penthouse"]
 -   ### Innenarchitektur Projekt **Penthouse**

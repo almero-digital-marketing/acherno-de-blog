@@ -21,8 +21,8 @@ Wohn- und Küchenbereich sind mit verschiedenen Bodenbelägen und einer funktion
 
 Einzigartig und sehr elegant! 
 
-[image url="http://hub.acherno.com/svn/gradski/Site/3D/2.01-h_f.jpg" tags="kitchen" title="Innendesign Esstisch"]
-### Innendesign **Esstisch**
+[image url="http://hub.acherno.com/svn/gradski/Site/3D/2.01-h_f.jpg" tags="kitchen" title="Innendesign Ideen Esstisch"]
+### Innendesign Ideen **Esstisch**
 
 Ein Tisch und drei Stühle. Mehr braucht der moderne Mensch von heute nicht in seinem Diner. Der weiße Tisch und die schwarzen Lederstühle wirken edel und dezent und geben den Blick frei auf  den Hintergrund mit den stylischen römischen Vorhängen in glänzenden schwarz. Zwei Designer Hängelampen über dem Tisch geben stimmungsvolle Atmosphäre beim Champagner zu zweit.
 
@@ -47,16 +47,16 @@ Gleiche Tapete in Steinoptik findet ihren Einsatz im Eingangsbereich. Der Boden 
 
 Drei beleuchtete Bilder lassen den Eingangsbereich zu einer Galerie werden. 
 
-[image url="http://hub.acherno.com/svn/gradski/Site/3D/4.01-s_f.jpg" tags="bedroom" title="Wohnung Design Ideen Schlafzimmer"]
-### Wohnung Design Ideen **Schlafzimmer**
+[image url="http://hub.acherno.com/svn/gradski/Site/3D/4.01-s_f.jpg" tags="bedroom" title="Wohnung Design Schlafzimmer"]
+### Wohnung Design **Schlafzimmer**
 
 Aufgeblüht! Eine romantische Fototapete hinter dem Bett mit Blumenprints in Altrosa und Pink macht aus diesem Schlafzimmer einen Frühlingsgarten.
 Weiße Möbel und eine Deckenumrahmung in Flieder lassen dich hier vom Frühling träumen. Die großen französischen Fenster sorgen für das richtige Licht, das die dunkelgrauen Vorhänge dezent in Szene setzen.
 
 -   ### Raumgestaltung Ideen**Schlafzimmer**
     [image url="http://hub.acherno.com/svn/gradski/Site/3D/4.02-s_f.jpg" tags="bedroom" title="Raumgestaltung Ideen Schlafzimmer"]
--   ### Innenarchitektur **Schlafzimmer**
-    [image url="http://hub.acherno.com/svn/gradski/Site/3D/4.03-s_f.jpg" tags="bedroom" title="Innenarchitektur Schlafzimmer"]
+-   ### Innenarchitektur Projekt **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/gradski/Site/3D/4.03-s_f.jpg" tags="bedroom" title="Innenarchitektur Projekt Schlafzimmer"]
 
 Das Bett ist extra hoch, besonders bequem und gepolstert in edlem Ökoleder. Markante weiße Leuchten in graphischem Design werden eins mit der Umgebung.
 Wandbotschaften erinnern dich an die wichtigen Dinge des Lebens.

@@ -25,21 +25,21 @@ Nicht zu übersehen sind die farbigen Akzente in grell Gelb und feurigem Rot. Mi
 
 Die Regalwand ist eine clevere Designerlösung unserer Möbelplaner. Die Rundhölzer sind individuell verstellbar und somit perfekt zum mitgestalten geeignet.
 
-[image url="http://hub.acherno.com/svn/game-on/Site/3D/02-op_F.jpg" tags="livingroom" title="Innendesign Wohnbereich"]
-### Innendesign **Wohnbereich**
+[image url="http://hub.acherno.com/svn/game-on/Site/3D/02-op_F.jpg" tags="livingroom" title="Innendesign Ideen Wohnbereich"]
+### Innendesign Ideen **Wohnbereich**
 
 Kochen, Wohnen und Relaxen verschmelzen zu einer funktionalen Einheit. Die Küche ist klassisch in Weiß und Schwarz eingerichtet.  Perfekt für Kochexperimente ausgestattet schaut sie souverän Richtung Wohnzimmer.  Der dezente Hintergrund in Grafit verhilft dem roten Relaxstuhl zum großen Auftritt. Die kleinen Wohnobjekte in leuchtendem Rot und grellem Gelb lockern die Atmosphäre auf und bringen mehr Lebendigkeit im Raum. 
 
 
--   ### Innenarchitektur **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/game-on/Site/3D/04-k_F.jpg" tags="other" title="Innenarchitektur Eingangsbereich"]
+-   ### Innenarchitektur Projekt **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/game-on/Site/3D/04-k_F.jpg" tags="other" title="Innenarchitektur Projekt Eingangsbereich"]
 -   ### Wohndesign Ideen **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/game-on/Site/3D/05-k_F.jpg" tags="other" title="Wohndesign Ideen Eingangsbereich"]
 
 It's not about ideas, it´s about ideas happen. Dieser Spruch ist zum Motto dieser Wohnung geworden. Hier wurde aus einer kreativen Idee  eine ästhetische Innenarchitektur verwirklicht!
 
-[image url="http://hub.acherno.com/svn/game-on/Site/3D/06-k_F.jpg" tags="other" title="Raumdesign Arbeitsplatz"]
-### Raumdesign **Arbeitszimmer**
+[image url="http://hub.acherno.com/svn/game-on/Site/3D/06-k_F.jpg" tags="other" title="Raumdesign Ideen Arbeitsplatz"]
+### Raumdesign Ideen **Arbeitszimmer**
 
 Willkommen im Reich der Kreativen! Kreise aus Metall bilden einen originellen Wandkalender. So werden die wichtigste Termine nicht vergessen. Zwei Arbeitstische, die je nach Funktion oder Tageslaune gewechselt werden können. Viel Aufbewahrungsplatz und gute Lichtverhältnisse lassen den Künstler garantiert nicht schnell erschöpfen.
 

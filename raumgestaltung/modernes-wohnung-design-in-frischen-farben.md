@@ -77,8 +77,8 @@ Die Wand gegenüber ist mit freundlichen Tapeten in Streifenoptik tapeziert. Der
 
 Der große Eingangsbereich beherbergt ausreichend Aufbewahrungsmöglichkeiten für Schuhe, Kleider und weitere Haushaltsutensilien.
 
--   ### Raumgestaltung **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/neochakvana-kombinatsia/Facebook/20-korid_f.jpg" tags="other" title="Raumgestaltung Eingangsbereich"]
+-   ### Raumgestaltung Ideen **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/neochakvana-kombinatsia/Facebook/20-korid_f.jpg" tags="other" title="Raumgestaltung Ideen Eingangsbereich"]
 -   ### Innenarchitektur Projekt **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/neochakvana-kombinatsia/Facebook/19-korid_f.jpg" tags="other" title="Innenarchitektur Projekt Eingangsbereich"]
 -   ### Wohnung Design **Eingangsbereich**

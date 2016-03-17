@@ -28,8 +28,8 @@ Eine kleine idyllische Sitzgruppe in klassischem skandinavischem Design lädt zu
 
 Mediterranes Feeling pur – die Küche als Drehpunkt der Wohnung. Hier gibt es genügend Platz für leidenschaftliches Kochen.
 
-[image url="http://hub.acherno.com/svn/letni-mechti/Site/3D/03-h.JPG" tags="kitchen" title="Raumgestaltung Küche"]
-### Raumgestaltung **Küche**
+[image url="http://hub.acherno.com/svn/letni-mechti/Site/3D/03-h.JPG" tags="kitchen" title="Raumgestaltung Ideen Küche"]
+### Raumgestaltung Ideen **Küche**
 
 Die Raumgestaltung ist im Landhaustil gewählt. Das sorgt für Gemütlichkeit. Bei der Planung der Aufbewahrungsmöglichkeiten wurde die Raumhöhe optimal ausgenutzt. So gibt es sogar einen Vorratsschrank und ausreichend Platz für kleine dekorative Objekte.
 

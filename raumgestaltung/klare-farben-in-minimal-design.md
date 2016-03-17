@@ -12,13 +12,13 @@ featured: true
 ## Klare Farben in **Minimal Design**
 Hotel – nicht nur ein Übernachtungs- und Verpflegungsbetrieb für Gäste gegen Geld, sondern eine Privatsphäre auf Zeit. Einen Ort der Geborgenheit, wie Zuhause.
 
-[image url="http://hub.acherno.com/svn/hotel-001/Facebook/1.10-ap-hol_f.jpg" tags="livingroom" title="Wohndesign Apartment Wohnbereich"]
-### Wohndesign **Apartment Wohnbereich**
+[image url="http://hub.acherno.com/svn/hotel-001/Facebook/1.10-ap-hol_f.jpg" tags="livingroom" title="Raumdesign Ideen Apartment Wohnbereich"]
+### Raumdesign Ideen **Apartment Wohnbereich**
 
 Klare Linien und Farben, reduzierte Einrichtung – Minimalismus in seiner schönsten Form. Einzig die roten Wohnaccessoires setzten Akzente.
 
-[image url="http://hub.acherno.com/svn/hotel-001/Site/3D/1.02-ap-hol_f.bmp" tags="livingroom" title="Raumgestaltung Apartment Wohnbereich"]
-### Raumgestaltung **Apartment Wohnbereich**
+[image url="http://hub.acherno.com/svn/hotel-001/Site/3D/1.02-ap-hol_f.bmp" tags="livingroom" title="Raumgestaltung Ideen Apartment Wohnbereich"]
+### Raumgestaltung Ideen **Apartment Wohnbereich**
 
 Ein großzügig geschnittenes Wohnzimmer, das durch unsere funktionalen Qualitätsmöbel ein Maximum an Komfort und Behaglichkeit für seine Gäste bereit hält.
 
@@ -26,13 +26,13 @@ Eine extravagante Spiralleuchte über dem stylischen Couchtisch, die Fotoleinwä
 
 Der Farbcode in hellgrau, weiß und Grafit schmeichelt deiner Seele - Erholung pur!
 
-[image url="http://hub.acherno.com/svn/hotel-001/Facebook/1.11-ap-hol_f.jpg" tags="livingroom" title="Raumdesign Apartment Wohnzimmer"]
-### Raumdesign **Apartment Wohnzimmer**
+[image url="http://hub.acherno.com/svn/hotel-001/Facebook/1.11-ap-hol_f.jpg" tags="livingroom" title="Raumdesign Ideen Apartment Wohnzimmer"]
+### Raumdesign Ideen **Apartment Wohnzimmer**
 
 Der helle und luftige Charakter dieses Hotelapartments, wird durch den hochwertigen Bodenbelag in Weiß und die funktionale Möbelierung unterstrichen.
 
-[image url="http://hub.acherno.com/svn/hotel-001/Facebook/2.17-ap-spalnq_f.jpg" tags="bedroom" title="Einrichtung Apartment Schlafzimmer"]
-### Einrichtung **Apartment Schlafzimmer**
+[image url="http://hub.acherno.com/svn/hotel-001/Facebook/2.17-ap-spalnq_f.jpg" tags="bedroom" title="Inneneinrichtung Apartment Schlafzimmer"]
+### Inneneinrichtung **Apartment Schlafzimmer**
 
 Unserem Einrichtungsstyle folgend haben wir auch das Schlafzimmer in den Farben Grafit, Weiß und Rot gehalten. Um das intime Moment zu bewahren haben wir dem Rot mehr Raum gelassen.
 

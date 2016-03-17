@@ -113,8 +113,8 @@ Eine fantasievolle bunte Welt, die Kinderherzen höher schlagen lässt. Zitronen
     [image url="http://hub.acherno.com/svn/klasika-v-janra/Facebook/36-d_f.jpg" tags="nursery" title="Wohnideen Kinderzimmer"]
 -   ### Innenarchitektur Ideen **Kinderzimmer**
     [image url="http://hub.acherno.com/svn/klasika-v-janra/Facebook/37-d_f.jpg" tags="nursery" title="Innenarchitektur Ideen Kinderzimmer"]
--   ### Raumdesign **Kinderzimmer**
-    [image url="http://hub.acherno.com/svn/klasika-v-janra/Facebook/35-d_f.jpg" tags="nursery" title="Raumdesign Kinderzimmer"]
+-   ### Raumdesign Ideen **Kinderzimmer**
+    [image url="http://hub.acherno.com/svn/klasika-v-janra/Facebook/35-d_f.jpg" tags="nursery" title="Raumdesign Ideen Kinderzimmer"]
 
 Das kindgerechte Mobiliar ist farblich passend gestrichen und bietet genug Stauraum und Flexibilität für jede Gelegenheit! 
 

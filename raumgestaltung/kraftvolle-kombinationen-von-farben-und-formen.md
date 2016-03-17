@@ -23,8 +23,8 @@ Der Acherno Raumteiler in Grafit ist eindeutig der Hingucker in diesem Raum. Ein
 
 Ein edler Kamin und geschmiedete, gusseiserne Leuchter verbinden rustikale Gemütlichkeit mit modernem Wohlfühlambiente. Perfekt ergänzt wird diese  Vision mit einer graphitfarbenen 3D Wand, in deren Mitte das Fernsehergerät untergebracht ist. 
 
-[image url="http://hub.acherno.com/svn/kaleydoskop/Facebook/05_h-f.jpg" tags="livingroom" title="Raumgestaltung Wohnzimmer"]
-### Raumgestaltung **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/kaleydoskop/Facebook/05_h-f.jpg" tags="livingroom" title="Raumgestaltung Ideen Wohnzimmer"]
+### Raumgestaltung Ideen **Wohnzimmer**
 
 Ein Ledersofa in warmem Braun bildet die Basis für das ausbalancierte Farbkonzept des Wohnzimmers. Nach einem harten Tag ist dies genau der richtige Ort sich zu entspannen.
 
@@ -33,8 +33,8 @@ Ein Ledersofa in warmem Braun bildet die Basis für das ausbalancierte Farbkonze
 
 Die moderne Eckküche in strahlendem Weiß mit schwarzen Türgriffen ist der Traum jedes Hobbykochs. Hier ist stets alles griffbereit: modernste Küchengeräte, ausreichende Arbeitsfläche und eine optimale Ausleuchtung. Selbstverständlich alles von unserer Fertigung!
 
-[image url="http://hub.acherno.com/svn/kaleydoskop/Facebook/10_k.jpg" tags="kitchen" title="Raumgestaltung Essbereich"]
-### Raumgestaltung **Essbereich**
+[image url="http://hub.acherno.com/svn/kaleydoskop/Facebook/10_k.jpg" tags="kitchen" title="Raumgestaltung Ideen Essbereich"]
+### Raumgestaltung Ideen **Essbereich**
 
 Himmelblau – eine Farbe zum Träumen. Vorhänge und Tischläufer, Wandbilder und Fliesenmosaik - überall finden wir diese wunderschöne Farbe, die  perfekt mit dem Weiß der Küche harmoniert. Die Sitzmöbel in freundlichem Gelb, Türkis und klassichem Schwarz lockern das duale Farbmuster auf und laden zum Genießen ein.
 
@@ -46,8 +46,8 @@ Eine Raumgestaltung im Asia – Style mit den typischen Farben und Formen.  Schl
 
 -   ### Wohnideen **Schlafzimmer**
     [image url="http://hub.acherno.com/svn/kaleydoskop/Facebook/22_s.jpg" tags="bedroom" title="Wohnideen Schlafzimmer"]
--   ### Raumgestaltung **Schlafzimmer**
-    [image url="http://hub.acherno.com/svn/kaleydoskop/Facebook/24_s.jpg" tags="bedroom" title="Raumgestaltung Schlafzimmer"]
+-   ### Raumgestaltung Ideen **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/kaleydoskop/Facebook/24_s.jpg" tags="bedroom" title="Raumgestaltung Ideen Schlafzimmer"]
 
 Auch die gegenüberliegende Wand haben wir in Wasabi getaucht und mit einem Fernseher garniert.
 
@@ -56,8 +56,8 @@ Auch die gegenüberliegende Wand haben wir in Wasabi getaucht und mit einem Fern
 
 Farbenfroh – ein Kinderzimmer, das in heiteren Farben eingerichtet ist. Türkis, Gelb, Braun, Schwarz und Weiß sind die Farben, die das Design dieses Zimmers bestimmen. Funktionale Qualitätsmöbel aus dem Hause Acherno bieten den nötigen Stauraum und ein Schreibtisch genug Arbeitsfläche für die Hausaufgaben.
 
--   ### Raumgestaltung **Kinderzimmer**
-    [image url="http://hub.acherno.com/svn/kaleydoskop/Site/3D/04-d_f..jpg" tags="nursery" title="Raumgestaltung Kinderzimmer"]
+-   ### Raumgestaltung Ideen **Kinderzimmer**
+    [image url="http://hub.acherno.com/svn/kaleydoskop/Site/3D/04-d_f..jpg" tags="nursery" title="Raumgestaltung Ideen Kinderzimmer"]
 -   ### Wohnung Design **Kinderzimmer**
     [image url="http://hub.acherno.com/svn/kaleydoskop/Site/3D/05-d_f..jpg" tags="nursery" title="Wohnung Design Kinderzimmer"]
  

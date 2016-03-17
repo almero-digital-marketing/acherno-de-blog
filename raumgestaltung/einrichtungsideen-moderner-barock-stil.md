@@ -64,8 +64,8 @@ Auch hier finden wir die Farbkombination Schwarz, Weiß und Gold.  Wohnaccessoir
 
 Die Wände sind mit wunderschönen Tapeten in Rautenmuster bedeckt. Vor den Fenstern hängen noble, blickdichte Vorhänge. Zwei Spiegelelemente, die an der Decke und der Bettwand angebracht sind sorgen für eine faszinierende optische Illusion. Das Bett – ein wahrlich königlicher Ruheplatz.
 
-[image url="http://hub.acherno.com/svn/neo-barokova-afera/Facebook/21-detska_f.jpg" tags="nursery" title="Raumgestaltung Kinderzimmer"]
-### Raumgestaltung **Kinderzimmer**
+[image url="http://hub.acherno.com/svn/neo-barokova-afera/Facebook/21-detska_f.jpg" tags="nursery" title="Raumgestaltung Ideen Kinderzimmer"]
+### Raumgestaltung Ideen **Kinderzimmer**
 
 Zartes Lila und Rosa, wie die Seele eines Mädchens – großflächig angebrachte Orchideen und Wohntextilien in Lila, prägen das Bild dieses Zimmers. Eine Raumgestaltung, die in schlichtem Weiß mit goldenen Ornamenten besonders edel wirkt.
 

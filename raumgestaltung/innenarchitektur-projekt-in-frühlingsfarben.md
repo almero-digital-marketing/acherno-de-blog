@@ -22,8 +22,8 @@ Die moderne Aufteilung der Räume macht hier einen offenen Wohnraum möglich. Di
 
 Die Raumgestaltung ist in elegantem Beige gehalten. Klare Linien und fließende Stoffe wirken in Kombination mit dem heiteren Flieder und dem freundlichen Gelbgrün nicht so konstrastreich. Die Sitzlandschaft ist großzügig und bietet den nötigen Sitzkomfort. Wohnaccessoires in Silber bringen die Farben zusätzlich zum Strahlen.
 
-[image url="http://hub.acherno.com/svn/prolet/Facebook/02-h_f.jpg" tags="livingroom" title="Raumgestaltung Wohnzimmer"]
-### Raumgestaltung **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/prolet/Facebook/02-h_f.jpg" tags="livingroom" title="Raumgestaltung Ideen Wohnzimmer"]
+### Raumgestaltung Ideen **Wohnzimmer**
 
 Die Sideboards, die Regalwand und der Beistelltisch sind in klassischem Weiß und Beige gehalten.
 
@@ -32,20 +32,20 @@ Die Sideboards, die Regalwand und der Beistelltisch sind in klassischem Weiß un
 
 Charmant! Der weiße Esstisch ist in unmittelbarer Nähe des Sofas platziert. Drei Hängelampen in Weiß sorgen für eine stimmungsvolle Atmosphäre.
 
--   ### Wohndesign **Essbereich**
-    [image url="http://hub.acherno.com/svn/prolet/Facebook/05-h_f.jpg" tags="kitchen" title="Wohndesign Essbereich"]
+-   ### Wohndesign Ideen **Essbereich**
+    [image url="http://hub.acherno.com/svn/prolet/Facebook/05-h_f.jpg" tags="kitchen" title="Wohndesign Ideen Essbereich"]
 -   ### Raumgestaltung **Essbereich**
     [image url="http://hub.acherno.com/svn/prolet/Facebook/07-h_f.jpg" tags="kitchen" title="Raumgestaltung Essbereich"]
 
 Ein Hingucker sind die Stühle in modernem Ergo Design, die nicht nur toll aussehen sondern sehr komfortabel sind.
 
-[image url="http://hub.acherno.com/svn/prolet/Facebook/08-k_f.jpg" tags="kitchen" title="Raumdesign Küche"]
-### Raumdesign **Küche**
+[image url="http://hub.acherno.com/svn/prolet/Facebook/08-k_f.jpg" tags="kitchen" title="Raumdesign Ideen Küche"]
+### Raumdesign Ideen **Küche**
 
 Außergewöhnliche Formen verlangen nach außergewöhnlichen Lösungen! Diese Küche hat nur einen rechten Winkel.  Wir haben sie trotzdem zu einer funktionalen Traumküche in modernem Design verwandelt.
 
--   ### Raumgestaltung **Küche**
-    [image url="http://hub.acherno.com/svn/prolet/Facebook/10-k_f.jpg" tags="kitchen" title="Raumgestaltung Küche"]
+-   ### Raumgestaltung Ideen **Küche**
+    [image url="http://hub.acherno.com/svn/prolet/Facebook/10-k_f.jpg" tags="kitchen" title="Raumgestaltung Ideen Küche"]
 -   ### Wohnideen **Küche**
     [image url="http://hub.acherno.com/svn/prolet/Facebook/09-k_f.jpg" tags="kitchen" title="Wohnideen Küche"]
 
@@ -58,8 +58,8 @@ Bezaubernd! Ein Eingangsbereich der Extraklasse. Der Trend bleibt - zarte cremig
 
 -   ### Wohnung Design **Eingangsbereich**
     [image url="http://hub.acherno.com/svn/prolet/Facebook/13-a_f.jpg" tags="other" title="Wohnung Design Eingangsbereich"]
--   ### Raumgestaltung **Eingangsbereich**
-    [image url="http://hub.acherno.com/svn/prolet/Facebook/14-a_f.jpg" tags="other" title="Raumgestaltung Eingangsbereich"]
+-   ### Raumgestaltung Ideen **Eingangsbereich**
+    [image url="http://hub.acherno.com/svn/prolet/Facebook/14-a_f.jpg" tags="other" title="Raumgestaltung Ideen Eingangsbereich"]
 
 Zwei körpergroße Wandspiegel lassen den Raum nicht nur größer wirken, sondern machen das morgendlichen Anziehen zu einem Vergnügen. 
 
@@ -68,8 +68,8 @@ Zwei körpergroße Wandspiegel lassen den Raum nicht nur größer wirken, sonder
 
 Frisch und modern – hier ist nichts zu viel. Das apfelgrüne Schlafzimmer sticht nicht nur mit seiner Farbe und dem schönen Deckendesign heraus. Die weißen Möbel in puristischem Stil machen aus diesem Raum einen wahren Ruhepol.
 
--   ### Innenarchitektur **Schlafzimmer**
-    [image url="http://hub.acherno.com/svn/prolet/Facebook/17-sg_f.jpg" tags="bedroom" title="Innenarchitektur Schlafzimmer"]
+-   ### Innenarchitektur Projekt **Schlafzimmer**
+    [image url="http://hub.acherno.com/svn/prolet/Facebook/17-sg_f.jpg" tags="bedroom" title="Innenarchitektur Projekt Schlafzimmer"]
 -   ### Raumgestaltung **Schlafzimmer**
     [image url="http://hub.acherno.com/svn/prolet/Facebook/18-sg_f.jpg" tags="bedroom" title="Raumgestaltung Schlafzimmer"]
 -   ### Wohnideen **Schlafzimmer**
@@ -77,8 +77,8 @@ Frisch und modern – hier ist nichts zu viel. Das apfelgrüne Schlafzimmer stic
 
 Die weiße Schminkkommode mit dem großen Spiegel ist der Traum jeder Frau. Hier fühlt sie sich wie auf einem Filmset in Hollywood. Lass die Luftballons steigen und das Design der Lampen erstrahlen!
 
-[image url="http://hub.acherno.com/svn/prolet/Facebook/21-bg_f.jpg" tags="bathroom" title="Raumgestaltung Badezimmer"]
-### Raumgestaltung **Badezimmer**
+[image url="http://hub.acherno.com/svn/prolet/Facebook/21-bg_f.jpg" tags="bathroom" title="Raumgestaltung Ideen Badezimmer"]
+### Raumgestaltung Ideen **Badezimmer**
 
 Bühne frei! Dieses kleine Badezimmer in Lemongelb ist eindeutig die Frühlingserfrischung des Jahres. Dekorative Relieffliesen in modernem Design und weiße Badmöbel machen das Frühlingserwachen komplett.
 
@@ -89,22 +89,22 @@ Bühne frei! Dieses kleine Badezimmer in Lemongelb ist eindeutig die Frühlingse
 
 Eine Duschabtrennung mit floralem Ornament verzaubert dich. 
 
-[image url="http://hub.acherno.com/svn/prolet/Facebook/25-sm_f.jpg" tags="bedroom" title="Wohndesign Gästeschlafzimmer"]
-### Wohndesign **Gästeschlafzimmer**
+[image url="http://hub.acherno.com/svn/prolet/Facebook/25-sm_f.jpg" tags="bedroom" title="Wohndesign Ideen Gästeschlafzimmer"]
+### Wohndesign Ideen **Gästeschlafzimmer**
 
 Ein Schlafzimmer in dem sich besonders die Herren der Schöpfung sehr wohl fühlen werden. Trotz violetter Wände wirkt der Raum nicht feminin dank der satten Wohntextilien in dunkelgrau und Silber. 
 
--   ### Raumgestaltung **Gästeschlafzimmer**
-    [image url="http://hub.acherno.com/svn/prolet/Facebook/27-sm_f.jpg" tags="bedroom" title="Raumgestaltung Gästeschlafzimmer"]
+-   ### Raumgestaltung Ideen **Gästeschlafzimmer**
+    [image url="http://hub.acherno.com/svn/prolet/Facebook/27-sm_f.jpg" tags="bedroom" title="Raumgestaltung Ideen Gästeschlafzimmer"]
 -   ### Wohnideen **Gästeschlafzimmer**
     [image url="http://hub.acherno.com/svn/prolet/Facebook/24-sm_f.jpg" tags="bedroom" title="Wohnideen Gästeschlafzimmer"]
--   ### Innenarchitektur **Gästeschlafzimmer**
-    [image url="http://hub.acherno.com/svn/prolet/Facebook/26-sm_f.jpg" tags="bedroom" title="Innenarchitektur Gästeschlafzimmer"]
+-   ### Innenarchitektur Ideen **Gästeschlafzimmer**
+    [image url="http://hub.acherno.com/svn/prolet/Facebook/26-sm_f.jpg" tags="bedroom" title="Innenarchitektur Ideen Gästeschlafzimmer"]
 
 Trendy Wandregale in quadratischen Formen wirken nicht nur dekorativ, sondern haben eine praktische Aufbewahrungsfunktion. Das Licht ist dank der römischen Vorhänge sanft und beruhigend. Schwarze Laternenlampen runden stilvoll ab.
 
-[image url="http://hub.acherno.com/svn/prolet/Facebook/31-bm_f.jpg" tags="bathroom" title="Innendesign Zweite Badezimmer"]
-### Innendesign **Zweite Badezimmer**
+[image url="http://hub.acherno.com/svn/prolet/Facebook/31-bm_f.jpg" tags="bathroom" title="Innendesign Ideen Zweite Badezimmer"]
+### Innendesign Ideen **Zweite Badezimmer**
 
 Back to the Basics – Ein Spruch, der ganz auf dieses Badezimmer zutrifft. Fliesen in Beige und Braun lassen das Zimmer stylisch wirken.
 

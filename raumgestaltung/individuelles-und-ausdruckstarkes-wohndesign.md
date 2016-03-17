@@ -19,13 +19,13 @@ Hier wirken moderne, unüblichen Formen in Kombination mit ausdrucksstarken Farb
 
 Ein Wohnzimmer so großzügig und luftig wie ein Salon. Ihre dankbare Größe und der extravagante Schnitt erlauben ein Spiel von Formen und Farben. Wohnzimmer, Esszimmer und Küche sind vereint, aber doch auf verschiedenen Niveaus platziert und einzeln gegliedert. Oben befinden sich Küche - und Essbereich und im unteren Bereich ist eine gemütliche Wohnloft eingerichtet, die mit einem Kamin für mehr Behaglichkeit ausgestattet ist. Zwei verschiedene Bodenbeläge markieren die zwei Wohnbereiche. Oben ein edler weißer Marmor und unten ein hochwertiges dunkles Laminat. Die Grundfarben im Raum sind ein softes Champagne und ein warmes Schokobraun.
 
-[image url="http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Facebook/2.21-h_f.jpg" tags="livingroom" title="Raumgestaltung Wohnzimmer"]
-### Raumgestaltung **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Facebook/2.21-h_f.jpg" tags="livingroom" title="Raumgestaltung Ideen Wohnzimmer"]
+### Raumgestaltung Ideen **Wohnzimmer**
 
 Eine bezaubernde, abgehängte Decke, perfekt erleuchtet von glamourösen Pendelleuchten setzen den Wohn und Entertainmentbereich in Szene. Stilvolle Nischen ersetzen eine schwerfällige Wohnwand.
 
-[image url="http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Facebook/2.22-h_f.jpg" tags="livingroom" title="Raumdesign Wohnzimmer"]
-### Raumdesign **Wohnzimmer**
+[image url="http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Facebook/2.22-h_f.jpg" tags="livingroom" title="Raumdesign Ideen Wohnzimmer"]
+### Raumdesign Ideen **Wohnzimmer**
 
 Die Möbel sind modern mit klaren Linien. Das große weiße Ecksofa bietet ausreichend Sitzplatz für unterhaltsame Fernseherabende. Große Wurfkissen und Polsterhocker in frischem Grün bringen eine Brise Frühling in den Raum. Der Wohnzimmertisch ist Weiß und in einer runden fliesenden  Form  designt. Im Hintergrund sieht man den Esstisch – ein Gefühl, als ob man sich in einem Pianobar befindet. Man kann fast die Musik hören. Alles von Acherno designt und mit viel Liebe zum Detail angefertigt!
 
@@ -34,8 +34,8 @@ Die Möbel sind modern mit klaren Linien. Das große weiße Ecksofa bietet ausre
 
 Ein gewagtes Design in Purpur, Weiß und Schwarz. Eine ovale Hängedecke mit stylischen Pendelleuchten wölbt sich über die kleine Inselbar. Klassische Küchenmöbel in Hochglanz mit modernsten Einbaugeräten sorgen für genügend Freiraum für alle Kochexperimente.
 
-[image url="http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Site/3D/2.04-h_F.jpg" tags="kitchen" title="Raumgestaltung Küche"]
-### Raumgestaltung **Küche**
+[image url="http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Site/3D/2.04-h_F.jpg" tags="kitchen" title="Raumgestaltung Ideen Küche"]
+### Raumgestaltung Ideen **Küche**
 
 Hier können sie ihre Gäste auf einen Cocktail einladen oder einfach mit den Liebsten zusammen frühstücken. 
 
@@ -54,7 +54,7 @@ Das Treppenhaus ist in Weiß gestrichen. Drei abstrakte Ölgemälde setzten gelu
 
 Sanfter Sand und warmes Koralrot – diese Farbkombination verleiht diesem Badezimmer eine exotische Note und lässt ihr Design bei ihren Gästen unvergesslich bleiben.
 
-[image url="http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Site/3D/3.01-t_F.jpg" tags="bathroom" title="Wohndesign Gästetoillette"]
-### Wohndesign **Gästetoillette**
+[image url="http://hub.acherno.com/svn/vsichki-cvetya-na-shanghai/Site/3D/3.01-t_F.jpg" tags="bathroom" title="Wohndesign Ideen Gästetoillette"]
+### Wohndesign Ideen **Gästetoillette**
 
 Eine Optische Illusion – ein schmaler Spiegel in der Ecke der Waschnische verleiht Tiefe. Fliesen in verschiedenen Formen strecken den Raum zusätzlich. Wie in einem Spiegelkabinett auf dem Jahrmarkt.

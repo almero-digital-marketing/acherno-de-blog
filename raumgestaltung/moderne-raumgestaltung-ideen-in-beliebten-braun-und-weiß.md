@@ -1,7 +1,7 @@
 ---
 layout: /blog/post.ect
 title: '(Moderne Raumgestaltung Ideen) in beliebtem Braun und Weiß'
-description: 'Für die Fans des klassischen Interior, die aber nicht auf langweilige Raumlösungen stehen, ist dieses Interior Design das Beispiel für eine gelungene Kombination von universellen, warmen Brauntönen und kaltem, neutralem Weiß! '
+description: 'Für die Fans des klassischen Interior, die aber nicht auf langweilige Raumlösungen stehen, ist dieses Wohndesign das Beispiel für eine gelungene Kombination von universellen, warmen Brauntönen und kaltem, neutralem Weiß! '
 date: 2015-04-14
 cover: 'http://hub.acherno.com/svn/sybiratelen/Facebook/02-h_f.jpg'
 author: Vasilena Habermann
@@ -9,7 +9,7 @@ legacy: '/interior/modernes-interior-design-in-beliebten-braun-und-weiß.html'
 tags: [private, modern]
 ---
 ## **Braun und Weiß** für ein warmes **Wohnambiente**
-Für die Fans des klassischen Interior, die aber nicht auf langweilige Raumlösungen stehen, ist dieses Interior Design das Beispiel für eine gelungene Kombination von universellen, warmen Brauntönen und kaltem, neutralem Weiß! 
+Für die Fans des klassischen Interior, die aber nicht auf langweilige Raumlösungen stehen, ist dieses Wohndesign das Beispiel für eine gelungene Kombination von universellen, warmen Brauntönen und kaltem, neutralem Weiß! 
 
 [image url="http://hub.acherno.com/svn/sybiratelen/Facebook/02-h_f.jpg" tags="livingroom" title="Raumgestaltung Ideen Wohnzimmer"]
 ### Raumgestaltung Ideen **Wohnzimmer**
