@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: 'Raumgestaltung Ideen Sommerhaus in (Türkis und Weiß)'
+title: 'Raumgestaltung Sommerhaus in (Türkis und Weiß)'
 description: 'Der Traum von der Strandvilla – ein Ferienhaus, am Strand mit romantischem Flair. Das ist der perfekte Ort für herrlich warme und entspannende  Sommertage.'
 date: 2015-08-24
 cover: 'http://hub.acherno.com/svn/letni-mechti/Site/3D/01-h.jpg'

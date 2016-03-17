@@ -107,7 +107,7 @@ Ein Jugendzimmer im Retrostil -  neutrales Olivengrün gepaart mit Akzenten in S
     [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/28-d1_f.jpg" tags="nursery" title="Raumgestaltung Ideen Jugendzimmer"]
 -   ### Wohnung Design **Jugendzimmer**
     [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/29-d1_f.jpg" tags="nursery" title="Wohnung Design Jugendzimmer"]
--   ### Raumdesign Ideen Jugendzimmer
+-   ### Raumdesign Ideen **Jugendzimmer**
     [image url="http://hub.acherno.com/svn/vienski-vals/Facebook/30-d1_f.jpg" tags="nursery" title="Raumdesign Ideen Jugendzimmer"]
 
 Zwei Sitzsäcke und gepolsterte Wände machen aus dem Jugendzimmer eine Lounge zum chillen. Die Stehleuchte im Stativ Design ist der Blickfang schlechthin. 
