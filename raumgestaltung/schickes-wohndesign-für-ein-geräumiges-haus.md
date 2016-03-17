@@ -60,7 +60,7 @@ Ein bühnenreifer Eingangsraum, wie ein prunkvolles Foyer im Theater! Marmorwei�
 Sehr clean und vollendet aber dank der großen Fenster, die das Grüne von außen nach innen transportieren, nicht zu kühl. Das Treppenhaus ist in weißem Stein, Metall und Glas gehalten.
 
 [image url="http://hub.acherno.com/svn/prostor/Facebook/17-o_f.jpg" tags="livingroom" title="Innenarchitektur Projekt ovaler Salon"]
-### Innenarchitektur Projekt ovaler **Salon**
+### Innenarchitektur Projekt **ovaler Salon**
 
 Unübliche Formen und  viel Platz - Ein Zimmer, das jeder haben will. Hier dürfen sich die Kinder austoben oder die Eltern sich beim Buch lesen entspannen. Oder einfach mal alle zusammen eine glückliche Zeit verbringen, Spaß haben und die Gemeinsamkeit genießen.
 
@@ -112,7 +112,7 @@ Relax- und Spaßzone mit Fernseher darf natürlich nicht fehlen um mit den Kumpe
 Das zweite Wohnzimmer – ein stillvoller und gemütlicher Wohnbereich, der der Wohnlinie des gesamten Hauses folgt. Klare Linien und Formen in Kombination mit neutralen Tönen konsequent umgesetzt.
 
 [image url="http://hub.acherno.com/svn/prostor/Facebook/24-11-et3-h-F.jpg" tags="livingroom" title="Raumdesign Ideen zweites Wohnzimmer"]
-### Raumdesign Ideen zweites **Wohnzimmer**
+### Raumdesign Ideen **zweites Wohnzimmer**
 
 Ein schönes, gut gepolstertes Sofa in Creme und ein Beistelltisch in geometrischer Form und drei weiße Deckenleuchten definieren den Wohnbereich. Die weiße Wand hinter dem Sofa ist mit interessanten Nischen in dunklem Furnier verziehrt. Der runde Esstisch in simplem Design ist vollkommen ausreichend für den Bedarf einer vier köpfigen Familie. Hier liegt das Augenmerk auf Komfort und Qualität. Die Einrichtung kommt selbstverständlich von Acherno.
 
