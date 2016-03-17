@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: ' Innenarchitektur (Familienglück)'
+title: ' Innenarchitektur Ideen (Familienglück)'
 description: 'Ein warmes Gefühl überkommt dich. Weiß, Holzoberflächen und eine sehr gut geplante Raumgestaltung. Ein hochelegantes Ambiente. Das ist das Heim deiner Träume. Hier kannst du im Kreis der Familie und unter Freunden jeden Tag dein persönliches Glück erleben.'
 date: 2016-01-31
 firstPage: true

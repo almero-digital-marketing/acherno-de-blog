@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: '(Wohndesign) in Violett und Dunkelgrau'
+title: '(Wohndesign Ideen) in Violett und Dunkelgrau'
 description: 'Der Champagner ist kalt gestellt! Ein Wohnzimmer, das dich an eine stylische Bar in New York erinnert. Dank unserer kreativen Interior- und Möbelesigner haben wir auf kleinem Raum ein originelles Wohnung Design kreiert, das keine Wünsche offen lässt.'
 date: 2015-03-30
 firstPage: true

@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: '(Raumgestaltung) in vielen Farben'
+title: '(Raumgestaltung Ideen) in vielen Farben'
 description: 'Der Traum jedes Wohnung Designers - ein großes Apartment mit vielen Gestaltungsmöglichkeiten und Kunden die verzückt ihr neues Traumheim beziehen!'
 date: 2015-06-01
 author: Vasilena Habermann

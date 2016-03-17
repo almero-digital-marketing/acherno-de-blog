@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: 'Wohnen im (skandinavischen Design)'
+title: 'Wohnen im (skandinavischen Raumdesign)'
 description: 'Skandinavien mit seinem rauen, kalten Klima hat ein einzigartiges Interior Design geschaffen. Eines, das mit seinen klaren Linien, den natürlichen Materialien und den warmen Tönen eine besonders einladende und warme Stimmung schafft. Ein Interior das Wohlfühlglück verspricht!'
 date: 2015-07-06
 firstPage: true

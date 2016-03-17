@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: '(Inneneinrichtung Wohnung) mit ungewöhnlichem Grundriss'
+title: '(Wohnung Design) mit ungewöhnlichem Grundriss'
 description: 'Ein Innendesign für eine Wohnung mit außergewöhnlichem Grundriss ist sicherlich eine große  Herausforderung für jeden Designer. Hier kannst du sehen, was passieren kann, wenn unkonventionelle Bauformen und luxuriöse Einrichtung aufeinander treffen.'
 date: 2015-06-01
 cover: 'http://hub.acherno.com/svn/kod-cherveno/Facebook/09.1-b.jpg'

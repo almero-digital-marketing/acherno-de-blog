@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: '(Raumgestaltung) in warmen Erdtönen'
+title: '(Raumgestaltung Ideen) in warmen Erdtönen'
 description: 'Eine Raumgestaltung, die jedermanns Geschmack trifft! Eine Farbauswahl wie ein Sonnenuntergang in warmen Erd- und Naturtönen. Akzente in Maisgelb, Grün und Flieder lockern das Raumkonzept auf und lassen keine Monotonie aufkommen. '
 date: 2015-03-06
 firstPage: true

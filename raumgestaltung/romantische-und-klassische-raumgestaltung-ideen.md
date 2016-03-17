@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: 'Romantische und (klassische Raumgestaltung)'
+title: 'Romantische und klassische (Raumgestaltung Ideen)'
 description: 'In den letzten Jahren erfreuen sich  zeitgenössische Interpretationen von klassischem Wohnung Design immer größerer Beliebtheit. Immer mehr Innendesign Liebhaber entscheiden sich für zarte Farben, Pastelltöne und klassische Formen. Durch die unzähligen Gestaltungsmöglichkeiten lässt dieses zeitlose Wohnung Design genug Raum für eine individuelle Note.'
 date: 2015-06-23
 cover: 'http://hub.acherno.com/svn/gorska-feya/Site/3D/02-h-f.jpg'
