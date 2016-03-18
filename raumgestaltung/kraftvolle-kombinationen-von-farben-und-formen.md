@@ -13,7 +13,7 @@ featured: true
 ## Ein Kaleidoskop der **Farben und Formen**
 Mutig kombinierte, kraftvolle Farben und markante Formen. Praktische Raumgestaltung und modernes Wohnung Design lassen dich dieses Ambiente nicht mehr vergessen.
 
-[image url="http://hub.acherno.com/svn/kaleydoskop/Site/3D/06-h_f..jpg" tags="livingroom" title="Innenarchitektur Projekt Wohnzimmer"]
+[image url="http://hub.acherno.com/svn/kaleydoskop/Site/3D/06-h_f.jpg" tags="livingroom" title="Innenarchitektur Projekt Wohnzimmer"]
 ### Innenarchitektur Projekt **Wohnzimmer**
 
 Der Acherno Raumteiler in Grafit ist eindeutig der Hingucker in diesem Raum. Ein hochwertiges Laminat in Hellgrau rahmt den Wohnzimmerbereich ein und bildet einen gelungenen Kontrast zu dem verspielten Fliesenmosaik der Küche. Ausgewählte Wohnaccessoires in trendigem Blau, Grün und Braun geben dem Zimmer eine persönliche Note. Die hellbraunen Möbel laden dich zum verweilen ein.
@@ -57,9 +57,9 @@ Auch die gegenüberliegende Wand haben wir in Wasabi getaucht und mit einem Fern
 Farbenfroh – ein Kinderzimmer, das in heiteren Farben eingerichtet ist. Türkis, Gelb, Braun, Schwarz und Weiß sind die Farben, die das Design dieses Zimmers bestimmen. Funktionale Qualitätsmöbel aus dem Hause Acherno bieten den nötigen Stauraum und ein Schreibtisch genug Arbeitsfläche für die Hausaufgaben.
 
 -   ### Raumgestaltung Ideen **Kinderzimmer**
-    [image url="http://hub.acherno.com/svn/kaleydoskop/Site/3D/04-d_f..jpg" tags="nursery" title="Raumgestaltung Ideen Kinderzimmer"]
+    [image url="http://hub.acherno.com/svn/kaleydoskop/Site/3D/04-d_f.jpg" tags="nursery" title="Raumgestaltung Ideen Kinderzimmer"]
 -   ### Wohnung Design **Kinderzimmer**
-    [image url="http://hub.acherno.com/svn/kaleydoskop/Site/3D/05-d_f..jpg" tags="nursery" title="Wohnung Design Kinderzimmer"]
+    [image url="http://hub.acherno.com/svn/kaleydoskop/Site/3D/05-d_f.jpg" tags="nursery" title="Wohnung Design Kinderzimmer"]
  
 Auf der einen Seite eine bunte Bordüre in Gelb, Grau und Schwarz, auf der anderen ein großer Einbauschrank, dessen Türen in den Farben der Bordüre gehalten sind. Textilien in Türkis und Blau runden das Design dieses Jugendzimmers ab.
 
