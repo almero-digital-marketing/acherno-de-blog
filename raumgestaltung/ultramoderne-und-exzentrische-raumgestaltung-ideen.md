@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: 'Ultramoderne und exzentrische (Raumgestaltung Ideen)'
+title: 'Ultramoderne, exzentrische (Raumgestaltung Ideen)'
 description: 'Dieses Apartment könnte seine Adresse überall in der Welt haben –  New York, Berlin, Shanghai oder Tokyo. Sehr stilvoll und modern eingerichtet, befindet sich dieses Apartment im Einklang mit den neuesten Interiortrends und ist ein klares Statement für jeden der im Leben nur das Beste haben will.'
 date: 2015-06-23
 cover: 'http://hub.acherno.com/svn/new-york/Facebook/12.1-h.jpg'
