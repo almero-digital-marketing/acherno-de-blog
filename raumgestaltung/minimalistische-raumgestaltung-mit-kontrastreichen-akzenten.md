@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: '(Minimalistische Raumgestaltung) mit kontrastreichen Akzenten'
+title: '(Raumgestaltung) mit kontrastreichen Akzenten'
 description: 'Ein Kunstwerk! Anders kann man dieses Design nicht benennen. Bei diesem Wohnkonzept treffen klare Linien und einfachen Formen auf ganz viel Zeitgeist!'
 date: 2015-08-05
 cover: 'http://hub.acherno.com/svn/vienski-vals/Facebook/02-h_f.jpg'

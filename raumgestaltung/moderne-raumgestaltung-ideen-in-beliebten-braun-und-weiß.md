@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: '(Moderne Raumgestaltung Ideen) in beliebtem Braun und Weiß'
+title: '(Raumgestaltung Ideen) in beliebtem Braun und Weiß'
 description: 'Für die Fans des klassischen Interior, die aber nicht auf langweilige Raumlösungen stehen, ist dieses Wohndesign das Beispiel für eine gelungene Kombination von universellen, warmen Brauntönen und kaltem, neutralem Weiß! '
 date: 2015-04-14
 cover: 'http://hub.acherno.com/svn/sybiratelen/Facebook/02-h_f.jpg'
