@@ -2,7 +2,7 @@
 layout: /blog/post.ect
 title: 'Innarchitektur, die (die Farbe feiert)'
 description: 'Mut zur Farbe wird belohnt! Ein Projekt, das genau das transportiert. Gekonnt gesetzte Farbakzente, eine reduzierte Basisfarbe und wenig Einrichtung schaffen eine spannende Innenarchitektur.'
-date: 2016-06-07
+date: 2016-06-05
 firstPage: true
 cover: 'http://hub.acherno.com/svn/grim/Facebook/25-Hol_09.jpg'
 author: Vasilena Habermann

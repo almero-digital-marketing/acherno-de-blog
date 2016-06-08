@@ -2,7 +2,7 @@
 layout: /blog/post.ect
 title: 'Grau, aber (nicht farblos)'
 description: 'Schiefergrau, Graphit, warm grey, cool grey, smoke grey, dim grey. Grau ist heute die Trendfarbe. Die Erfolgsgeschichte der Farbe ist nichts Ungewöhnliches. Dank ihrer hervorragenden Eigenschaften geeignet sich Grau bestens als Grundfarbe.'
-date: 2016-06-06
+date: 2016-06-04
 firstPage: true
 cover: 'http://hub.acherno.com/svn/siv-galab/Site/3D/01-h-F.jpg'
 author: Vasilena Habermann
