@@ -22,7 +22,7 @@ Dieses Wohnzimmer vereint Üppigkeit und Luxus mit sachlicher Schlichtheit. Die 
 -   ### Wohnung Design **Wohnzimmer**
     [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/04-h_f.jpg" tags="livingroom" title="Wohnung Design Wohnzimmer"]
 
-Helle Wände und abgehängte Decken mit Beleuchtung stimmen freundlich und laden zum Verweilen ein.    
+Helle Wände und abgehängte Decken mit Beleuchtung stimmen freundlich und laden zum Verweilen ein.
 
 [image url="http://hub.acherno.com/svn/prispivna-pesen/Facebook/05-k_f.jpg" tags="kitchen" title="Raumgestaltung Esszimmer"]
 ### Raumgestaltung **Esszimmer**

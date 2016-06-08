@@ -1,6 +1,6 @@
 ---
 layout: /blog/post.ect
-title: 'Modernes Design für (den Optiker)'
+title: '(Modernes Design) für den Optiker'
 description: 'Der Geschäftserfolg hängt immer mit der Präsentation nach Außen zusammen. Wir stellen Ihnen eine optimale Lösung für Ihr Business vor. Einen Showroom in dem Ihre Produkte bestens präsentiert werden. Ein Meisterwerk unseres Planungsbüros, das ein unverfälschtes Gefühl vom Eleganz und Professionalität souverän umsetzt.'
 date: 2016-06-06
 firstPage: true
